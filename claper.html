@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clappr Fredflix  Player</title>
+    <style>
+        #player {
+            width: 80%;
+            height: 80vh;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="player"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+    <script>
+        // Extracting the M3U8 URL from the query parameter
+        const m3u8Url = new URLSearchParams(window.location.search).get('url');
+        
+        if (m3u8Url) {
+            const player = new Clappr.Player({
+                source: m3u8Url,
+                parentId: '#player',
+                autoPlay: true,
+                width: '100%',
+                height: '100%',
+            });
+        } else {
+            alert('No M3U8 URL provided.');
+        }
+    </script>
+</body>
+</html>

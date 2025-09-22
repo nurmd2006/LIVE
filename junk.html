@@ -1,0 +1,121 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Hungama TV — JS proxy player (client-side)</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+  body{background:#071126;color:#e6f0ff;font-family:system-ui;padding:18px}
+  .wrap{max-width:980px;margin:0 auto}
+  h1{font-size:20px;margin-bottom:8px}
+  .small{color:#bcd2ff;font-size:13px}
+  video{width:100%;height:auto;border-radius:8px;background:#000;display:block;margin-top:12px}
+  .notice{margin-top:10px;padding:10px;border-left:4px solid #7dd3fc;background:rgba(125,211,252,0.04)}
+</style>
+
+<div class="wrap">
+  <h1>Hungama TV — JS-based player</h1>
+  <div class="small">এই প্লেয়ারটি ক্লায়েন্ট-সাইডে উপরের upstream m3u8 ফাইলকে নিয়ে আসে এবং Blob URL হিসেবে প্লে করায়।</div>
+
+  <!-- CONFIG: change this to your upstream m3u8 -->
+  <input id="source" style="width:100%;margin-top:12px;padding:8px;border-radius:6px" 
+         value="https://live.dinesh29.com.np/stream/jiotvplus/hungama/stream_0.m3u8?uid=" />
+
+  <div style="margin-top:8px">
+    <label><input type="checkbox" id="useProxy" /> Use CORS proxy (if direct fetch fails)</label>
+  </div>
+
+  <div style="margin-top:8px">
+    <button id="loadBtn" style="padding:8px 12px;border-radius:6px">Load & Play</button>
+  </div>
+
+  <div class="notice">
+    <strong>Important:</strong> যদি upstream সার্ভার CORS-Allow-Origin না দেয়, direct fetch ব্রাউজার ব্লক করবে। তখন "Use CORS proxy" টিক দিন। প্রোডাকশনে নিজস্ব/lightweight CORS proxy ব্যবহার করুন; public proxies অস্থির। 
+  </div>
+
+  <video id="video" controls playsinline></video>
+  <pre id="log" style="margin-top:10px;color:#cfe9ff;display:none"></pre>
+</div>
+
+<!-- hls.js -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.4.0/dist/hls.min.js"></script>
+<script>
+(async function(){
+  const btn = document.getElementById('loadBtn');
+  const srcInput = document.getElementById('source');
+  const useProxy = document.getElementById('useProxy');
+  const log = document.getElementById('log');
+
+  // OPTIONAL: a simple public CORS proxy (not for production)
+  // If you have your own CORS proxy, replace with your URL, e.g. "https://myproxy.example.com/"
+  const PUBLIC_CORS = "https://cors.bridged.cc/"; // lightweight option; may rate-limit
+
+  function writeLog(txt){
+    log.style.display = 'block';
+    log.textContent += txt + "\n";
+  }
+
+  async function fetchText(url){
+    const resp = await fetch(url, { method: 'GET', mode: 'cors' });
+    if (!resp.ok) throw new Error('Fetch failed: ' + resp.status);
+    return resp.text();
+  }
+
+  async function loadAndPlay(url){
+    const video = document.getElementById('video');
+    try {
+      writeLog('Fetching playlist: ' + url);
+      const playlistText = await fetchText(url);
+      writeLog('Playlist fetched, length: ' + playlistText.length);
+
+      // Create a Blob for the playlist so the player sees a local object URL.
+      // This hides the upstream URL from the simple "open the m3u8 file" view.
+      const blob = new Blob([playlistText], { type: 'application/vnd.apple.mpegurl' });
+      const blobUrl = URL.createObjectURL(blob);
+      writeLog('Created blob URL for playlist (temporary): ' + blobUrl);
+
+      // Use hls.js to play the blob URL
+      if (Hls.isSupported()) {
+        if (window._hls) { window._hls.destroy(); window._hls = null; }
+        const hls = new Hls({ enableWorker: true, debug: false });
+        window._hls = hls;
+        hls.loadSource(blobUrl);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED, function() {
+          video.play().catch(()=>{});
+          writeLog('Manifest parsed. Playing...');
+        });
+        hls.on(Hls.Events.ERROR, function(evt, data){
+          writeLog('HLS error: ' + data.type + ' - ' + data.details);
+        });
+      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = blobUrl;
+        video.addEventListener('loadedmetadata', function(){ video.play().catch(()=>{}); });
+      } else {
+        alert('HLS not supported in this browser');
+      }
+    } catch (err) {
+      writeLog('Error: ' + err.message);
+      throw err;
+    }
+  }
+
+  btn.addEventListener('click', async () => {
+    log.textContent = '';
+    let url = srcInput.value.trim();
+    if (!url) return alert('Source URL খালি আছে');
+
+    // If user checked proxy, prepend the proxy base
+    if (useProxy.checked) {
+      // Note: public proxies may alter headers; self-hosted proxy recommended.
+      url = PUBLIC_CORS + url;
+      writeLog('Using CORS proxy: ' + url);
+    }
+
+    try {
+      await loadAndPlay(url);
+    } catch (e) {
+      alert('Failed to load playlist. Check console/log for details.');
+      console.error(e);
+    }
+  });
+})();
+</script>

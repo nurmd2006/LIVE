@@ -1,0 +1,312 @@
+{
+    "app_name": "Outflank TV",
+    "version": "1.0.0",
+    "last_updated": "2024-01-15",
+    "channels": [
+        {
+            "id": 1,
+            "name": "Channel i",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Channel_i.svg/1200px-Channel_i.svg.png",
+            "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+            "section": "featured",
+            "category": "General Entertainment",
+            "details": "Channel i is one of Bangladesh's leading private satellite television channels. It broadcasts a variety of programs including news, dramas, talk shows, and entertainment.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 2,
+            "name": "ATN Bangla",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/ATN_Bangla_%28Bangladesh%29.svg/1200px-ATN_Bangla_%28Bangladesh%29.svg.png",
+            "stream_url": "https://example.com/streams/atn-bangla.m3u8",
+            "section": "featured",
+            "category": "News & Entertainment",
+            "details": "ATN Bangla is a 24-hour Bengali-language satellite television channel based in Dhaka, Bangladesh. It features news, dramas, movies, and cultural programs.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 3,
+            "name": "RTV",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/RTV_logo.png/220px-RTV_logo.png",
+            "stream_url": "https://example.com/streams/rtv.m3u8",
+            "section": "featured",
+            "category": "General Entertainment",
+            "details": "RTV (Radio Today Television) is a Bangladeshi private satellite television channel known for its news programs, talk shows, and entertainment content.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 4,
+            "name": "Somoy TV",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Somoy_TV_%28Logo%29.png/220px-Somoy_TV_%28Logo%29.png",
+            "stream_url": "https://example.com/streams/somoy-tv.m3u8",
+            "section": "hindi-news",
+            "category": "News",
+            "details": "Somoy TV is a 24-hour Bengali news channel in Bangladesh. It provides comprehensive news coverage, current affairs, and analysis.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 5,
+            "name": "Independent TV",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Independent_Television_%28Bangladesh%29_logo.svg/220px-Independent_Television_%28Bangladesh%29_logo.svg.png",
+            "stream_url": "https://example.com/streams/independent-tv.m3u8",
+            "section": "hindi-news",
+            "category": "News",
+            "details": "Independent Television is a Bangladeshi Bengali-language 24-hour satellite and cable news channel.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 6,
+            "name": "Ekattor TV",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ekattor_TV_logo.png/220px-Ekattor_TV_logo.png",
+            "stream_url": "https://example.com/streams/ekattor-tv.m3u8",
+            "section": "hindi-news",
+            "category": "News",
+            "details": "Ekattor TV is a Bengali-language 24-hour news and current affairs television channel based in Bangladesh.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 7,
+            "name": "Gazi TV",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Gazi_TV_logo.png/220px-Gazi_TV_logo.png",
+            "stream_url": "https://example.com/streams/gazi-tv.m3u8",
+            "section": "sports",
+            "category": "Sports",
+            "details": "Gazi TV is a Bangladeshi sports television channel that broadcasts live sports events, especially cricket and football.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 8,
+            "name": "T Sports",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/T_Sports_logo.png/220px-T_Sports_logo.png",
+            "stream_url": "https://example.com/streams/t-sports.m3u8",
+            "section": "sports",
+            "category": "Sports",
+            "details": "T Sports is a Bangladeshi sports channel that broadcasts various sports events including cricket, football, and other international sports.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 9,
+            "name": "Banglavision",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Banglavision_logo.png/220px-Banglavision_logo.png",
+            "stream_url": "https://example.com/streams/banglavision.m3u8",
+            "section": "entertainment",
+            "category": "Entertainment",
+            "details": "Banglavision is a popular Bengali-language satellite television channel in Bangladesh offering entertainment, news, and dramas.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 10,
+            "name": "NTV",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NTV_%28Bangladesh%29_logo.png/220px-NTV_%28Bangladesh%29_logo.png",
+            "stream_url": "https://example.com/streams/ntv.m3u8",
+            "section": "entertainment",
+            "category": "Entertainment",
+            "details": "NTV is a Bangladeshi Bengali-language satellite television channel known for its quality entertainment and news programs.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 11,
+            "name": "BTV",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bangladesh_Television_%28BTV%29.svg/220px-Bangladesh_Television_%28BTV%29.svg.png",
+            "stream_url": "https://example.com/streams/btv.m3u8",
+            "section": "entertainment",
+            "category": "Government",
+            "details": "Bangladesh Television (BTV) is the state-owned television network in Bangladesh, offering a mix of news, entertainment, and educational programs.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 12,
+            "name": "Sony Aath",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sony_Aath_logo.png/220px-Sony_Aath_logo.png",
+            "stream_url": "https://example.com/streams/sony-aath.m3u8",
+            "section": "movies",
+            "category": "Movies",
+            "details": "Sony Aath is a Bengali-language entertainment channel featuring movies, serials, and reality shows from Bengal.",
+            "language": "Bengali",
+            "country": "India",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 13,
+            "name": "Star Jalsha",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Star_Jalsha_Logo_2018.png/220px-Star_Jalsha_Logo_2018.png",
+            "stream_url": "https://example.com/streams/star-jalsha.m3u8",
+            "section": "movies",
+            "category": "Movies & Serials",
+            "details": "Star Jalsha is a Bengali-language entertainment channel known for its popular serials, movies, and reality shows.",
+            "language": "Bengali",
+            "country": "India",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 14,
+            "name": "Colors Bangla",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Colors_Bangla_logo.png/220px-Colors_Bangla_logo.png",
+            "stream_url": "https://example.com/streams/colors-bangla.m3u8",
+            "section": "movies",
+            "category": "Entertainment",
+            "details": "Colors Bangla is a Bengali-language general entertainment channel featuring dramas, reality shows, and movies.",
+            "language": "Bengali",
+            "country": "India",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 15,
+            "name": "Duronto TV",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Duronto_TV_logo.png/220px-Duronto_TV_logo.png",
+            "stream_url": "https://example.com/streams/duronto-tv.m3u8",
+            "section": "kids",
+            "category": "Kids",
+            "details": "Duronto TV is a Bangladeshi children's television channel featuring cartoons, educational programs, and entertainment for kids.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 16,
+            "name": "Boishakhi TV",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Boishakhi_TV_logo.png/220px-Boishakhi_TV_logo.png",
+            "stream_url": "https://example.com/streams/boishakhi-tv.m3u8",
+            "section": "entertainment",
+            "category": "Entertainment",
+            "details": "Boishakhi TV is a Bangladeshi Bengali-language satellite television channel offering entertainment, news, and cultural programs.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 17,
+            "name": "Channel 9",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Channel_9_%28Bangladesh%29.svg/220px-Channel_9_%28Bangladesh%29.svg.png",
+            "stream_url": "https://example.com/streams/channel-9.m3u8",
+            "section": "entertainment",
+            "category": "Entertainment",
+            "details": "Channel 9 is a private satellite television channel in Bangladesh broadcasting entertainment, news, and educational programs.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 18,
+            "name": "Deutsche Welle",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/220px-Deutsche_Welle_symbol_2012.svg.png",
+            "stream_url": "https://example.com/streams/dw-bangla.m3u8",
+            "section": "hindi-news",
+            "category": "International News",
+            "details": "Deutsche Welle Bengali service provides international news and analysis from a German perspective.",
+            "language": "Bengali",
+            "country": "Germany",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 19,
+            "name": "BBC Bangla",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_World_News_%282019%29.svg/220px-BBC_World_News_%282019%29.svg.png",
+            "stream_url": "https://example.com/streams/bbc-bangla.m3u8",
+            "section": "hindi-news",
+            "category": "International News",
+            "details": "BBC Bangla provides news, current affairs, and analysis from around the world in Bengali language.",
+            "language": "Bengali",
+            "country": "UK",
+            "is_hd": true,
+            "is_live": true
+        },
+        {
+            "id": 20,
+            "name": "SATV",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/SATV_%28Bangladesh%29_logo.png/220px-SATV_%28Bangladesh%29_logo.png",
+            "stream_url": "https://example.com/streams/satv.m3u8",
+            "section": "entertainment",
+            "category": "Entertainment",
+            "details": "SATV is a Bangladeshi satellite television channel offering entertainment, dramas, and cultural programs.",
+            "language": "Bengali",
+            "country": "Bangladesh",
+            "is_hd": true,
+            "is_live": true
+        }
+    ],
+    "sections": [
+        {
+            "name": "featured",
+            "title": "Featured Channels",
+            "icon": "star",
+            "order": 1
+        },
+        {
+            "name": "hindi-news",
+            "title": "News Channels",
+            "icon": "newspaper",
+            "order": 2
+        },
+        {
+            "name": "entertainment",
+            "title": "Entertainment",
+            "icon": "film",
+            "order": 3
+        },
+        {
+            "name": "movies",
+            "title": "Movies & Serials",
+            "icon": "video",
+            "order": 4
+        },
+        {
+            "name": "sports",
+            "title": "Sports",
+            "icon": "futbol",
+            "order": 5
+        },
+        {
+            "name": "kids",
+            "title": "Kids",
+            "icon": "child",
+            "order": 6
+        }
+    ],
+    "settings": {
+        "auto_play": true,
+        "default_quality": "hd",
+        "buffer_time": 5,
+        "max_retries": 3,
+        "timeout": 30
+    }
+}

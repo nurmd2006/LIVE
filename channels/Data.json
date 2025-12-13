@@ -1,0 +1,352 @@
+{
+  "admin": {
+    "name": "NUR MOHAMMAD MRIDHA",
+    "email": "nurmd2006.official@gmail.com",
+    "platform_name": "Ovation Bangladesh",
+    "last_update": "2025-12-10"
+  },
+
+  "ads": [
+    {
+      "html": "<div style='color:white;text-align:center;padding:20px;'><h3>Special Offer!</h3><p>Get 50% off on Premium Subscription</p><button style='padding:10px 20px;background:#4CAF50;color:white;border:none;border-radius:5px;margin-top:10px;'>Claim Now</button></div>",
+      "image": "example.jpg",
+      "duration": 10,
+      "redirect_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
+    },
+    {
+      "html": "<div style='color:white;text-align:center;padding:20px;'><h3>New Channels Added!</h3><p>Watch 50+ new international channels</p><button style='padding:10px 20px;background:#2196F3;color:white;border:none;border-radius:5px;margin-top:10px;'>Explore Now</button></div>",
+      "image": "example.jpg",
+      "duration": 8,
+      "redirect_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
+    }
+  ],
+
+  "ad_images": [
+    {
+      "size": "728x90",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnQPbxS9jmPbhXYaDcu6y4P8P2JRSzxfwJtw2yyKiyOsglS52Rj4G4o84QJQkIxJm24U7zIlYrItmW6wn7FRGf02BngAbIZwqEhmLYW0XrZJd_rL6V9IYPtInOL1rqPR1YKcMVfG7aHcxB3DKW6o9ixXmtN3INyVYEM7g7lX6S2K-__w/s728-e100/728x90-ad.jpg",
+      "click_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
+    },
+    {
+      "size": "300x250",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzWrP-yawtnqMZ1tgzLZ5xxiC4sjyCg4_U9O8E4Apo5fLf7H1qt_SB_x3sVq7CNfT7RSmukd8lO3icVJlx14V5KZvU1_3ZCSs8Kn9v_FTEdt91-Qgpq8awFWVt4_PbSx0n6zT-dv9ZXYTh4Jje6jEF_Es7LJWfU8X3z9Nc0BLnFScZIQ/s250-e100/300x250-ad.jpg",
+      "click_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
+    },
+    {
+      "size": "728x250",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs-B19kZ9kzHcB7cXwri1V7uOoHw3T-KiJJ2uikd6hQr4Whl1sxwj2H9UppicMqN_c8F7qVdT5TS3vQ1c30ux72z2-m7mXGZUDy8yQXGBJqR54E5Zwe3gVJ0-6b1NFElU5bR8dAe9n3_-8LQpTVW0G7sXsv1N9rc4knxPhm36vtM-aMXg/s728-e100/footer-ad.jpg",
+      "click_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
+    }
+  ],
+
+
+
+
+
+
+
+
+
+  "channels": [
+    {
+      "id": 1,
+      "name": "Saudi Quran TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
+      "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "Arabic",
+      "description": "Saudi Quran TV, officially the Quran Channel (قناة القرآن الكريم) or KSA Quran TV, is Saudi Arabia's dedicated channel for continuous live broadcasts of the Holy Quran, featuring recitations, interpretations, and live coverage from the holy mosques in Makkah (Al-Masjed Al-Haram) and Madinah (Al-Masjid an-Nabawi) 24/7, accessible via satellite, official streaming sites like aloula.sba.sa (Saudi Broadcasting Authority), and platforms like YouTube. It provides a direct spiritual connection to the sacred sites for Muslims worldwide, offering HD streams and live prayer broadcasts.",
+      "added_date": "2025-11-15"
+    },
+    {
+      "id": 2,
+      "name": "Saudi Sunnah TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMtx2NOqlOhEtXDNkDY9AQPKHBTTRlIA6QsJ8-dgcHmog-4_ZFzIg6LwPvyV3k-YjyX5L9LgwJOiS2zf-HymlED3fUg4eV7EXsdBdPjclaGRTLLjXfTrdh1-0XcfwDjN9Y6Uk3SOhb-1wmUnTQ4Mn0nXAAYrumM-NNgh3RQEYnHb1Wmf6e2zIwB9aueA/s600/Nur_20251107_152041_0000.png",
+      "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "Arabic",
+      "description": "",
+      "added_date": "2025-11-10"
+    },
+    {
+      "id": 3,
+      "name": "Duronto TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ10o12m5_heYW_O1b71UxtR_ZtpK9dmjzwh1XaPs3lfC8Ev4CweSEOam1lCJ5Tf0V59Yyba60h-UPffxAIMj78BM-qvY5ZMeEAVJYfJ1lOzP0gQn3zX5_iduoCgPb7y-d2NB6NgJ0Ck7vTkwg9VxjNTtmSs4yHN3SHIyxGoZe00djFk5vh95PuCrF/s600/Nur_20251103_211727_0000.png",
+      "stream_url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
+      "category": "KIDS",
+      "language": "Bangla",
+      "description": "Breaking news from around the world.",
+      "added_date": "2025-10-05"
+    },
+    {
+      "id": 4,
+      "name": "MTV HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBFRiX7KKNawWjYjEnUV33j5Wf-37dQnLb_2NP-A87-2jOjpldTXst8CjyV0R_6GVUctHHKQyLx1gPdeLVFK8gn6W5XK2B26I12j5WCCf74vHEd4v0_dlKBuTHC4H4Tus35dOnjtmVwSTl6wY4rY-kRLGGGRue6n2J2H7WXQ_8zkpJw/s1600/mtv.png",
+      "stream_url": "https://m.xigzo.store/live.php?id=667189f69164&e=.m3u8",
+      "category": "MUSIC",
+      "language": "English",
+      "description": "Latest music videos and reality shows.",
+      "added_date": "2024-11-12"
+    },
+    {
+      "id": 5,
+      "name": "HBO HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6CVrMh3G-rU7jS4N-2PlfX-lt9bN5b8q-p_NzZ3SbeAdQ0yLAd4oFO62VzyRxHe9tyW2zHz_nKONSCQ3DPS0k0ywk0zYJqp_J-4sWZYazP0UNkF83IFi2q5_9k1V-c0Ihr4V8ctyWzO38dijhrUEXCPwj1X4Db9Y6ir2ifcyUJTtLA/s1600/hbo.png",
+      "stream_url": "https://example.com/stream5.m3u8",
+      "category": "MOVIES",
+      "language": "English",
+      "description": "Blockbuster movies and original series.",
+      "added_date": "2024-11-08"
+    },
+    {
+      "id": 6,
+      "name": "Al Jazeera English",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVz00Fe9zzdG2nOD5yuxnTtO0PhEWL3mH_3pSdFkKmx1J85V5E0C-_U2bs0p2d9du9oQQ4xO0dBRyqDOLAZIWV2OXS_RZv6IXE4fCjPpzSGFzIYLJSkdABQzQpnYvBvRZPFQCv_0nFwGWWt2dL7HjC3wCCPzVqefqSQnR1T80pZ6NcQ/s1600/aljazeera.png",
+      "stream_url": "https://example.com/stream6.m3u8",
+      "category": "NEWS",
+      "language": "English",
+      "description": "In-depth news coverage from Middle East.",
+      "added_date": "2024-11-03"
+    },
+    {
+      "id": 7,
+      "name": "Cartoon Network",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFnuNZ-OjRZfE48Wly5iA6lSsiwESgnCJtQ2rGDSRqhq55-VfS3AEFmzE1S6K8C7fC-Wi4cqNQwyMfv1pge6q0Ea6ij2zE-g2iBLfAluNt1Al60TSA50L82P02JhhsCDH4VdAMywnD9AzTb7-OGLIQajBfwg2Ccj8nU9RO0mD8f7_fxQ/s1600/cartoon_network.png",
+      "stream_url": "https://example.com/stream7.m3u8",
+      "category": "KIDS",
+      "language": "English",
+      "description": "Animated shows for kids and family.",
+      "added_date": "2024-11-14"
+    },
+    {
+      "id": 8,
+      "name": "BBC Earth",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJyBPpq6mpfSUcV-WXxRlApnZRlR4Y8MdcjFkQd7j6d6QkXwZP2pLv0zRAnXPy56m8Xzrq7e-SQNyTGSRuyPjLwGkKwBwnSrzdMm66nqH-aK7g6vEHzU6tVqwOJ-70NlK5_3rrlwMoxIrmV_HmAhGQWQRTDQwQwv5L28MGS8sQpKXUw/s1600/bbc_earth.png",
+      "stream_url": "https://example.com/stream8.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
+      "description": "Nature and wildlife documentaries.",
+      "added_date": "2024-11-07"
+    },
+    {
+      "id": 9,
+      "name": "Star Plus HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimrQnKSnM0uE_xwuljmf6B0jS3xt6rxxN7qgXe4qKJJUjsJ-8sFihQLyE-wpsS0nj5V33c9rKyIP6V9zoyV5TYrc3tQhqqffbm6R5uAFIXp6yHbp7sI27vKAB2qjyZ-88qNqkUgezQvtsVb4wnTUNzC1O7JpBpyPzv3yG4l4w5pZcM0g/s1600/star_plus.png",
+      "stream_url": "https://example.com/stream9.m3u8",
+      "category": "DRAMA",
+      "language": "Hindi",
+      "description": "Indian dramas and entertainment shows.",
+      "added_date": "2024-11-11"
+    },
+    {
+      "id": 10,
+      "name": "ESPN HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5fI29dXPDi_iOTeQjrtFgy96Z7WIDmP1ewbNZoBv4YwMawuq2xw3qqgJ9Z7Y9g9h8gE95-jTZ65Qk7qVBLj4mH4WwXkfN7rHtnnA40t29j_kr7yfU9_TnO1-QH8gKXGJRFSIsH6AhSJDXr9onLSQMFXV_JnTbfD4rSURQoPKC8l3MJA/s1600/espn.png",
+      "stream_url": "https://example.com/stream10.m3u8",
+      "category": "SPORTS",
+      "language": "English",
+      "description": "Live sports from around the world.",
+      "added_date": "2024-11-09"
+    },
+    {
+      "id": 11,
+      "name": "Discovery Channel",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhntx1S9kCRB4IuwtllDyn3otbP1q8DHuwfA0cV6aFev7f0f3A4BQmJyHZK7UZ4XwjkZhpT-qOwV3llgEzyafX3ShZtVrGymS0jSjV6NtPNm3e7Y9fbE8QnsUXXp_RXgx1OxBN8UfGSfVzSRnuGjIZJdqSCIMz2KqMgvax5N7n5Ab8Txg/s1600/discovery.png",
+      "stream_url": "https://example.com/stream11.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
+      "description": "Science, technology and adventure.",
+      "added_date": "2024-11-06"
+    },
+    {
+      "id": 12,
+      "name": "Colors HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi68QkzmLZMyVn6QjFjLxYq3fldpMmmB1E3p-HjWk1i4dQ1h7fTBHHDf65iF2ccn_4xO1L0UBSedMTbD_TKblSR8mm8ZgSTdLay3yfI2cOXCUhMEnFftj_NPtlJqg2bJW54mPL5_xU9U6L7fxswkBy9PzD0yOYd73zy1G5riB3v2vS6CA/s1600/colors.png",
+      "stream_url": "https://example.com/stream12.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Hindi",
+      "description": "Indian entertainment and reality shows.",
+      "added_date": "2024-11-13"
+    },
+    {
+      "id": 13,
+      "name": "Pogo",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVUXW2YIaqdbz4y1A2W4G5vQvqJd2OEYe7usZHpl1Trduh_vTJcyRhT0_om7v2zkmG7FfGf5ZinX8ONrrlHzgekIlB_-xr8ihtjHgd0Xa5QELoLVSmHDmPHDcQ65zSevHljfq3ASxr1UzVwZTrrRzx6dyZ8gDqUsr7t2jRl9bWg1bdA/s1600/pogo.png",
+      "stream_url": "https://example.com/stream13.m3u8",
+      "category": "KIDS",
+      "language": "English/Hindi",
+      "description": "Kids entertainment and cartoons.",
+      "added_date": "2024-11-04"
+    },
+    {
+      "id": 14,
+      "name": "Fox Life",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMikV-8iqcTDvy_G45vjQUa3XHE0tAOC0r5UXl5MQuB9lTvL33Zc53dUs7TOcJGTKRqH3_Xg24Nhl9WmIUTpVYGlrJQmGgWeE12U8GdeUuxP7XwqJzEo58XAfD8hLIXuuz1FlYafao3oNOzKv0T_ib_sBR2ENMJhOGSqQmAYi6O6oQ5A/s1600/fox_life.png",
+      "stream_url": "https://example.com/stream14.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "English",
+      "description": "Lifestyle and entertainment shows.",
+      "added_date": "2024-11-02"
+    },
+    {
+      "id": 15,
+      "name": "Sony Ten 1 HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYl6yL3OC7RQWz1l4p0c6zM3ilKF05RNcZtT3mZ-v3bRJVlIecxWID6dS1kYAdb6AXZJmOZYMFrbR0ciZYduZzGzk1fkwShFKxSJ0HRvJOCQ2xOesjSX3tyKfZ_ILCHPpKB6s2cmtMWrUyGSYCLBy-EFoMqW6ZbrBPU4GTWlS8xqUacQ/s1600/sony_ten.png",
+      "stream_url": "https://example.com/stream15.m3u8",
+      "category": "SPORTS",
+      "language": "English",
+      "description": "Live sports coverage.",
+      "added_date": "2024-11-01"
+    },
+    {
+      "id": 16,
+      "name": "Zee TV HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_PS4e7iKKo2Y78GR_79z7w95BOn9vZgQN0UqEjx6a5vXGgH4BTrk_HRwQbnm1akBWbJmgG27XVl9PVq8DcJpsAvWY0pXttV7ktm3lDJ5KEMY5Xh54OkprCLSsCzUcQhK2sot9iJdkkJ2qLGTsYwFLRNizSitcPRJ9jqT9aLd4Dcjm7A/s1600/zee_tv.png",
+      "stream_url": "https://example.com/stream16.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Hindi",
+      "description": "Hindi entertainment channel.",
+      "added_date": "2024-10-30"
+    },
+    {
+      "id": 17,
+      "name": "Nickelodeon",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCO6TUNyJ0Otp-Ko3ubB-_3CkM3Izi3LrT01RSB5LkC0B4PDJp_XKBC4-QGBc6lqByAdQc1xqPj6OXPN6MQbztSFskT8gtLqESnXyBNO6DrSbhIB4mWgxPSHYJIdGc6dRcrcQPS_LM4iKRVUQ0Y7gGvKpqcm1tTv-Umi0y4dy4rt5Y0A/s1600/nick.png",
+      "stream_url": "https://example.com/stream17.m3u8",
+      "category": "KIDS",
+      "language": "English",
+      "description": "Kids cartoons and shows.",
+      "added_date": "2024-10-28"
+    },
+    {
+      "id": 18,
+      "name": "History TV18",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjspnR69MY-XQ5vAcS8zMGFYJ3TqUJ6J-fAPV5wn2E-_t8nxsp35lw31CbGp1mH58p5Kk9QIXI-Q9tHZ-WBq4UyF6K5WbIxU1V21X1H0Hhbgm6L_PD8-mcQZ86yZc1YgIf7v27TvN0fsn0cLax58GEPDdx6H3nYpDKadTmqg79lIOw4Fg/s1600/history.png",
+      "stream_url": "https://example.com/stream18.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
+      "description": "Historical documentaries and shows.",
+      "added_date": "2024-10-25"
+    },
+    {
+      "id": 19,
+      "name": "SET HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBZ6UqKnu5xAgI8n8aG2D1_26x1mN7X5DFA86D7UDSUKH5QtajLQyq0_4mz-Z55AB2b2Q9rKJ4IF0RrFg5dQoMG6YjscNZg-4f8H32Vv7rYhEpobAFJfwjT58t7Ch3Kc_kt7l9rQsk5tfUKuQRiJ0OfUvsN95P6SVfLt_sVOWMUIYyZg/s1600/set.png",
+      "stream_url": "https://example.com/stream19.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Hindi",
+      "description": "Sony entertainment shows.",
+      "added_date": "2024-10-22"
+    },
+    {
+      "id": 20,
+      "name": "AXN",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MZohjkDHDMNqj3BLh9X-a-Cj3xggYY3L7Q_Fv_VbrcRgS6WQqVdm3Py-uJqJgeCEbS3mT2A82Sx2I6LvawYOkrL-TG7o0MeyTzXoN0YYc4oFXdT78ljpShKpghFy9gVyGZjkd8H_fhXbJy77uvm8e3An-D_49q3AvgyiOl3JkgV_6w/s1600/axn.png",
+      "stream_url": "https://example.com/stream20.m3u8",
+      "category": "MOVIES",
+      "language": "English",
+      "description": "Action movies and series.",
+      "added_date": "2024-10-20"
+    },
+    {
+      "id": 21,
+      "name": "Peace TV Bangla",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtQ0Ff8RqyqQkhgYORjLbyNG2ifF_xbM6LvMblWnqoMDy3sMwiy4FpZcSIX9fM1k9aDgFp9rN9y7DEdhQ5csp0T3YsqLt8VrOm6J7MSIJD42V8UoDqCABjndGIRuapy4BFgfAe0jzT6CmcwIJBm8e6LgGQ8qTf4kKzTbyZcVykqXBYvQ/s1600/peace_tv.png",
+      "stream_url": "https://example.com/stream21.m3u8",
+      "category": "ISLAMIC",
+      "language": "Bangla",
+      "description": "Islamic content in Bangla.",
+      "added_date": "2024-10-18"
+    },
+    {
+      "id": 22,
+      "name": "BBC World News",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfV6dD5J8bylyqWiwPbRh05Hkqkwqim1JQjO5vPm1K18l5ArxczADqGkWN-6Obrf1NT19FdHpRwqkf7k3rhSkVlNWPcpOPWpNk3LwIPaYj6AKdNSq7zq6Vr-6EQ04sn0dTHf3Q1OkcU2d_vrq-Wp1elI11AADpcn8phQoNcG1NozYrmQ/s1600/bbc_world.png",
+      "stream_url": "https://example.com/stream22.m3u8",
+      "category": "NEWS",
+      "language": "English",
+      "description": "Global news coverage.",
+      "added_date": "2024-10-15"
+    },
+    {
+      "id": 23,
+      "name": "Disney Channel",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0CIRp6x6-sQYyh2QrXq-WfLPhNQDLoEHLyY6zPp4T1hNOnwKzq8ctjTrp9Kc4qXGobYFvPED2QqSM7GZ6bBmmO3Y0VgAUC5z_gHys5bRSU4V8ykR3phBBG0eMYmTrY9ZfEQhQBb9sdrfJ1nZqXCLNHgX5O7XkX2y9in7t0trA3h7nFw/s1600/disney.png",
+      "stream_url": "https://example.com/stream23.m3u8",
+      "category": "KIDS",
+      "language": "English",
+      "description": "Disney shows and movies.",
+      "added_date": "2024-10-12"
+    },
+    {
+      "id": 24,
+      "name": "Zee Cinema HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiljVhlHprE0y6yYHYjT5g7D8q58onqWQmgk9EtFRLjS-qKd9fSOkmqYgAVZ4YYT8_iHZOsEXC2kL7by1-Yr_MMpLL42w1qON7JX7dPLiWJ9pzBMAZTSAXmtoT9R3WQwXxzm7Z3kgZ9h7QnZQqQdtsKk8eqMrbT0z-0d1j-J1tQzGtFHA/s1600/zee_cinema.png",
+      "stream_url": "https://example.com/stream24.m3u8",
+      "category": "MOVIES",
+      "language": "Hindi",
+      "description": "Bollywood movies 24/7.",
+      "added_date": "2024-10-10"
+    },
+    {
+      "id": 25,
+      "name": "Sony Max",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm-lS4cQN3oLCx0vwTqKPNfGSbT4d5MEnb_-td-vT7W1Cl6dR3d-TvY_RChh-hmP2p6AOlOyDjhY4kt0k6v8cmTPfT7JJ3WISlAbTzK2x3UVXmVg1gs-k8e8YptDOUo3QeRzQLqTicIXy2EBh7cN7fshxJIF6H-muwB0t8_Z8YyJmzRQ/s1600/sony_max.png",
+      "stream_url": "https://example.com/stream25.m3u8",
+      "category": "MOVIES",
+      "language": "Hindi",
+      "description": "Hindi movies and entertainment.",
+      "added_date": "2024-10-08"
+    },
+    {
+      "id": 26,
+      "name": "Eurosport",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9VdYSwX7EeITMP6rSl76Ea-yNT9esDRqAetnzowOYgjxw70ioJqmMBHncMGOuhTtg3nCblRgpZNW0i9ejZk33Hnzhete3hKW3qvO9Bx1oZk5pF5eBx35sE1CVsWUvH6-NFzWSl0bF5_qQhXx8FMMHxkh51VhJEq8t3uqF_HmRZ2jDpA/s1600/eurosport.png",
+      "stream_url": "https://example.com/stream26.m3u8",
+      "category": "SPORTS",
+      "language": "English",
+      "description": "European sports coverage.",
+      "added_date": "2024-10-05"
+    },
+    {
+      "id": 27,
+      "name": "Fox News",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvA4ZIQi6cdPkLZR5Rh7PFdJnmQz4q1a3lfr9f62sfLuz4nqQQ6dLfQcnxcpKfezdsHTFJTHg13qGJflSXW6k9X3j0hUzlvS8I71J_7T_J8r-JzFrhqyfL4E5qckXxVW32iXeApR_H5N6Heqx7XoODP2w3rE4pOMmdZRqp-LUvldtD5g/s1600/fox_news.png",
+      "stream_url": "https://example.com/stream27.m3u8",
+      "category": "NEWS",
+      "language": "English",
+      "description": "American news network.",
+      "added_date": "2024-10-03"
+    },
+    {
+      "id": 28,
+      "name": "Travel XP",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcc2FkqTgBHgixj7y15ebxMP6X2IHqXAmLGDXm_6FzXfpxLCWV5zYf_SZtI9bpe6zLdbNcafZ1n9JZ1U-YyHq_0UG-veHmJ04E4K0X25XW5qf8A_1b8RTnK1l5gPKYHv_9bMN0GBJYI9FZz4FR0FjZFeqJckfL4sOOoU2B3cmKHYjB-g/s1600/travel_xp.png",
+      "stream_url": "https://example.com/stream28.m3u8",
+      "category": "INTERNATIONAL",
+      "language": "English",
+      "description": "Travel and adventure shows.",
+      "added_date": "2024-10-01"
+    },
+    {
+      "id": 29,
+      "name": "MGM HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC0b3bMF3I5M8wK2oPwzJq3i1Of6nT1GVON7uWQ7cCb3b0_tEhnK-_7l7ZfX_C8EV8vVLL3sJ-15e6qV6JXQvglb7B9bXvqKeT4UVq1RgON6XNYH8YfLhFbU1vL4f8rAZevyfSO3Q3vx4w67jlfA6mpp1PrfKkZ8II9Vj9--8W0Wb7zQ/s1600/mgm.png",
+      "stream_url": "https://example.com/stream29.m3u8",
+      "category": "MOVIES",
+      "language": "English",
+      "description": "Classic and new movies.",
+      "added_date": "2024-09-28"
+    },
+    {
+      "id": 30,
+      "name": "Ten Sports",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy7r-9s3xUFvE9pA5q2gUBwOk0S5QoF1w6b9M5Kbw0d6Dk-7sg6pJcHXrWpX5rPyhSXWbCXX7F2Wb2MZik9GPn3QflgMNsD8jSrzKOHW4iTC-1fLr99V2HE4tFp4R2tGbbx5IYHBYIRFgnpnq5H8sL8X4DdzjXZERM_Uvngol6G4oWQ/s1600/ten_sports.png",
+      "stream_url": "https://example.com/stream30.m3u8",
+      "category": "SPORTS",
+      "language": "English",
+      "description": "Sports entertainment.",
+      "added_date": "2024-09-25"
+    }
+  ]
+}

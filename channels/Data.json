@@ -1,4 +1,3 @@
-
 {
   "admin": {
     "name": "NUR MOHAMMAD MRIDHA",
@@ -9,8 +8,8 @@
 
   "ads": [
     {
-      "html": "<div style='color:white;text-align:center;padding:20px;'><h3>Special Offer!</h3><p>Get 50% off on Premium Subscription</p><button style='padding:10px 20px;background:#4CAF50;color:white;border:none;border-radius:5px;margin-top:10px;'>Claim Now</button></div>",
-      "image": "example.jpg",
+      "html": "<div style='color:white;text-align:center;padding:20px;'><h3>Special Offer!</h3><p>Get 50% off on Premium Subscription সাথে! 🍰✨</p><button style='padding:10px 20px;background:#4CAF50;color:white;border:none;border-radius:5px;margin-t>Order Now</button></div>",
+      "image": "https://raw.githubusercontent.com/nurmd2006/LIVE/refs/heads/main/FB_IMG_1765795325505.jpg",
       "duration": 10,
       "redirect_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
     },
@@ -335,10 +334,219 @@
       "language": "English",
       "description": "Discovery HD is a globally recognized television channel that delivers high-definition factual and documentary programming. The channel features a wide range of content including science, technology, nature, engineering, adventure, and real-life exploration shows, presented with stunning visuals and informative storytelling. Discovery HD is known for its immersive documentaries and educational entertainment that inspire curiosity and learning. By combining cutting-edge production quality with compelling real-world stories, the channel offers viewers an engaging experience that explores the wonders of the world, innovation, and human achievement.",
       "added_date": "2025-10-30"
+    },
+     
+     {
+      "id": 29,
+      "name": "Star Sports Select 1",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLOEbu7WVccSRRH3l-Q7KQh8jFO87BaqusHGjzW9Nn3h7Trt8bwZGL5kKfEbUmaFPUOoiP8stewAtwAIlZhomPQbmVlroq0gul1GClTADo6Hh4gWanS2fzPxGg2lGiwUX_AijZRyBa2LTcKLjpskFH-ESD5HZY19FbK409eKCD7vy4a5jyQM_q4BPPhQ/s600/Nur_20251216_221506_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/spsel1/index.m3u8",
+      "category": "SPORTS",
+      "language": "Hindi/English",
+      "description": "Star Sports Select 1 is a premium sports television channel that offers live coverage of elite international sporting events. The channel primarily focuses on top-tier sports such as cricket, football, tennis, and other global competitions, along with expert analysis, pre-match shows, and detailed post-match discussions. Known for its high-quality production and exclusive sports content, Star Sports Select 1 delivers an immersive and professional viewing experience for sports enthusiasts. The channel is designed for audiences who seek in-depth coverage, expert commentary, and premium sports entertainment from around the world.",
+      "added_date": "2025-11-29"
+    },
+     {
+      "id": 30,
+      "name": "Star Sports 1",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFJqjN4nfxkVw5lcWZhEe_AUk-DdkLuLZgb2idv3kZEiHPaVP7RNgk4hU4cfC-1z830otQdR_nLcarHrdSew3Cx9TylJ901V4CUAQtjeW6uP-6V-9Drdynyv8cJ75MJFP-zSEMChboJ3uPF8hL6F5rIJkQVS5wqh-NfbA2jjgg95gVlrg1VuByXbKhbg/s600/Nur_20251216_221535_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8",
+      "category": "SPORTS",
+      "language": "Hindi/English",
+      "description": "Star Sports 1 is one of India’s leading sports television channels, offering extensive coverage of major national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and special sports programs, with a strong focus on cricket, football, kabaddi, and other popular sports. Star Sports 1 is known for its high-quality production, engaging commentary, and wide-ranging sports content that caters to millions of fans. With its comprehensive programming and reliable coverage, the channel remains a top destination for sports enthusiasts seeking live action and in-depth sports entertainment.",
+      "added_date": "2025-11-29"
+    },
+    
+      {
+      "id": 33,
+      "name": "GTV HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUytWIP-VVJdFlHTiigxsmzHh3D8g5eXDAqmtBmD0M4JZiMZ3LPvVByKtWPTwJV4seYdZKBTGDcmgkHBb9tWTR645l1TZoEyskqOwTpsBQoaRKSVfYu0A7XH2l6sY_jeOsdjN3bKAATzjPrDZdzvLlMcB05lC00RwJgXIn_5o83zGLs3lWXLRmqJTD1Q/s600/Nur_20251216_221611_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "GTV HD is a leading Bangladeshi entertainment television channel that offers a diverse range of programs in high-definition quality. The channel broadcasts popular drama serials, movies, reality shows, music programs, and special events, catering to audiences of all ages across Bangladesh and abroad. Known for its high production standards and engaging content, GTV HD combines entertainment with cultural richness. Through its premium HD broadcasts and popular shows, the channel provides viewers with an enjoyable and immersive television experience while showcasing contemporary Bangladeshi entertainment.",
+      "added_date": "2025-11-20"
+    },
+    
+    {
+      "id": 31,
+      "name": "BanglaVision HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifvqFI-fPWs7H8OLJyJKGL9lDkpiwzaTdFIZ0_dB_MFnkW9hpW9FfF1nF4T0TeodpKMXBJsfdP263c98Nep-FSqlGaEMnsjUIPbxUGrUWWU8vBrz1MgjBztGTBragrsUq7QkJpaj8fqINiPgjCaK2Y_YS_BRGNhrAZCnKMLLhWAC904h7ntIo5NUZTxw/s600/Nur_20251216_221646_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/banglavision/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Bangla Vision is a well-known Bangladeshi television channel that offers a wide range of programming, including news, drama series, talk shows, documentaries, entertainment programs, and cultural content. The channel is committed to delivering informative, engaging, and socially relevant content for audiences in Bangladesh and abroad. Bangla Vision is recognized for its focus on quality journalism, meaningful entertainment, and cultural representation. Through its diverse programs and thoughtful presentation, the channel aims to educate, entertain, and inspire viewers while reflecting the values and realities of Bangladeshi society.",
+      "added_date": "2025-11-29"
+    },
+    
+    {
+      "id": 32,
+      "name": "Boishakhi TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg567lLJ-EsQvOwgB1aDjI9vlkUnScGQ9Hq5koHuk4MR8g2wISS4h7LyMvHfk1KvrSKjD6JbTvcaYZiAZst3diuO4mQFg81ykUI21VdpD8qsiINmeC7n5413WnzO4LWxWdIeEhgsCqS25vB-XC3q8blhqi41-DzwKu8lFYNIoZZk4Wj0Y226X0u4DSjA/s600/Nur_20251216_221710_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/boishakhitv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Boishakhi TV is a popular Bangladeshi television channel that offers a diverse range of entertainment, news, music, talk shows, and cultural programs. The channel is widely known for its vibrant presentation and content that reflects Bangladeshi lifestyle, traditions, and contemporary society. Boishakhi TV delivers engaging programs that appeal to viewers of all ages, combining entertainment with information and cultural expression. Through its variety of shows and lively broadcasts, the channel has established itself as a familiar and trusted name in Bangladesh’s television landscape.",
+      "added_date": "2025-11-29"
+    },
+    
+    
+    
+    {
+      "id": 34,
+      "name": "Peace TV Bangla",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTZgotu5MDgwwbWdlMvdv_GHWbdwkAPappIssIxuHpJK3-lBT16WXTK-BX13JJwTDFVOfVfbaHA6V37KDfEeIrUgqSPJmHnaLYHGumQ7PATse0UtH8o9SMejBcOX-etVqqux9Znsz2Vv7PlMo31FdgdDYlV-MSRHxoBbZRBzBhIVWBsHN8-2_KFNQpGw/s600/Nur_20251216_221739_0000.png",
+      "stream_url": "https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "Bangla",
+      "description": "Peace TV Bangla is an Islamic television channel dedicated to spreading the message of Islam through educational and inspirational programming in the Bangla language. The channel features Islamic lectures, Qur’anic discussions, comparative religion programs, and scholarly talks by renowned speakers and Islamic scholars. Peace TV Bangla aims to promote peace, understanding, and authentic knowledge of Islam among Bangla-speaking audiences worldwide. Through its informative and thought-provoking content, the channel encourages moral values, spiritual growth, and interfaith harmony, making it a valuable source of Islamic education and guidance.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 35,
+      "name": "Ananda TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2RNLiL4qhYEVawGUat1HjjDb693C2K8hUpM7xLiuYciPmjwIQ5j7TIevtcnsHdjGBLIZZJbFTAc4nRoys3vyN-IeEiParo1SNH19m-1IbWG9RPRcW_VoPdSDNfNlFD4NWrKoONwxhgYJuLUzaTQ-LpDoQuqyOMx6meiH7QStygj_kx_Yrs17Dz62ccw/s600/Nur_20251216_221801_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8",
+      "category": "MOVIES",
+      "language": "Bangla",
+      "description": "Ananda TV is a popular Bangladeshi entertainment television channel that offers a wide range of programs including drama serials, movies, music shows, talk shows, lifestyle programs, and special events. The channel focuses on delivering enjoyable and family-friendly entertainment for viewers of all ages. Known for its engaging content and vibrant presentation, Ananda TV reflects contemporary Bangladeshi culture and entertainment trends. Through its diverse programming and lively broadcasts, the channel provides audiences with fun, relaxation, and quality entertainment experiences.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 36,
+      "name": "Ekushey TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYrEq_9uumgNixoiyKR3vfzdfOGVlXMpoZarlhhNl9fc5OyclIF1DP4-B_Ie-AD9xp7cCWlSEXe3G1j8VcfP5NAVA5rQMOrX3xQI5rthxW_5OHtr5L-v7vSI31DwNNymtKwpazr8pLzg4sf7oN-oBqELCgFSY2-7bxrkdRCOp4TFVnXWsf2DxIlvtMRA/s600/Nur_20251216_221822_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/etv/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "Ekushey TV is one of Bangladesh’s pioneering private television channels, offering a diverse range of programming that includes news, current affairs, talk shows, drama series, documentaries, cultural programs, and special broadcasts. The channel has played an important role in shaping independent television journalism in Bangladesh. Ekushey TV is known for its focus on responsible journalism, social awareness, and cultural expression. Through informative news coverage and meaningful entertainment, the channel aims to educate, inform, and engage viewers while reflecting the values, history, and aspirations of Bangladeshi society.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 37,
+      "name": "ATN Bangla",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCpD50Y5QdA1pq_ztcPp-N_5DVvCyULsgii-HbYIXbA1ie_hH9cy5VE19O9mrYx9yHnfM9DYzQbWN-aQFRWbKtwVBSaihiurieudVcb5DnCx7rP2oEA_I6Lcnf3Gp4ntpw1vjR8Gl1dotnpL7j7GNmG5XcZvlomcCSekARMqlNC6mzYiTTV5SPjsRktQ/s600/Nur_20251216_221932_0000.png",
+      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "ATN Bangla is a leading Bangladeshi television channel that offers a diverse range of entertainment, news, and cultural programming. The channel broadcasts drama serials, movies, talk shows, music programs, reality shows, and special events, catering to viewers of all ages in Bangladesh and abroad. Known for its high-quality content and engaging presentation, ATN Bangla reflects contemporary Bangladeshi culture while promoting entertainment and education. Through its variety of programs, the channel provides audiences with enjoyable, informative, and culturally rich television experiences.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 38,
+      "name": "NTV HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4f1iTD2QxPcxlKgduj_rRvea0_EIaVxPX5Nl_mmDidRCAS-7OkMJ9zYrfOMDrEBJB5pnRlc4rZPCMKeos_GsnS3PW5QMRrNg42YTUVsCW6QCVXK8pZbwb_2xlTb-88IyiBZwNjlstJOlcD0MHobwAJqQNZ79ELWt4LP3vN7UtnUjl-MkWK8gn6uZHJg/s600/Nur_20251216_222816_0000.png",
+      "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "NTV HD is a leading Bangladeshi television channel offering a wide range of high-definition programming, including news, drama series, talk shows, movies, music programs, and cultural content. The channel aims to deliver engaging and quality entertainment while keeping viewers informed about national and international events. Known for its modern production standards and diverse content, NTV HD combines entertainment, education, and news coverage to cater to audiences of all ages. Through its HD broadcasts and popular shows, the channel provides a visually appealing and immersive television experience for viewers across Bangladesh and abroad.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 39,
+      "name": "Deepto TV HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcUKZKXpZYe-67ozuLp6SuDBYF6JuQrzvT3IHSFvrBlIOgNvHCm9CHE5qqMWz9yoA4LOLL2knp13N8_SqVeOfGaUuQwJH02JjlYuLx4JBOzuLBGX2ezdoW2I3RSEFkJVyb-3OOlWe7WZ0I25-UtBfiKqVHZnsrZ1NC1J0ZEr1qODT2F7eWw74APyYRg/s600/Nur_20251216_221956_0000.png",
+      "stream_url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
+      "category": "DRAMA",
+      "language": "Bangla",
+      "description": "Deepto TV is a popular Bangladeshi television channel that offers a wide range of entertainment and informational programming, including drama serials, movies, talk shows, reality programs, and cultural content. The channel focuses on delivering engaging and family-friendly entertainment to viewers across Bangladesh and abroad. Deepto TV is known for its modern production quality, diverse programming, and relatable storytelling. Through its vibrant broadcasts and variety of shows, the channel provides audiences with enjoyable, informative, and culturally enriching television experiences.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 40,
+      "name": "A Sports HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmOtBqrUYPOwhCcOe6DsfthRdQf40rz636cFtvtCa1mhdSPHJX34moNI-3-DRrccq3GzdcgqonlAwKk8fh5iIXqB1R8UTQN33ZaYE9bfjDorq4UWCnkOb-rLqMdthJwYpwOnFukDD7IVF4TzDTjksgtjbssx_UMVytELS7i4YJj8SyqI9N17f7OjkYxw/s600/Nur_20251216_222037_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/asports/index.m3u8",
+      "category": "SPORTS",
+      "language": "Urdu/English",
+      "description": "A Sports HD is a dedicated Bangladeshi sports television channel that provides comprehensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and special sports programs, catering to fans of cricket, football, and other popular sports. Known for its high-definition broadcasts and professional presentation, A Sports HD delivers an immersive and engaging sports viewing experience. The channel aims to promote sports culture in Bangladesh by keeping viewers informed, entertained, and connected to their favorite teams, leagues, and sporting events.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 41,
+      "name": "Star Jalsha HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png",
+      "stream_url": "https://tvsen7.aynaott.com/sjhdbd/index.m3u8",
+      "category": "DRAMA",
+      "language": "Bangla",
+      "description": "Star Jalsha HD is a leading Indian Bengali-language television channel that offers a wide range of entertainment programs, including drama serials, reality shows, movies, music programs, and cultural content. The channel is known for its high-quality productions, engaging storytelling, and family-friendly entertainment that appeals to Bengali-speaking audiences in India and abroad. Star Jalsha HD combines contemporary entertainment with cultural representation, showcasing the richness of Bengali traditions and lifestyle. With its vibrant programming and high-definition broadcasts, the channel provides viewers with an immersive and enjoyable television experience.",
+      "added_date": "2025-11-29"
+    },
+    
+    {
+      "id": 42,
+      "name": "Gopal Bhar",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWh27tjd1FNVAOPSX0USYijfaEyINTkfaG0cPk8rzg61aDbyXSp2tBqxIb84p8UyhJLLNiDNC59fZD90u2gn52piHfUmy-ULyeZbf_mkRGvJKVKdwLYSOPiLEQJV2p8uvgVK-PB8ADIGcGotQOnNqrp4gTasKVqoxJ3sbt-77SeKqG-0frt2nLktDXlw/s600/Nur_20251216_230322_0000.png",
+      "stream_url": "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8",
+      "category": "KIDS",
+      "language": "Bangla",
+      "description": "Gopal Bhar – Enjoy the adventures of the clever and witty court jester, Gopal Bhar, in this fun-filled Bengali animated series. Full of humor, clever tricks, and moral lessons, it’s perfect for kids and families to watch and enjoy together. Gopal Bhar is a popular Bengali animated series based on the legendary tales of Gopal Bhar, a witty and clever court jester from Bengal. The show features humorous and entertaining stories that teach moral lessons, problem-solving, and clever thinking through fun adventures. Loved by children and families, Gopal Bhar combines vibrant animation, engaging storytelling, and cultural heritage, making it both educational and enjoyable for young audiences.",
+      "added_date": "2025-12-15"
+    },
+    
+    {
+      "id": 43,
+      "name": "Motu Patlu",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg21ZAgQbK7cWgg1jsBXguoD2T4TNjPxPDY0-fhefmIhX6SucV6RmhP_GbxvUTc3zUBCyuCVPM2Aylb_NbFqTDrIvMYhMGYO3iYMNDKvIWFF9MgSV3sTe2zPxHGnXQYvu9wbPUNxRgQz8Y_3V7Skc-vHbqSpEe-5J-G_NuBGAUrCtqWaplTaubIbpzsKw/s600/Nur_20251216_230424_0000.png",
+      "stream_url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
+      "category": "KIDS",
+      "language": "Hindi/Bangla",
+      "description": "Motu Patlu – Join the hilarious adventures of Motlu and Patlu, two best friends from Furfuri Nagar, as they get into funny situations and clever escapades. Full of comedy, friendship, and fun, it’s a favorite animated series for kids and families.",
+      "added_date": "2025-12-15"
+    },
+    
+    {
+      "id": 44,
+      "name": "Doraemon Hindi",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLBMsrXsPAZmMUpL1YSHecg_MquDHoA6KB5JZlJqVDJZ6qPGEI5tS0Qx3Kz2MNrLSd60OaunpMpR9qjmEPHwn2mgX7rOnFq2VvcbS6HmnSyRl99yGekeamY0deR3DqvybEdG2b06JFAhEzYP7O56VjyUrb8R691BmcM2jnnvyqXYYnlEzSVStSJgUpOA/s600/Nur_20251216_230353_0000.png",
+      "stream_url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
+      "category": "KIDS",
+      "language": "Hindi",
+      "description": "Doraemon – Doraemon is a beloved Japanese animated series that follows the adventures of a robotic cat from the future named Doraemon, who comes to help Nobita, a young boy, navigate everyday challenges. Using futuristic gadgets from his magical pocket, Doraemon solves problems, prevents mischief, and teaches valuable life lessons in fun and imaginative ways. The show combines humor, friendship, creativity, and moral teachings, making it a timeless favorite for children and families around the world. With exciting adventures and memorable characters, Doraemon inspires curiosity, problem-solving, and the joy of learning through entertaining storytelling.",
+      "added_date": "2025-12-16"
+    },
+    
+    
+    {
+      "id": 45,
+      "name": "Iqra Bangla",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxOLOHgsy5Qp5kksSWrPwfsykIy-eXH8KYIdID3Q82bTTQ45PAJbT0QHlReNyoirB8XyTJKbj5EIJUGQfgx3ZKdzfqJTrW9i6QbF3ZVAHaSSPO1MeqLlhGcD5iw0pjKLwvWLp-Pw5GdM66V8Fc__Qlz3hkHWrXqO3fxsPge31OGIkhtQKGPWWw95Khzg/s600/Nur_20251216_230457_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/iqrabangla/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "Bangla",
+      "description": "Iqra Bangla is a Bangladeshi Islamic television channel dedicated to spreading the teachings of Islam in the Bangla language. The channel features programs such as Qur’an recitations, Islamic lectures, religious discussions, and educational content aimed at promoting knowledge, faith, and moral values among viewers. Iqra Bangla focuses on providing spiritually enriching content for audiences of all ages, helping Muslims strengthen their understanding of Islam and live according to its principles. Through its engaging and educational programs, the channel encourages devotion, learning, and the practice of Islamic teachings in daily life.",
+      "added_date": "2025-12-15"
+    },
+    
+    {
+      "id": 46,
+      "name": "Asian TV HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9NgO-lFaW83IPuGAZXfo9nDb-9x5nfSuRgAQ3u1cdongs8YSDrgwH_RQAExmGOeSXeBeOV9g1DumONpBb6HUtYtR69Oi1UoE5BdprdqmLjYm95gmzfxte4GdKlV0Cx5E0nBxiGe_cq99rWCNRq4ebEUhVhZhgPHRbkJIJr1yPFhhyc_cquwn65Hitw/s600/Nur_20251216_230519_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/asiantv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Asian TV is a prominent Bangladeshi entertainment television channel that offers a wide variety of programming, including drama serials, movies, talk shows, music programs, and cultural content. The channel aims to provide engaging, family-friendly entertainment for viewers across Bangladesh and abroad. Known for its diverse content and modern production quality, Asian TV combines entertainment with cultural storytelling, reflecting contemporary Bangladeshi life and traditions. Through its vibrant shows and broadcasts, the channel delivers enjoyable, informative, and immersive television experiences for audiences of all ages.",
+      "added_date": "2025-12-15"
+    },
+    
+    {
+      "id": 47,
+      "name": "Movie Bangla HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM0OLerbNE9IdBK5Um_6d-9cJQmGt58ZkIUdTH7vJCsABi8qGxiMNlzZnhWzlE4BcnKpt12tVyCKZ-J28mC__20CXWtmT7nO74OTVebgXDhPKo6k9W1wCj_QwrKBxhsVa_P1NjCzX4o0p-OoWkPyT5hl6wytPH3-cCTxvVWEFGJNzxeB-fwnZ0mJ7Lsw/s600/Nur_20251216_230545_0000.png",
+      "stream_url": "https://tvsen7.aynaott.com/moviebangla/index.m3u8",
+      "category": "MOVIES",
+      "language": "Bangla",
+      "description": "Movie Bangla is a Bangladeshi television channel dedicated to broadcasting Bengali-language movies, offering a mix of classic hits, contemporary films, and popular cinematic productions. The channel caters to movie lovers who enjoy entertainment, drama, romance, action, and family-oriented films. Movie Bangla provides viewers with high-quality cinematic experiences, showcasing Bangladesh’s rich film industry and storytelling traditions. With a diverse selection of films and engaging programming, the channel has become a favorite destination for audiences seeking entertainment and cultural connection through Bengali cinema.",
+      "added_date": "2025-12-15"
     }
+    
+    
+    
+    
+    
     
     
   
   
   ]
-   }
+    }

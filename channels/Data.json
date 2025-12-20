@@ -20,26 +20,16 @@
     },
     {
       "id": 2,
-      "name": "Saudi Sunnah TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMtx2NOqlOhEtXDNkDY9AQPKHBTTRlIA6QsJ8-dgcHmog-4_ZFzIg6LwPvyV3k-YjyX5L9LgwJOiS2zf-HymlED3fUg4eV7EXsdBdPjclaGRTLLjXfTrdh1-0XcfwDjN9Y6Uk3SOhb-1wmUnTQ4Mn0nXAAYrumM-NNgh3RQEYnHb1Wmf6e2zIwB9aueA/s600/Nur_20251107_152041_0000.png",
-      "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
-      "category": "ISLAMIC",
-      "language": "Arabic",
-      "description": "Sunnah TV is an Islamic television channel broadcast from the Kingdom of Saudi Arabia, dedicated to promoting the teachings of the Prophet Muhammad ﷺ through authentic Sunnah-based content. The channel primarily features live coverage and recorded programs from Masjid an-Nabawi, including sermons, lectures, and guidance rooted in the Qur’an and Sahih Hadith. Sunnah TV plays an important role in educating Muslims about Islamic manners, worship, and daily life according to the Sunnah. Through scholarly talks and spiritually enriching broadcasts, the channel helps viewers strengthen their faith, deepen their understanding of Islam, and follow the path of the Prophet ﷺ with clarity and devotion.",
-      "added_date": "2025-11-10"
-    },
-    {
-      "id": 3,
       "name": "Duronto TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ10o12m5_heYW_O1b71UxtR_ZtpK9dmjzwh1XaPs3lfC8Ev4CweSEOam1lCJ5Tf0V59Yyba60h-UPffxAIMj78BM-qvY5ZMeEAVJYfJ1lOzP0gQn3zX5_iduoCgPb7y-d2NB6NgJ0Ck7vTkwg9VxjNTtmSs4yHN3SHIyxGoZe00djFk5vh95PuCrF/s600/Nur_20251103_211727_0000.png",
       "stream_url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
       "category": "KIDS",
       "language": "Bangla",
       "description": "Duronto TV is a popular Bangladeshi children’s television channel dedicated to providing fun, educational, and family-friendly entertainment. The channel broadcasts a wide range of animated series, cartoons, and kids’ programs that are designed to inspire creativity, imagination, and positive values among young viewers. With a focus on safe and age-appropriate content, Duronto TV blends entertainment with learning, helping children develop cognitive skills, moral understanding, and curiosity in an engaging way. It has become a trusted choice for parents and a favorite destination for kids seeking joyful and meaningful television experiences.",
-      "added_date": "2025-10-05"
+      "added_date": "2025-12-20"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Lotus Macau",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2-CuAoARb0QOtO6oM-x-4nuLA3yWe9-xzoWLuzOg_hVcxWcHHbJDjU3NC8q0dEHj20F9P14RPRFdEBdOKRn5UC0nvsS6ulsXPniJDPCDvcs3d-R6k-PO9yW3qj4X6EwTmy88n7qW-D8sthM1jloquuj1MIVz6UOUoHcc7pGVcgAIhEvm-gI3Rxda/s600/Nur_20251103_202827_0000.png",
       "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/lotusmacautv.stream/tracks-v1a1/mono.m3u8",
@@ -49,7 +39,7 @@
       "added_date": "2025-12-12"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Somoy TV HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPSNUDTzHuYQ0WpDI8ypfMqQQW9K7Z8DPAKD5z9hSMLzsF4n9K06cq1brE3AJczF9zAqPSaWZvczWphVux_36DlPKnxzA56iS2JxELQKN4oPHib8HdtVJrPWHogZQfwBN_Aw4v86vulOYmPdd_-i5VM_YkD_nLciyc25SUnAKjoi02024SpO9OXu2Y7Q/s600/Nur_20251107_155917_0000.png",
       "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8",
@@ -59,7 +49,7 @@
       "added_date": "2025-10-28"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Jamuna TV HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkgxrAG9T6n17HV0eusUzIz4y93pF6pmT0W3WjunhaM-0ge5x82Y3JH5gqq9CTkqbFKq3C2VEUrvQMXAVZ-BQmTDg8KRGwZ_2S-QPDLiHWfC3hn4y_dq-KCgdxMnM3V6UMkc0bE6adKLqtSV-5AggAnnwHVDWiNCf6Qic1R5i_o569Zde9QtTgocD5dQ/s600/Nur_20251107_155850_0000.png",
       "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
@@ -69,7 +59,7 @@
       "added_date": "2025-11-03"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "BTV National",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg84CkHyW8BiQfsSryCejIIV6b97w3b13_mWDQxMyS76SeYFchWthmYfBv7YLzqjnYMTJ6kPHL0a_tIhhbsEACe19nYfZpN0OMzxOg_UbvX5bj4UjBEYXrdhU_IpyXTc7tnt-undyJmy1mi1Jo6aMLzSjOR01EcpfQp9kjKOwjJipKJBmiJUqVONSI8/s600/Nur_20251028_132337_0000.png",
       "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8",
@@ -79,7 +69,7 @@
       "added_date": "2025-10-14"
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Zee Bangla",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFpKLo5cYb54zMuUNtSaJOOxK0aQKrC-VJ6a0_XIspxxk0aX178b0z3oO1Xn8qIiE7Jmrw3bv06A4axit55KEFhS6vgmcTo0cUqXhlbZh0IYNkPdomla8SJR7bvlBV2hGKeDDwQyzyztAWhyphenhyphenodRZ6FXnYIbNdoBoxdECEpNQBPDeTFkAh2zqISTWvag/s600/Nur_20251107_002115_0000.png",
       "stream_url": "https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8",
@@ -87,6 +77,16 @@
       "language": "Bangla",
       "description": "Zee Bangla is a popular Indian Bengali-language television channel that offers a wide variety of entertainment programs, including drama series, reality shows, talk shows, movies, and cultural content. The channel is known for delivering high-quality productions that resonate with Bengali-speaking audiences both in India and abroad. Zee Bangla provides a perfect blend of entertainment, storytelling, and cultural representation, making it a favorite choice for families and individuals seeking engaging and diverse programming. With its innovative shows and viewer-centric approach, the channel continues to be a leading destination for Bengali entertainment.",
       "added_date": "2025-09-07"
+    },
+    {
+      "id": 8,
+      "name": "Saudi Sunnah TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMtx2NOqlOhEtXDNkDY9AQPKHBTTRlIA6QsJ8-dgcHmog-4_ZFzIg6LwPvyV3k-YjyX5L9LgwJOiS2zf-HymlED3fUg4eV7EXsdBdPjclaGRTLLjXfTrdh1-0XcfwDjN9Y6Uk3SOhb-1wmUnTQ4Mn0nXAAYrumM-NNgh3RQEYnHb1Wmf6e2zIwB9aueA/s600/Nur_20251107_152041_0000.png",
+      "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "Arabic",
+      "description": "Sunnah TV is an Islamic television channel broadcast from the Kingdom of Saudi Arabia, dedicated to promoting the teachings of the Prophet Muhammad ﷺ through authentic Sunnah-based content. The channel primarily features live coverage and recorded programs from Masjid an-Nabawi, including sermons, lectures, and guidance rooted in the Qur’an and Sahih Hadith. Sunnah TV plays an important role in educating Muslims about Islamic manners, worship, and daily life according to the Sunnah. Through scholarly talks and spiritually enriching broadcasts, the channel helps viewers strengthen their faith, deepen their understanding of Islam, and follow the path of the Prophet ﷺ with clarity and devotion.",
+      "added_date": "2025-12-20"
     },
     {
       "id": 9,
@@ -850,6 +850,16 @@
     },
     {
       "id": 85,
+      "name": "Sony Aath",
+      "logo": "",
+      "stream_url": "https://allottplay.com/tv/toffee/live.php?id=sonyaath&e=.m3u8",
+      "category": "KIDS",
+      "language": "Bangla",
+      "description": "",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 86,
       "name": "Sony Yay HD",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=sonyyay&e=.m3u8",
@@ -859,7 +869,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 86,
+      "id": 87,
       "name": "Pogo",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=pogo_sd&e=.m3u8",
@@ -869,7 +879,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 87,
+      "id": 88,
       "name": "Zee Cinema HD",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=zee_cinema_hd&e=.m3u8",
@@ -879,7 +889,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 88,
+      "id": 89,
       "name": "Discovery India",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=discovery_sd&e=.m3u8",
@@ -889,7 +899,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 89,
+      "id": 90,
       "name": "Cartoon Network",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=cartoon_network_sd&e=.m3u8",
@@ -899,7 +909,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 90,
+      "id": 91,
       "name": "CN HD+",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=cartoon_network_hd&e=.m3u8",
@@ -909,7 +919,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 91,
+      "id": 92,
       "name": "Discovery Kids",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=discovery_kids&e=.m3u8",
@@ -919,22 +929,12 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 92,
+      "id": 93,
       "name": "Sony Max HD",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8",
       "category": "MOVIES",
       "language": "Hindi",
-      "description": "",
-      "added_date": "2025-12-19"
-    },
-    {
-      "id": 93,
-      "name": "",
-      "logo": "",
-      "stream_url": "",
-      "category": "",
-      "language": "Bangla",
       "description": "",
       "added_date": "2025-12-19"
     },
@@ -960,6 +960,16 @@
     },
     {
       "id": 96,
+      "name": "",
+      "logo": "",
+      "stream_url": "",
+      "category": "",
+      "language": "Bangla",
+      "description": "",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 97,
       "name": "",
       "logo": "",
       "stream_url": "",

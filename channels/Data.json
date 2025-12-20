@@ -9,6 +9,15 @@
   "ad_images": [],
   "channels": [
     {
+      "name": "Saudi Quran TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
+      "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "Arabic",
+      "description": "Saudi Quran TV is a renowned Islamic television channel broadcast from the Kingdom of Saudi Arabia, dedicated to the continuous recitation of the Holy Qur’an. The channel features beautiful and authentic Qur’anic recitations by esteemed Qaris and the Imams of the Haramain Sharifain (Masjid al-Haram and Masjid an-Nabawi). This channel serves as a source of spiritual peace, reflection, and guidance for Muslims around the world. Through its high-quality and soul-touching Tilawat, Saudi Quran TV helps strengthen faith, encourage regular Qur’an recitation, and create a serene Islamic atmosphere in homes and hearts.",
+      "added_date": "2025-11-15"
+    },
+    {
       "name": "Saudi Sunnah TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMtx2NOqlOhEtXDNkDY9AQPKHBTTRlIA6QsJ8-dgcHmog-4_ZFzIg6LwPvyV3k-YjyX5L9LgwJOiS2zf-HymlED3fUg4eV7EXsdBdPjclaGRTLLjXfTrdh1-0XcfwDjN9Y6Uk3SOhb-1wmUnTQ4Mn0nXAAYrumM-NNgh3RQEYnHb1Wmf6e2zIwB9aueA/s600/Nur_20251107_152041_0000.png",
       "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
@@ -16,6 +25,15 @@
       "language": "Arabic",
       "description": "Sunnah TV is an Islamic television channel broadcast from the Kingdom of Saudi Arabia, dedicated to promoting the teachings of the Prophet Muhammad ﷺ through authentic Sunnah-based content. The channel primarily features live coverage and recorded programs from Masjid an-Nabawi, including sermons, lectures, and guidance rooted in the Qur’an and Sahih Hadith. Sunnah TV plays an important role in educating Muslims about Islamic manners, worship, and daily life according to the Sunnah. Through scholarly talks and spiritually enriching broadcasts, the channel helps viewers strengthen their faith, deepen their understanding of Islam, and follow the path of the Prophet ﷺ with clarity and devotion.",
       "added_date": "2025-11-10"
+    },
+    {
+      "name": "Duronto TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ10o12m5_heYW_O1b71UxtR_ZtpK9dmjzwh1XaPs3lfC8Ev4CweSEOam1lCJ5Tf0V59Yyba60h-UPffxAIMj78BM-qvY5ZMeEAVJYfJ1lOzP0gQn3zX5_iduoCgPb7y-d2NB6NgJ0Ck7vTkwg9VxjNTtmSs4yHN3SHIyxGoZe00djFk5vh95PuCrF/s600/Nur_20251103_211727_0000.png",
+      "stream_url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
+      "category": "KIDS",
+      "language": "Bangla",
+      "description": "Duronto TV is a popular Bangladeshi children’s television channel dedicated to providing fun, educational, and family-friendly entertainment. The channel broadcasts a wide range of animated series, cartoons, and kids’ programs that are designed to inspire creativity, imagination, and positive values among young viewers. With a focus on safe and age-appropriate content, Duronto TV blends entertainment with learning, helping children develop cognitive skills, moral understanding, and curiosity in an engaging way. It has become a trusted choice for parents and a favorite destination for kids seeking joyful and meaningful television experiences.",
+      "added_date": "2025-10-05"
     },
     {
       "name": "Lotus Macau",

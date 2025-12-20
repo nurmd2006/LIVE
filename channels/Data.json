@@ -9,6 +9,16 @@
   "ad_images": [],
   "channels": [
     {
+      "id": 1766239383917,
+      "name": "Unknown SSID",
+      "logo": "",
+      "stream_url": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
+      "category": "ISLAMIC",
+      "language": "Bangla",
+      "description": "",
+      "added_date": "2025-12-20"
+    },
+    {
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
       "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",

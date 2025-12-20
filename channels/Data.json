@@ -1,53 +1,12 @@
-
 {
   "admin": {
     "name": "NUR MOHAMMAD MRIDHA",
     "email": "nurmd2006.official@gmail.com",
     "platform_name": "Ovation Bangladesh",
-    "last_update": "2025-12-19"
+    "last_update": "2025-12-20"
   },
-
-  "ads": [
-    {
-      "html": "<div style='color:white;text-align:center;padding:20px;'><h3>Special Offer!</h3><p>Get 50% off on Premium Subscription সাথে! 🍰✨</p><button style='padding:10px 20px;background:#4CAF50;color:white;border:none;border-radius:5px;margin-t>Order Now</button></div>",
-      "image": "https://raw.githubusercontent.com/nurmd2006/LIVE/refs/heads/main/FB_IMG_1765795325505.jpg",
-      "duration": 10,
-      "redirect_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
-    },
-    {
-      "html": "<div style='color:white;text-align:center;padding:20px;'><h3>New Channels Added!</h3><p>Watch 50+ new international channels</p><button style='padding:10px 20px;background:#2196F3;color:white;border:none;border-radius:5px;margin-top:10px;'>Explore Now</button></div>",
-      "image": "example.jpg",
-      "duration": 8,
-      "redirect_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
-    }
-  ],
-
-  "ad_images": [
-    {
-      "size": "728x90",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnQPbxS9jmPbhXYaDcu6y4P8P2JRSzxfwJtw2yyKiyOsglS52Rj4G4o84QJQkIxJm24U7zIlYrItmW6wn7FRGf02BngAbIZwqEhmLYW0XrZJd_rL6V9IYPtInOL1rqPR1YKcMVfG7aHcxB3DKW6o9ixXmtN3INyVYEM7g7lX6S2K-__w/s728-e100/728x90-ad.jpg",
-      "click_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
-    },
-    {
-      "size": "300x250",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzWrP-yawtnqMZ1tgzLZ5xxiC4sjyCg4_U9O8E4Apo5fLf7H1qt_SB_x3sVq7CNfT7RSmukd8lO3icVJlx14V5KZvU1_3ZCSs8Kn9v_FTEdt91-Qgpq8awFWVt4_PbSx0n6zT-dv9ZXYTh4Jje6jEF_Es7LJWfU8X3z9Nc0BLnFScZIQ/s250-e100/300x250-ad.jpg",
-      "click_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
-    },
-    {
-      "size": "728x250",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs-B19kZ9kzHcB7cXwri1V7uOoHw3T-KiJJ2uikd6hQr4Whl1sxwj2H9UppicMqN_c8F7qVdT5TS3vQ1c30ux72z2-m7mXGZUDy8yQXGBJqR54E5Zwe3gVJ0-6b1NFElU5bR8dAe9n3_-8LQpTVW0G7sXsv1N9rc4knxPhm36vtM-aMXg/s728-e100/footer-ad.jpg",
-      "click_url": "https://vowsavageskim.com/pn5jmmpa?key=dbd43f7d768352d6f28f0b266066a838"
-    }
-  ],
-
-
-
-
-
-
-
-
-
+  "ads": [],
+  "ad_images": [],
   "channels": [
     {
       "id": 1,
@@ -209,7 +168,6 @@
       "description": "T Sports is Bangladesh’s first dedicated sports television channel, offering comprehensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and special sports programs, catering to fans of cricket, football, and a variety of other popular sports. T Sports aims to promote sports culture in Bangladesh by providing high-quality, engaging, and informative coverage. With a focus on real-time updates and in-depth commentary, the channel has become a trusted destination for sports enthusiasts seeking to stay connected with their favorite teams, leagues, and sporting events.",
       "added_date": "2025-10-30"
     },
-        
     {
       "id": 17,
       "name": "ARY Digital",
@@ -250,7 +208,7 @@
       "description": "Action Hollywood Movies is a dedicated television channel that showcases the best action-packed Hollywood films, catering to fans of thrilling adventures, high-octane stunts, and captivating storylines. The channel features a wide variety of genres including action, adventure, superhero, and crime thrillers from Hollywood’s biggest studios. With high-quality broadcasts and a focus on adrenaline-pumping entertainment, Action Hollywood Movies provides viewers with non-stop excitement and cinematic experiences. It is the perfect destination for audiences seeking blockbuster action films, iconic heroes, and edge-of-the-seat storytelling from the world of Hollywood.",
       "added_date": "2025-10-20"
     },
-     {
+    {
       "id": 21,
       "name": "Channel 24",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip3cZkBSJ2lCQplU6UqTbpa3lBRQHmVzOx9YPoQjjDgoUR849cbXLSkiw14LvSc5NdSkB8rMfi3D_I-iHmP94acvdv-Vml5HMp-ddSLXtFZ1Ka3ZS43kiCcQlMcp9upmt5yxEyXMkcv8JQRi-DzFunm-D9cAOdDCfVwARDnaHnO-RMamhJRLhtPeXz7g/s600/Nur_20251215_121111_0000.png",
@@ -260,7 +218,7 @@
       "description": "Channel 24 is a leading Bangladeshi news television channel that provides 24-hour coverage of national and international news. The channel broadcasts live news updates, breaking news, talk shows, investigative reports, and in-depth analysis on politics, economy, society, and current affairs. Known for its fast, accurate, and responsible journalism, Channel 24 serves as a reliable source of information for viewers in Bangladesh and around the world. Through its comprehensive programming and professional reporting, the channel aims to keep audiences informed, aware, and connected to current events.",
       "added_date": "2025-11-22"
     },
-   {
+    {
       "id": 22,
       "name": "Independent TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjKJ6ExvIpny9j89GzkqfGMVWsd9TMQUoxBzUCRMjo_5Lpp3vWEpU_jD2pGdpk82HEIly2s5auMoqfgUDFJWZKNHSdx6usa8fY2D_kFUmAWo3w4h2e7t1FwHpIpjKGX-YOimnpashd7kxQuUSXQUd2ZNUqr_sYTIwkHx7Qmk3wKeKbq6KH-PhiFBHU-w/s600/Nur_20251215_121244_0000.png",
@@ -270,7 +228,7 @@
       "description": "Independent TV is a prominent Bangladeshi news television channel that delivers 24-hour coverage of national and international news. The channel features live news bulletins, breaking news updates, talk shows, investigative journalism, and in-depth analysis on politics, economy, society, and current affairs. Renowned for its professional reporting and modern presentation, Independent TV focuses on accuracy, neutrality, and responsible journalism. Through its wide-ranging programs, the channel keeps viewers informed, engaged, and connected to important events in Bangladesh and around the world.",
       "added_date": "2025-10-22"
     },
-   {
+    {
       "id": 23,
       "name": "ATN News",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzTBiLRInm1MC68JMgfX85yddAJWRDLHGyGXyq-0nzbDTR85KmnG0DMGli8qdeKF8wsDCSFwdpMrjRsM7Qp9qmrOl5VhYM2GhV1sv0fcIXwo_LhgW8A2kGClrAhfcofaKWEu1bhRwFvjyv_PhoeAac-Jzq3tnFfCQtpzUkZX-Wc_4JsRviX9tk2oLAkA/s600/Nur_20251215_122334_0000.png",
@@ -280,7 +238,7 @@
       "description": "ATN News is one of Bangladesh’s leading 24-hour news television channels, providing comprehensive coverage of national and international events. The channel broadcasts live news bulletins, breaking news, talk shows, current affairs programs, and special reports focusing on politics, economy, society, and global issues. ATN News is known for its timely updates, responsible journalism, and in-depth reporting. Through its informative and analytical programming, the channel aims to keep viewers well-informed, aware, and connected to the latest developments in Bangladesh and around the world.",
       "added_date": "2025-10-22"
     },
-   {
+    {
       "id": 24,
       "name": "Ekattor TV HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Fke8hMiTjdGIrnlxPr8NI9WkoZwH3_Cptxu1xvM1TncuEAWx2WYj156JeLkevRmGa89TvVlAOzTRKRp5ai7GhFuiTdzVVzcWUZ2eGnnUebaOEZ4INhBlac8kUpLqtGHxkBzWMXnjFSm8hbB8LKS8blNW7Ad9-r09w4eMwkw8BDSzpW5OK2BrV_Dd6g/s600/Nur_20251215_121614_0000.png",
@@ -289,8 +247,7 @@
       "language": "Bangla",
       "description": "Ekattor TV is a prominent Bangladeshi news television channel that provides 24-hour coverage of national and international news. The channel broadcasts live news bulletins, breaking news updates, talk shows, investigative reports, and in-depth analysis on politics, economy, society, and current affairs. Known for its strong focus on factual reporting and modern news presentation, Ekattor TV aims to keep viewers informed with accurate, timely, and responsible journalism. Through its diverse programs, the channel plays an important role in shaping public awareness and discussion in Bangladesh.",
       "added_date": "2025-10-22"
-    }, 
-    
+    },
     {
       "id": 25,
       "name": "Geo Super",
@@ -301,8 +258,6 @@
       "description": "Geo Super is Pakistan’s first dedicated sports television channel, offering extensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, sports talk shows, and exclusive interviews, catering to fans of cricket, football, wrestling, and other popular sports. Geo Super is known for its energetic presentation and comprehensive sports programming, keeping viewers updated with real-time action and in-depth commentary. With a strong focus on sports entertainment and analysis, the channel has become a trusted destination for sports enthusiasts in Pakistan and beyond.",
       "added_date": "2025-10-30"
     },
-    
-    
     {
       "id": 26,
       "name": "Willow HD",
@@ -313,8 +268,6 @@
       "description": "Willow HD is a premier sports television channel dedicated primarily to live cricket coverage, serving cricket fans around the world. The channel broadcasts international cricket matches, domestic leagues, highlights, and expert analysis, delivering high-definition viewing experiences for major tournaments and series. Willow HD is especially popular among South Asian and global cricket audiences for its reliable coverage, in-depth commentary, and exclusive cricket content. With its focus on live action and quality broadcasting, the channel is a top destination for viewers who want to stay connected to the world of cricket.",
       "added_date": "2025-11-30"
     },
-    
-    
     {
       "id": 27,
       "name": "Sony Sports 2",
@@ -325,7 +278,6 @@
       "description": "Sony Sports Ten 2 is a popular sports television channel that delivers live coverage of major national and international sporting events. The channel primarily features cricket, football, and other high-profile sports, along with match highlights, expert analysis, and special sports programming. Known for its high-quality production and professional commentary, Sony Sports Ten 2 provides an engaging and immersive viewing experience for sports fans. The channel caters to a wide audience by offering comprehensive sports coverage and in-depth insights into games, tournaments, and athletes around the world.",
       "added_date": "2025-11-29"
     },
-    
     {
       "id": 28,
       "name": "Discovery HD Indian",
@@ -336,8 +288,7 @@
       "description": "Discovery HD is a globally recognized television channel that delivers high-definition factual and documentary programming. The channel features a wide range of content including science, technology, nature, engineering, adventure, and real-life exploration shows, presented with stunning visuals and informative storytelling. Discovery HD is known for its immersive documentaries and educational entertainment that inspire curiosity and learning. By combining cutting-edge production quality with compelling real-world stories, the channel offers viewers an engaging experience that explores the wonders of the world, innovation, and human achievement.",
       "added_date": "2025-10-30"
     },
-     
-     {
+    {
       "id": 29,
       "name": "Star Sports Select 1",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLOEbu7WVccSRRH3l-Q7KQh8jFO87BaqusHGjzW9Nn3h7Trt8bwZGL5kKfEbUmaFPUOoiP8stewAtwAIlZhomPQbmVlroq0gul1GClTADo6Hh4gWanS2fzPxGg2lGiwUX_AijZRyBa2LTcKLjpskFH-ESD5HZY19FbK409eKCD7vy4a5jyQM_q4BPPhQ/s600/Nur_20251216_221506_0000.png",
@@ -347,7 +298,7 @@
       "description": "Star Sports Select 1 is a premium sports television channel that offers live coverage of elite international sporting events. The channel primarily focuses on top-tier sports such as cricket, football, tennis, and other global competitions, along with expert analysis, pre-match shows, and detailed post-match discussions. Known for its high-quality production and exclusive sports content, Star Sports Select 1 delivers an immersive and professional viewing experience for sports enthusiasts. The channel is designed for audiences who seek in-depth coverage, expert commentary, and premium sports entertainment from around the world.",
       "added_date": "2025-11-29"
     },
-     {
+    {
       "id": 30,
       "name": "Star Sports 1",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFJqjN4nfxkVw5lcWZhEe_AUk-DdkLuLZgb2idv3kZEiHPaVP7RNgk4hU4cfC-1z830otQdR_nLcarHrdSew3Cx9TylJ901V4CUAQtjeW6uP-6V-9Drdynyv8cJ75MJFP-zSEMChboJ3uPF8hL6F5rIJkQVS5wqh-NfbA2jjgg95gVlrg1VuByXbKhbg/s600/Nur_20251216_221535_0000.png",
@@ -357,18 +308,6 @@
       "description": "Star Sports 1 is one of India’s leading sports television channels, offering extensive coverage of major national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and special sports programs, with a strong focus on cricket, football, kabaddi, and other popular sports. Star Sports 1 is known for its high-quality production, engaging commentary, and wide-ranging sports content that caters to millions of fans. With its comprehensive programming and reliable coverage, the channel remains a top destination for sports enthusiasts seeking live action and in-depth sports entertainment.",
       "added_date": "2025-11-29"
     },
-    
-      {
-      "id": 33,
-      "name": "GTV HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUytWIP-VVJdFlHTiigxsmzHh3D8g5eXDAqmtBmD0M4JZiMZ3LPvVByKtWPTwJV4seYdZKBTGDcmgkHBb9tWTR645l1TZoEyskqOwTpsBQoaRKSVfYu0A7XH2l6sY_jeOsdjN3bKAATzjPrDZdzvLlMcB05lC00RwJgXIn_5o83zGLs3lWXLRmqJTD1Q/s600/Nur_20251216_221611_0000.png",
-      "stream_url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "GTV HD is a leading Bangladeshi entertainment television channel that offers a diverse range of programs in high-definition quality. The channel broadcasts popular drama serials, movies, reality shows, music programs, and special events, catering to audiences of all ages across Bangladesh and abroad. Known for its high production standards and engaging content, GTV HD combines entertainment with cultural richness. Through its premium HD broadcasts and popular shows, the channel provides viewers with an enjoyable and immersive television experience while showcasing contemporary Bangladeshi entertainment.",
-      "added_date": "2025-11-20"
-    },
-    
     {
       "id": 31,
       "name": "BanglaVision HD",
@@ -379,7 +318,6 @@
       "description": "Bangla Vision is a well-known Bangladeshi television channel that offers a wide range of programming, including news, drama series, talk shows, documentaries, entertainment programs, and cultural content. The channel is committed to delivering informative, engaging, and socially relevant content for audiences in Bangladesh and abroad. Bangla Vision is recognized for its focus on quality journalism, meaningful entertainment, and cultural representation. Through its diverse programs and thoughtful presentation, the channel aims to educate, entertain, and inspire viewers while reflecting the values and realities of Bangladeshi society.",
       "added_date": "2025-11-29"
     },
-    
     {
       "id": 32,
       "name": "Boishakhi TV",
@@ -390,9 +328,16 @@
       "description": "Boishakhi TV is a popular Bangladeshi television channel that offers a diverse range of entertainment, news, music, talk shows, and cultural programs. The channel is widely known for its vibrant presentation and content that reflects Bangladeshi lifestyle, traditions, and contemporary society. Boishakhi TV delivers engaging programs that appeal to viewers of all ages, combining entertainment with information and cultural expression. Through its variety of shows and lively broadcasts, the channel has established itself as a familiar and trusted name in Bangladesh’s television landscape.",
       "added_date": "2025-11-29"
     },
-    
-    
-    
+    {
+      "id": 33,
+      "name": "GTV HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUytWIP-VVJdFlHTiigxsmzHh3D8g5eXDAqmtBmD0M4JZiMZ3LPvVByKtWPTwJV4seYdZKBTGDcmgkHBb9tWTR645l1TZoEyskqOwTpsBQoaRKSVfYu0A7XH2l6sY_jeOsdjN3bKAATzjPrDZdzvLlMcB05lC00RwJgXIn_5o83zGLs3lWXLRmqJTD1Q/s600/Nur_20251216_221611_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "GTV HD is a leading Bangladeshi entertainment television channel that offers a diverse range of programs in high-definition quality. The channel broadcasts popular drama serials, movies, reality shows, music programs, and special events, catering to audiences of all ages across Bangladesh and abroad. Known for its high production standards and engaging content, GTV HD combines entertainment with cultural richness. Through its premium HD broadcasts and popular shows, the channel provides viewers with an enjoyable and immersive television experience while showcasing contemporary Bangladeshi entertainment.",
+      "added_date": "2025-11-20"
+    },
     {
       "id": 34,
       "name": "Peace TV Bangla",
@@ -473,7 +418,6 @@
       "description": "Star Jalsha HD is a leading Indian Bengali-language television channel that offers a wide range of entertainment programs, including drama serials, reality shows, movies, music programs, and cultural content. The channel is known for its high-quality productions, engaging storytelling, and family-friendly entertainment that appeals to Bengali-speaking audiences in India and abroad. Star Jalsha HD combines contemporary entertainment with cultural representation, showcasing the richness of Bengali traditions and lifestyle. With its vibrant programming and high-definition broadcasts, the channel provides viewers with an immersive and enjoyable television experience.",
       "added_date": "2025-11-29"
     },
-    
     {
       "id": 42,
       "name": "Gopal Bhar",
@@ -484,7 +428,6 @@
       "description": "Gopal Bhar – Enjoy the adventures of the clever and witty court jester, Gopal Bhar, in this fun-filled Bengali animated series. Full of humor, clever tricks, and moral lessons, it’s perfect for kids and families to watch and enjoy together. Gopal Bhar is a popular Bengali animated series based on the legendary tales of Gopal Bhar, a witty and clever court jester from Bengal. The show features humorous and entertaining stories that teach moral lessons, problem-solving, and clever thinking through fun adventures. Loved by children and families, Gopal Bhar combines vibrant animation, engaging storytelling, and cultural heritage, making it both educational and enjoyable for young audiences.",
       "added_date": "2025-12-15"
     },
-    
     {
       "id": 43,
       "name": "Motu Patlu",
@@ -495,7 +438,6 @@
       "description": "Motu Patlu – Join the hilarious adventures of Motlu and Patlu, two best friends from Furfuri Nagar, as they get into funny situations and clever escapades. Full of comedy, friendship, and fun, it’s a favorite animated series for kids and families.",
       "added_date": "2025-12-15"
     },
-    
     {
       "id": 44,
       "name": "Doraemon Hindi",
@@ -506,8 +448,6 @@
       "description": "Doraemon – Doraemon is a beloved Japanese animated series that follows the adventures of a robotic cat from the future named Doraemon, who comes to help Nobita, a young boy, navigate everyday challenges. Using futuristic gadgets from his magical pocket, Doraemon solves problems, prevents mischief, and teaches valuable life lessons in fun and imaginative ways. The show combines humor, friendship, creativity, and moral teachings, making it a timeless favorite for children and families around the world. With exciting adventures and memorable characters, Doraemon inspires curiosity, problem-solving, and the joy of learning through entertaining storytelling.",
       "added_date": "2025-12-16"
     },
-    
-    
     {
       "id": 45,
       "name": "Iqra Bangla",
@@ -518,7 +458,6 @@
       "description": "Iqra Bangla is a Bangladeshi Islamic television channel dedicated to spreading the teachings of Islam in the Bangla language. The channel features programs such as Qur’an recitations, Islamic lectures, religious discussions, and educational content aimed at promoting knowledge, faith, and moral values among viewers. Iqra Bangla focuses on providing spiritually enriching content for audiences of all ages, helping Muslims strengthen their understanding of Islam and live according to its principles. Through its engaging and educational programs, the channel encourages devotion, learning, and the practice of Islamic teachings in daily life.",
       "added_date": "2025-12-15"
     },
-    
     {
       "id": 46,
       "name": "Asian TV HD",
@@ -529,7 +468,6 @@
       "description": "Asian TV is a prominent Bangladeshi entertainment television channel that offers a wide variety of programming, including drama serials, movies, talk shows, music programs, and cultural content. The channel aims to provide engaging, family-friendly entertainment for viewers across Bangladesh and abroad. Known for its diverse content and modern production quality, Asian TV combines entertainment with cultural storytelling, reflecting contemporary Bangladeshi life and traditions. Through its vibrant shows and broadcasts, the channel delivers enjoyable, informative, and immersive television experiences for audiences of all ages.",
       "added_date": "2025-12-15"
     },
-    
     {
       "id": 47,
       "name": "Movie Bangla HD",
@@ -540,7 +478,6 @@
       "description": "Movie Bangla is a Bangladeshi television channel dedicated to broadcasting Bengali-language movies, offering a mix of classic hits, contemporary films, and popular cinematic productions. The channel caters to movie lovers who enjoy entertainment, drama, romance, action, and family-oriented films. Movie Bangla provides viewers with high-quality cinematic experiences, showcasing Bangladesh’s rich film industry and storytelling traditions. With a diverse selection of films and engaging programming, the channel has become a favorite destination for audiences seeking entertainment and cultural connection through Bengali cinema.",
       "added_date": "2025-12-15"
     },
-    
     {
       "id": 48,
       "name": "DW News",
@@ -551,8 +488,7 @@
       "description": "DW (Deutsche Welle) is Germany’s international public broadcaster, providing reliable news, in-depth analysis, documentaries, and cultural programs to audiences around the world. The channel covers global politics, economy, science, technology, culture, and social issues with a strong focus on accuracy, balance, and independent journalism. DW is widely respected for its high-quality reporting and global perspective, offering content in multiple languages to reach an international audience. Through its informative programs and documentaries, DW helps viewers better understand global events, different cultures, and the issues shaping today’s world.",
       "added_date": "2025-12-18"
     },
-    
-     {
+    {
       "id": 49,
       "name": "CNN HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoWAQrzMXXfh1IoscYWH2uY-asahquV9WQuWMpW3k6_0VB0GP_Ioa8SckMO0KrkeMUdA5iKFs437f0wLCK3vs3HAe_jJ7BE3BBIZk_KnfVfN9iywMW2fv90YJ7DmnqGiROTLEaOzM5tdRD99XGwzed1IO9CJancFh7asedgKrNa1H21KX2DMZV8fGV/s600/Nur_20251026_224755_0000.png",
@@ -562,8 +498,7 @@
       "description": "CNN (Cable News Network) is a globally recognized international news television channel known for its 24-hour coverage of breaking news, global events, and in-depth reporting. The channel delivers live news updates, expert analysis, interviews, documentaries, and special reports covering politics, economy, world affairs, technology, and current events. CNN is trusted worldwide for its fast, accurate, and professional journalism. With correspondents and bureaus across the globe, the channel provides real-time insights and comprehensive coverage, helping viewers stay informed about major events and developments shaping the world.",
       "added_date": "2025-12-18"
     },
-    
-     {
+    {
       "id": 50,
       "name": "BBC World News",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8A2v041yTEyupFO2BJFb8-jUzphXsNWLZ4Wt7KEhqJptp6fpFoEwRbmnQmlPHt7KIQ-RZeew_ZL1EyCmgiBqWB5Ld_1Io_erjH1SvFLthpb9VsiK_j_zBudXtH13K9ZUu0UrUaqyNshOqwNcx7GWXuujb6DdcUiolzponfRttj18r0_G8_rHfQDxE/s600/Nur_20251026_223547_0000.png",
@@ -573,7 +508,7 @@
       "description": "BBC World News is a leading international news television channel operated by the British Broadcasting Corporation (BBC). The channel provides 24-hour global news coverage, featuring breaking news, in-depth reports, interviews, documentaries, and analysis on international affairs, politics, business, technology, and culture. Renowned for its impartial journalism and global reach, BBC World News delivers accurate, balanced, and reliable reporting from correspondents around the world. Through its comprehensive programming, the channel helps viewers stay informed about major global events and understand the issues shaping today’s world.",
       "added_date": "2025-12-18"
     },
-     {
+    {
       "id": 51,
       "name": "Aljazeera HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaBdbL7lCwCj-0NYvOvZtvJGm-yXMAhAYq4u99CmYcBJRJjhVU9SkS8IzwaWy1F1f7EUJqL_fXMWgxA4P9n09QVQrzV1jM5JtPVeNcGeMMA5_HVD4bBYQ97OZN7ijNWa700_po0PVIZEXaCgDDVnjSa6Mv9V33gHPPxLSDH1GNPrQ0AsnIufh3NBbM/s600/Nur_20251026_223118_0000.png",
@@ -583,7 +518,7 @@
       "description": "Al Jazeera is a globally respected international news television network based in Qatar, known for its comprehensive and in-depth coverage of world events. The channel broadcasts 24-hour news, breaking stories, documentaries, investigative reports, and analysis on global politics, economy, conflicts, human rights, and social issues. Al Jazeera is recognized for its independent journalism and diverse global perspective, with correspondents stationed around the world. Through its powerful storytelling and factual reporting, the channel provides viewers with deeper insights into international affairs and voices from regions often underrepresented in global media.",
       "added_date": "2025-12-18"
     },
-     {
+    {
       "id": 52,
       "name": "Mastiii TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjBVBPPA2T7dgQsvo6Ft6OOy0aCC-0Q2JILSpXBIDGyr4JWSLh5aTH5DdxToER1g4gmCwS4gB83rXCJIUwqi-TPMBd56y0W1GnQcQrVgpqYQIeMjrSQf4XQktyhj4bCD7AaKgxrgHoPGbTQQLdMGY14N0jBriQJvU6ga8LTeXOI-GgkaMhR_wqWGF9/s600/Nur_20251104_201459_0000.png",
@@ -593,7 +528,7 @@
       "description": "Mastiii is a popular Indian music television channel dedicated to nonstop Bollywood music entertainment. The channel features a wide collection of Hindi movie songs, music videos, countdown shows, and special music programs that keep viewers entertained around the clock. Known for its energetic vibe and youthful appeal, Mastiii delivers the latest hits along with evergreen classics, making it a favorite destination for music lovers. With its fun-filled presentation and continuous music playback, the channel creates a lively entertainment experience for audiences of all ages.",
       "added_date": "2025-12-19"
     },
-     {
+    {
       "id": 53,
       "name": "9XM",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWUAqcRFDBPEI49XSsNrXiWUDZp2tvB2WoU2lD5Dux_1BAwyPmag8gxgAj79O3VUabYx8EqQzOqLZNxwrfVSh6h5QmEgOj_xfeohhMhucceDcKzaNZVBxIJDIk2dgNd_IGB_7QnHAUh5fZzfXPBayLJuwktrAL0z8AN_pqrwzuk6BFRq4iVoYlePhn/s600/Nur_20251104_201324_0000.png",
@@ -603,7 +538,7 @@
       "description": "9XM is a popular Indian Hindi music television channel known for its nonstop Bollywood music and fun-filled presentation style. The channel features the latest hit songs, classic tracks, music countdowns, and entertaining animated segments that add humor and creativity between music videos. Loved by music fans for its youthful energy and unique animated characters, 9XM delivers a lively and engaging music experience. The channel is a favorite destination for audiences who enjoy Bollywood music combined with light-hearted entertainment and continuous musical fun.",
       "added_date": "2025-12-19"
     },
-     {
+    {
       "id": 54,
       "name": "YRF Music",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_IrD_brxSAg_Uv2jF_QExvP6hTBfFkb1ftKCBz7kMQo49Tm1Q_RE6tRB8ZbEhdlzj_Mn_zx7rTeJBCe9XouPyqzW7Ph9sL3gip08X-6heLfBcSWZw3OcxGFvNykE3vDGaaRrjHSE9sufcSv3IPJnT1dwjXPQjA0jAaAD_AS2WlGgox8rcCi1i5txz/s600/Nur_20251104_202724_0000.png",
@@ -613,7 +548,7 @@
       "description": "YRF Music is an Indian music television channel and digital music brand from Yash Raj Films, dedicated to showcasing Bollywood songs from YRF’s iconic movie library. The channel features romantic melodies, chart-topping hits, timeless classics, and popular soundtracks from some of the most successful Hindi films. YRF Music is known for its high-quality music videos and rich cinematic presentation. With its focus on soulful compositions, modern hits, and legendary Bollywood music, the channel offers an immersive and premium music experience for fans of Hindi cinema and music.",
       "added_date": "2025-12-18"
     },
-     {
+    {
       "id": 55,
       "name": "Balle Balle",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS1Q8kMUhH46hx8wk67ag5ZTYYaUdY-77sET3BBvmvy9HN2Zf9oQ4_TMtDLwc8Yfw0HlEWY2ut8nmAsjOSCHg9JxY6GxhQQvKGSbZxc7axNGJrgXEH3UiqBSEbWcGxXpy1m7AUGmPVNn9fiAeOf7eHroM_Oed-dliW_j05NgjhiXeZWQQypaXW-P4KhA/s600/Nur_20251219_133536_0000.png",
@@ -623,7 +558,7 @@
       "description": "Balle Balle is an Indian Punjabi music television channel dedicated to vibrant Punjabi songs, music videos, and cultural entertainment. The channel features the latest Punjabi hits, traditional folk music, Bhangra beats, and popular artists, bringing the energetic spirit of Punjabi culture to viewers. Known for its lively presentation and nonstop music, Balle Balle delivers a fun-filled and energetic entertainment experience. The channel is a favorite destination for audiences who enjoy Punjabi music, dance, and cultural vibes around the clock.",
       "added_date": "2025-12-18"
     },
-     {
+    {
       "id": 56,
       "name": "24 Hours Free Movies",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESa85OCipbocaQRsECOGFUUPT9wQ6kLYiVJ5xDyDzo67Tio77BGq6BNdxH7ViA3bXXFxDjTEgcXMPChyphenhyphenZcllrOX-7sdgZK3w-AL7h9bH4tTyT337JhSriieP51wWvegpDndaTlBf27GnXVPFwR0JikjGu1dWpRreNerY2gMgaVeK2EI8ONGybr81NBw/s600/Nur_20251219_133444_0000.png",
@@ -633,7 +568,7 @@
       "description": "",
       "added_date": "2025-12-18"
     },
-     {
+    {
       "id": 57,
       "name": "Hum Sitaray",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcqLiHMjvLT8XqdalwBwQGVmhZOShc_6HJhREB83W6As-mqWqJBTbWr5GyxemwlyQX56tvOCrs2pNIxd7trX1Xfm2YAuwNSCYM5T6Ymul5bn5UN3hT-y9RZRG26FFzT7k7YroC5Pc69ZMCm_GnNdKAN5KrVKonLDQ_HriDLfA-2p8lkeRxH1_HOziPNw/s600/Nur_20251107_000656_0000.png",
@@ -643,7 +578,7 @@
       "description": "Hum Sitaray is a popular Pakistani entertainment television channel that offers a wide variety of family-friendly programs, including drama serials, sitcoms, reality shows, talk shows, and classic entertainment content. The channel focuses on light-hearted, enjoyable programming suitable for viewers of all age groups. Hum Sitaray is known for its entertaining and positive content, providing laughter, relaxation, and quality family entertainment. With its mix of classic shows and fresh programs, the channel remains a favorite choice for audiences seeking fun, wholesome, and engaging television experiences.",
       "added_date": "2025-12-18"
     },
-     {
+    {
       "id": 58,
       "name": "Zee Bangla Sonar",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6HG2ByBPFRMc_cdjIApS0M4Iwac5sSGHeshdf3XhQaO3FzPTjac8BSumTxAbGWZOJ9E2Jnz11qriNrHhHFmgdzrhX57d6EmR769neGh7251qt12CT0efc2MxzOKAZFDCyqwqxTLscS3iP91xHLAydiHp0YCQIUYpYwC53CIKt8W2KyYnZ5h7JHOSOtA/s600/Nur_20251107_005218_0000.png",
@@ -653,9 +588,7 @@
       "description": "Zee Bangla Sonar is an Indian Bengali-language movie and entertainment television channel dedicated to showcasing classic and popular Bengali films. The channel focuses on timeless cinema, legendary actors, and memorable stories that celebrate the rich heritage of Bengali film culture. Zee Bangla Sonar brings audiences a nostalgic cinematic experience by airing evergreen movies along with selected special programs. With its emphasis on classic storytelling and cultural value, the channel is a favorite destination for viewers who love traditional Bengali cinema and heritage entertainment.",
       "added_date": "2025-12-18"
     },
-    
-    
-     {
+    {
       "id": 59,
       "name": "Peace TV HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZHm8MZpsQ_tONDYCnpR2r4jDctpjhfMAAAdZ4_X661ljgo9t7zzE4oZrup_hN2WnN-clZqQPy7bFK0Rh3yHT376J1ZDn7l3jLw65nJ8wo7dr4mjH9Povbddl5Lyuea_yvy89waVOVuRvbc0K3JnRpqC7JJ4j9D3MUfJJZWvBdKz2VSlO9-Qiyt0IN/s600/Nur_20251026_225144_0000.png",
@@ -665,8 +598,6 @@
       "description": "Peace TV is an international Islamic television channel dedicated to spreading the teachings of Islam and promoting peace, understanding, and moral values. The channel features religious lectures, Qur’anic recitations, Islamic discussions, educational programs, and motivational content from renowned scholars and speakers around the world. Peace TV aims to educate and inspire Muslims and non-Muslims alike, offering authentic knowledge about Islamic principles, lifestyle, and spirituality. Through its engaging and informative programming, the channel encourages reflection, ethical living, and a deeper understanding of faith, making it a trusted source for Islamic education globally.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 60,
       "name": "Peace TV Urdu",
@@ -677,8 +608,6 @@
       "description": "Peace TV Urdu is an Islamic television channel broadcasting in the Urdu language, dedicated to spreading the teachings of Islam and promoting peace, moral values, and spiritual growth. The channel features Qur’anic recitations, Islamic lectures, religious discussions, educational programs, and motivational talks from renowned scholars and speakers. Peace TV Urdu aims to provide authentic Islamic knowledge to Urdu-speaking audiences worldwide, helping viewers strengthen their faith and understanding of Islam. Through its engaging and informative content, the channel encourages ethical living, spiritual reflection, and a deeper connection with Islamic teachings.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 61,
       "name": "SRK TV",
@@ -689,8 +618,6 @@
       "description": "SRK TV Plus is the official OTT and Video-on-Demand (VOD) streaming service from SRK TV (www.SRK.tv), a Bangladesh Government-approved IP television channel. The platform offers a vast library of high-quality Bangladeshi entertainment, including drama series, movies, music programs, and cultural content, accessible anytime, anywhere. Designed for modern viewers, SRK TV Plus delivers seamless streaming, exclusive shows, and curated content that reflects contemporary Bangladeshi culture and lifestyle. With its user-friendly interface and diverse programming, the platform provides audiences with an immersive and convenient entertainment experience, making it a top choice for digital streaming in Bangladesh.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 62,
       "name": "8XM",
@@ -701,8 +628,6 @@
       "description": "8XM is a popular Indian music television channel dedicated to nonstop Bollywood and regional music entertainment. The channel features the latest hit songs, classic tracks, music countdowns, and engaging music-related shows, providing viewers with continuous musical entertainment. Known for its lively presentation and youthful energy, 8XM combines chart-topping hits with entertaining segments, making it a favorite destination for music lovers. The channel delivers a fun-filled experience, keeping audiences engaged with popular Bollywood tunes and evergreen classics.",
       "added_date": "2025-12-17"
     },
-    
-    
     {
       "id": 63,
       "name": "ARY News",
@@ -713,8 +638,6 @@
       "description": "ARY News is a leading Pakistani 24-hour news television channel providing comprehensive coverage of national and international events. The channel broadcasts live news bulletins, breaking news, talk shows, in-depth analysis, and investigative reports on politics, economy, society, and global affairs. Renowned for its timely reporting, professional journalism, and wide-reaching network of correspondents, ARY News delivers accurate and reliable information to viewers. Through its diverse programming, the channel keeps audiences informed, engaged, and connected to major developments in Pakistan and around the world.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 64,
       "name": "PTV Sports",
@@ -725,8 +648,6 @@
       "description": "PTV Sports is Pakistan’s premier sports television channel, providing comprehensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and sports-related talk shows, with a special focus on cricket, football, hockey, and other popular sports. Known for its professional commentary, high-quality production, and timely updates, PTV Sports delivers an engaging and immersive viewing experience for sports enthusiasts. The channel aims to promote sports culture in Pakistan, keeping fans connected to their favorite teams, tournaments, and athletes.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 65,
       "name": "Star Sports Select 2 HD",
@@ -737,20 +658,16 @@
       "description": "Star Sports Select 2 HD is a premium sports television channel offering high-definition coverage of elite national and international sporting events. The channel features live matches, match highlights, expert analysis, and in-depth commentary on top sports such as cricket, football, tennis, and more. Renowned for its professional broadcasting and high-quality production, Star Sports Select 2 HD provides an immersive and engaging viewing experience for sports enthusiasts. With comprehensive coverage and exclusive content, the channel is a top destination for viewers seeking in-depth insights, live action, and premium sports entertainment.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 66,
       "name": "Star Sports 2 HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5B5G8ISMQK1rl9dPAygzrtXf5giqzVXI3bNJ5zHFPr5EXEjYcFcX1VS9D3Mwme4dWu5lY8XTP6FSso23uhGWEWvhJC2JvxN8gxUEogNKn1r8A3Gn0s59atCRFWeyd55J_wQzQkaYeBUMKnX02CYmlikbjJSNemcpxvBwk2i3O_bfdFpU-9rILBLHMyg/s600/Nur_20251219_133937_0000.png",
       "stream_url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
-       "category": "SPORTS",
+      "category": "SPORTS",
       "language": "Hindi/English",
       "description": "Star Sports 2 HD is a leading high-definition sports television channel that provides extensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and special programs for popular sports including cricket, football, tennis, and more. Known for its top-quality production and professional commentary, Star Sports 2 HD delivers an engaging and immersive viewing experience for sports fans. With comprehensive coverage and exclusive sports content, the channel is a preferred destination for audiences seeking live action, in-depth insights, and premium sports entertainment.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 67,
       "name": "G-Series Drama",
@@ -761,8 +678,6 @@
       "description": "",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 68,
       "name": "& Pictures HD",
@@ -773,8 +688,6 @@
       "description": "&Pictures HD is an Indian high-definition entertainment television channel that primarily broadcasts Bollywood movies, film-based shows, and special cinematic content. The channel features a diverse collection of films ranging from romantic dramas and comedies to action-packed blockbusters, catering to audiences who enjoy Hindi cinema. Known for its high-quality broadcasts and vibrant presentation, &Pictures HD brings the glamour and excitement of Bollywood directly to viewers’ screens. With a mix of contemporary hits and classic films, the channel provides an immersive cinematic experience, making it a favorite destination for movie lovers.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 69,
       "name": "Star Plus HD",
@@ -785,8 +698,6 @@
       "description": "Star Plus HD is a leading Indian high-definition entertainment television channel that offers a wide range of programs including drama serials, reality shows, movies, and cultural content. The channel is known for its engaging storytelling, high-quality production, and family-oriented programming that appeals to audiences across India and abroad. Star Plus HD combines contemporary entertainment with cultural representation, showcasing diverse narratives, popular shows, and modern lifestyle content. With its vibrant programming and HD broadcasts, the channel provides viewers with an immersive and enjoyable television experience suitable for all age groups.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 70,
       "name": "Travel Channel HD",
@@ -797,8 +708,6 @@
       "description": "Travel Channel is a globally recognized television channel dedicated to exploration, adventure, and travel experiences. The channel features documentaries, reality shows, and series that showcase stunning destinations, unique cultures, culinary adventures, and thrilling journeys from around the world. Known for its high-quality production and immersive storytelling, Travel Channel inspires curiosity and wanderlust among viewers. By combining entertainment with education and cultural insight, the channel provides audiences with an engaging and informative experience, allowing them to explore the world from the comfort of their homes.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 71,
       "name": "National Geographic",
@@ -809,9 +718,6 @@
       "description": "National Geographic is a world-renowned television channel dedicated to exploring the wonders of the natural world, science, history, and culture. The channel features high-quality documentaries, reality series, and educational programs that cover wildlife, environmental issues, archaeology, technology, and human stories from across the globe. Known for its stunning visuals, in-depth research, and immersive storytelling, National Geographic inspires curiosity, learning, and exploration. By combining entertainment with education, the channel provides viewers with a captivating experience that broadens their understanding of our planet, its history, and the diverse cultures that inhabit it.",
       "added_date": "2025-12-18"
     },
-    
-    
-    
     {
       "id": 72,
       "name": "Animal Planet Indian",
@@ -822,9 +728,6 @@
       "description": "Animal Planet is an internationally recognized television channel dedicated to wildlife, nature, and animal-focused programming. The channel features documentaries, reality shows, and educational series that explore the behavior, habitats, and conservation of animals from around the world. Known for its engaging storytelling and stunning visuals, Animal Planet combines entertainment with education to inspire viewers to learn about and appreciate the animal kingdom. Through its diverse programs, the channel raises awareness about wildlife conservation, animal welfare, and the fascinating world of nature, making it a favorite destination for animal lovers and families alike.",
       "added_date": "2025-12-18"
     },
-    
-    
-    
     {
       "id": 73,
       "name": "Nickelodeon",
@@ -835,9 +738,6 @@
       "description": "Nickelodeon is a globally popular children’s television channel that offers a wide variety of animated series, live-action shows, movies, and educational programs designed for kids and young audiences. The channel features beloved characters, fun adventures, and entertaining stories that spark creativity and imagination. Known for its engaging content and family-friendly programming, Nickelodeon combines humor, learning, and adventure to provide a wholesome entertainment experience. The channel is a favorite destination for children around the world, offering a safe and enjoyable environment filled with laughter, fun, and memorable characters.",
       "added_date": "2025-12-18"
     },
-    
-    
-    
     {
       "id": 74,
       "name": "Disney Channel",
@@ -848,9 +748,6 @@
       "description": "Disney Channel is a globally renowned children’s and family entertainment television channel that offers a wide range of animated series, live-action shows, movies, and original programming. The channel features beloved Disney characters, engaging adventures, and inspiring stories that entertain and educate viewers of all ages. Known for its high-quality content, magical storytelling, and family-friendly programming, Disney Channel combines humor, creativity, and life lessons to provide a wholesome entertainment experience. The channel is a favorite destination for children and families worldwide, delivering fun, imagination, and memorable characters in every program.",
       "added_date": "2025-12-18"
     },
-    
-    
-    
     {
       "id": 75,
       "name": "TV9 Bangla",
@@ -861,9 +758,6 @@
       "description": "TV9 Bangla is a 24-hour Bangla news channel delivering national and international news, live updates, talk shows, and in-depth analysis on politics, economy, and society. While it is popular among viewers in Bangladesh, like several major Indian news channels—including ABP News, Zee News, India TV, and others—some content has occasionally been criticized for sensationalism or misleading reporting, especially regarding Bangladesh. Audiences are advised to cross-check important news from multiple reliable sources to avoid misinformation and stay accurately informed.",
       "added_date": "2025-12-18"
     },
-    
-    
-    
     {
       "id": 76,
       "name": "DD Bangla",
@@ -874,9 +768,6 @@
       "description": "DD Bangla – DD Bangla is a prominent Indian state-run Bengali-language television channel offering a wide range of programs including news, drama series, cultural shows, documentaries, and educational content. The channel provides live coverage of regional and national events, alongside entertainment programs that reflect Bengali culture and traditions. Known for its focus on promoting Bengali heritage and delivering informative content, DD Bangla combines entertainment, education, and cultural storytelling to provide viewers with a wholesome television experience. With high-quality broadcasts and diverse programming, the channel has become a trusted destination for audiences seeking Bengali-language entertainment and news.",
       "added_date": "2025-12-18"
     },
-    
-    
-    
     {
       "id": 77,
       "name": "GoldMines",
@@ -887,8 +778,6 @@
       "description": "Goldmines TV – Enjoy nonstop Bollywood and regional movies on Goldmines TV, featuring action, romance, drama, comedy, and classic hits. With high-quality broadcasts and a wide selection of films, it’s the perfect destination for movie lovers and Bollywood enthusiasts.",
       "added_date": "2025-12-18"
     },
-    
-    
     {
       "id": 78,
       "name": "GoldMines Movies",
@@ -899,9 +788,6 @@
       "description": "Goldmines Movies – Goldmines Movies is a popular Indian television channel dedicated to broadcasting Bollywood and regional movies 24/7. The channel features a wide variety of films, including action, romance, comedy, drama, and classic hits, providing nonstop entertainment for movie lovers. Known for its curated selection of high-quality films and engaging programming, Goldmines Movies brings audiences the latest blockbusters as well as timeless cinematic classics. With its focus on entertainment, diverse movie genres, and HD broadcasts, the channel has become a favorite destination for Bollywood enthusiasts and cinema fans across India and beyond.",
       "added_date": "2025-12-18"
     },
-    
-    
-    
     {
       "id": 79,
       "name": "B4U Movies",
@@ -912,9 +798,6 @@
       "description": "B4U Movies is a leading Indian entertainment television channel dedicated to broadcasting Bollywood films around the clock. The channel features a diverse range of movies, including romantic dramas, action-packed blockbusters, comedies, thrillers, and classic hits, providing nonstop cinematic entertainment for viewers of all ages. Known for its high-quality broadcasts and carefully curated movie selection, B4U Movies brings audiences the latest releases as well as timeless classics from the Bollywood film industry. With engaging programming and HD presentation, the channel offers an immersive viewing experience, making it a top destination for Bollywood enthusiasts and movie lovers.",
       "added_date": "2025-12-18"
     },
-    
-    
-    
     {
       "id": 80,
       "name": "B4U Kadak",
@@ -925,9 +808,7 @@
       "description": "B4U Kadak is an Indian entertainment television channel that specializes in broadcasting Bollywood movies with a focus on action, thrillers, and high-energy films. The channel features popular blockbusters, engaging dramas, and exciting cinematic content that appeals to a wide audience seeking nonstop entertainment. Known for its curated selection of action-packed films and contemporary Bollywood hits, B4U Kadak provides viewers with high-quality broadcasts and immersive storytelling. With diverse programming and HD presentation, the channel has become a favorite destination for movie lovers and fans of thrilling Bollywood entertainment.",
       "added_date": "2025-12-18"
     },
-    
-    
-     {
+    {
       "id": 81,
       "name": "B4U Music",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilXOuGttq9F58UPTuH3QZx-eSpH2qlunCRfruR4y9lPNr_D-5goUxfNOZzdj0cLwj89VCOwlaiz2ju4TjoZ2GhXQC1hOjhZVz2gFX9PjQl-BxJos3dq2WJQFl2oluHg-_1T9ES4Hs6LJ5QMcxsvkQFymYXZUV2vLvgACYc3aeahNDXSmap2ES7s5D94w/s600/Nur_20251219_134908_0000.png",
@@ -937,9 +818,7 @@
       "description": "B4U Music is a popular Indian television channel dedicated to nonstop Bollywood and regional music entertainment. The channel features the latest hit songs, music videos, countdown shows, and special programs highlighting popular artists and trending tracks from the Indian music industry. Known for its lively presentation and continuous music programming, B4U Music combines chart-topping hits with engaging content, creating an enjoyable experience for music lovers. With high-quality broadcasts and a vibrant selection of songs, the channel is a favorite destination for audiences seeking Bollywood music and entertainment around the clock.",
       "added_date": "2025-12-18"
     },
-    
-    
-     {
+    {
       "id": 82,
       "name": "Zoom",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdPUdJEe6cEh7v66pVQ0M5iIN3rQFCM23lLVZtV93qYLLqCHHW5fuOPaNVM2cY3PuE9iEgTw0W7HOhlmLWdHOz5AXF_7RxqNzBXVndn0ZoMbgMAAX8a2KlSEtiHX4EGbgYxqER8XzWV14TBJtik6ecJyOdopimpqflI3h39A9t36Rjduxbi0wbATghrA/s600/Nur_20251219_135000_0000.png",
@@ -949,9 +828,7 @@
       "description": "Zoom is a leading Indian entertainment and Bollywood lifestyle television channel, offering a mix of celebrity news, music, fashion, movies, and pop culture content. The channel features interviews, reality shows, music countdowns, and exclusive Bollywood coverage, catering to audiences who love entertainment and celebrity trends. Known for its vibrant presentation, engaging content, and up-to-date coverage of the entertainment world, Zoom TV delivers nonstop Bollywood and lifestyle entertainment. With high-quality broadcasts and a focus on celebrity news and music, the channel is a favorite destination for viewers seeking the latest in India’s entertainment industry.",
       "added_date": "2025-12-18"
     },
-    
-    
-     {
+    {
       "id": 83,
       "name": "Colors Bangla HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmdOa-FrjsbmHkj3fe8cdJs7wCr8LqP44W8eCN4dB9tg-khIKtKCqyodP9MZtLtOKPRVYRHTy268xxlfWub0v5GqHWtG0wBAbfkF_uBu4vICj0EgBz3B6SQnasWV9LOi_ye4_FqTWCspD09E3Rlcwm6jESgLacRCxkb-aIorG9dZyD74alcdIxpSzYQ/s600/Nur_20251219_135028_0000.png",
@@ -961,9 +838,7 @@
       "description": "Colors Bangla is a premier Indian Bengali-language entertainment channel offering a wide range of programs including drama series, reality shows, movies, music, and cultural content. The channel features family-friendly entertainment that showcases contemporary Bengali lifestyle, traditions, and popular storytelling. Known for its high-quality productions and engaging programming, Colors Bangla combines drama, reality, and cultural content to provide viewers with a wholesome entertainment experience. With diverse shows and vibrant presentation, the channel has become a popular destination for Bengali audiences seeking both modern and traditional entertainment.",
       "added_date": "2025-12-18"
     },
-    
-    
-     {
+    {
       "id": 84,
       "name": "Sangeet Bangla",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgrLOUFHDDyqsVLJrykfcAe5h-yLsBYxvRFRtNC0pfFTMvqEwGlRq0gU5jnSOW_L5aWermQ-XYwI8x3an2mI01Fxe5diC1LMXykyw6f_DtJ_GilLz0Mxb_cumqpUmdOy-RAXSFXgX4xRxBMrW6k5VsOcLIYpdczThtec0-Yemkf_jlIgNN_kyCpnBOkA/s600/Nur_20251219_135056_0000.png",
@@ -973,8 +848,7 @@
       "description": "Sangeet Bangla is a popular Bengali-language music television channel that offers nonstop music entertainment, including the latest hit songs, classic tracks, countdown shows, and special programs featuring renowned artists. The channel focuses on Bengali music, ranging from contemporary hits to traditional melodies, catering to a wide audience of music lovers.",
       "added_date": "2025-12-18"
     },
-    
-     {
+    {
       "id": 85,
       "name": "Sony Aath",
       "logo": "",
@@ -984,9 +858,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 86,
       "name": "Sony Yay HD",
       "logo": "",
@@ -996,9 +868,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 87,
       "name": "Pogo",
       "logo": "",
@@ -1008,9 +878,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 88,
       "name": "Zee Cinema HD",
       "logo": "",
@@ -1020,9 +888,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 89,
       "name": "Discovery India",
       "logo": "",
@@ -1032,9 +898,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 90,
       "name": "Cartoon Network",
       "logo": "",
@@ -1044,9 +908,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 91,
       "name": "CN HD+",
       "logo": "",
@@ -1056,9 +918,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 92,
       "name": "Discovery Kids",
       "logo": "",
@@ -1068,9 +928,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 93,
       "name": "Sony Max HD",
       "logo": "",
@@ -1080,9 +938,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 94,
       "name": "",
       "logo": "",
@@ -1092,9 +948,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 95,
       "name": "",
       "logo": "",
@@ -1104,9 +958,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 96,
       "name": "",
       "logo": "",
@@ -1116,9 +968,7 @@
       "description": "",
       "added_date": "2025-12-19"
     },
-    
-    
-     {
+    {
       "id": 97,
       "name": "",
       "logo": "",
@@ -1128,19 +978,5 @@
       "description": "",
       "added_date": "2025-12-19"
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  
-  
   ]
 }

@@ -1,3 +1,14 @@
 {
-  "channels": []
+  "channels": [
+    {
+      "id": 1,
+      "name": "Saudi Quran TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
+      "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "Arabic",
+      "description": "Saudi Quran TV is a renowned Islamic television channel broadcast from the Kingdom of Saudi Arabia, dedicated to the continuous recitation of the Holy Qur’an. The channel features beautiful and authentic Qur’anic recitations by esteemed Qaris and the Imams of the Haramain Sharifain (Masjid al-Haram and Masjid an-Nabawi). This channel serves as a source of spiritual peace, reflection, and guidance for Muslims around the world. Through its high-quality and soul-touching Tilawat, Saudi Quran TV helps strengthen faith, encourage regular Qur’an recitation, and create a serene Islamic atmosphere in homes and hearts.",
+      "added_date": "2025-11-15"
+    }
+  ]
 }

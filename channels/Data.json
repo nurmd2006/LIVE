@@ -849,7 +849,7 @@
       "added_date": "2025-12-18"
     },
     {
-      "id": 86,
+      "id": 85,
       "name": "Sony Yay HD",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=sonyyay&e=.m3u8",
@@ -859,7 +859,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 87,
+      "id": 86,
       "name": "Pogo",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=pogo_sd&e=.m3u8",
@@ -869,7 +869,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 88,
+      "id": 87,
       "name": "Zee Cinema HD",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=zee_cinema_hd&e=.m3u8",
@@ -879,7 +879,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 89,
+      "id": 88,
       "name": "Discovery India",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=discovery_sd&e=.m3u8",
@@ -889,7 +889,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 90,
+      "id": 89,
       "name": "Cartoon Network",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=cartoon_network_sd&e=.m3u8",
@@ -899,7 +899,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 91,
+      "id": 90,
       "name": "CN HD+",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=cartoon_network_hd&e=.m3u8",
@@ -909,7 +909,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 92,
+      "id": 91,
       "name": "Discovery Kids",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=discovery_kids&e=.m3u8",
@@ -919,12 +919,22 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 93,
+      "id": 92,
       "name": "Sony Max HD",
       "logo": "",
       "stream_url": "https://allottplay.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8",
       "category": "MOVIES",
       "language": "Hindi",
+      "description": "",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 93,
+      "name": "",
+      "logo": "",
+      "stream_url": "",
+      "category": "",
+      "language": "Bangla",
       "description": "",
       "added_date": "2025-12-19"
     },
@@ -950,16 +960,6 @@
     },
     {
       "id": 96,
-      "name": "",
-      "logo": "",
-      "stream_url": "",
-      "category": "",
-      "language": "Bangla",
-      "description": "",
-      "added_date": "2025-12-19"
-    },
-    {
-      "id": 97,
       "name": "",
       "logo": "",
       "stream_url": "",

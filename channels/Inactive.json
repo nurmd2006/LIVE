@@ -1,7 +1,7 @@
 {
   "channels": [
     {
-      "id": 97,
+      "id": 95,
       "name": "",
       "logo": "",
       "stream_url": "",
@@ -21,17 +21,7 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 95,
-      "name": "",
-      "logo": "",
-      "stream_url": "",
-      "category": "",
-      "language": "Bangla",
-      "description": "",
-      "added_date": "2025-12-19"
-    },
-    {
-      "id": 94,
+      "id": 97,
       "name": "",
       "logo": "",
       "stream_url": "",

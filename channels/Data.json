@@ -987,6 +987,16 @@
       "language": "Hindi",
       "description": "Sony Entertainment TV is a popular Indian Hindi-language entertainment channel offering a wide range of programs including drama series, reality shows, game shows, and family-oriented content. The channel is known for its engaging storytelling, high-quality productions, and diverse programming that appeals to audiences of all ages.",
       "added_date": "2025-12-22"
+    },
+    {
+      "id": 99,
+      "name": "Geo Entertainment",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit0qcnH_W9u_tYYLFtiSInZHF15Y6j2B3sAbROlKejZ2mhXoNRHGyRYgk2ZgBrbFGR46MxPVJE8rX97PiSjv8CwouIdSZsdddDYB9zN-ZxMpFnCJJEu5IhcT-TS9rtIY4lQnJ5ueAO_FJYaiOwWc6hNG6uupodBMGECYtA5nfP6vHlKP165NqjFSU8Fw/s600/Nur_20251222_155957_0000.png",
+      "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+      "category": "DRAMA",
+      "language": "Urdu",
+      "description": "Geo Entertainment is a leading Pakistani television channel offering a variety of programs including drama series, reality shows, talk shows, and entertainment specials. Known for its high-quality productions and engaging storytelling, the channel provides viewers with family-friendly entertainment that reflects Pakistani culture and contemporary trends.",
+      "added_date": "2025-12-22"
     }
   ]
 }

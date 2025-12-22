@@ -1017,16 +1017,6 @@
       "language": "Bangla",
       "description": "Mohona TV is a Bangladeshi television channel offering a wide range of programs including live news, talk shows, drama series, music, and cultural content. The channel keeps viewers updated with national and international events while delivering entertainment that highlights Bangladeshi traditions, lifestyle, and contemporary culture. With engaging storytelling, high-quality broadcasts, and diverse programming, Mohona TV provides a complete viewing experience for audiences of all ages. Enjoy drama series, informative news, and cultural shows seamlessly on your screens with Outflank TV.",
       "added_date": "2025-12-22"
-    },
-    {
-      "id": 102,
-      "name": "Beta Test",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdPUdJEe6cEh7v66pVQ0M5iIN3rQFCM23lLVZtV93qYLLqCHHW5fuOPaNVM2cY3PuE9iEgTw0W7HOhlmLWdHOz5AXF_7RxqNzBXVndn0ZoMbgMAAX8a2KlSEtiHX4EGbgYxqER8XzWV14TBJtik6ecJyOdopimpqflI3h39A9t36Rjduxbi0wbATghrA/s600/Nur_20251219_135000_0000.png",
-      "stream_url": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Demo channel",
-      "added_date": "2025-12-22"
     }
   ]
 }

@@ -1007,6 +1007,16 @@
       "language": "Bangla",
       "description": "Ruposhi Bangla is an Indian Bengali-language entertainment channel offering a mix of drama series, movies, reality shows, and music programs. The channel focuses on family-friendly content that showcases Bengali culture, lifestyle, and contemporary storytelling for audiences in India and beyond.",
       "added_date": "2025-12-22"
+    },
+    {
+      "id": 101,
+      "name": "Mohona TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggFMXGpcJgwX_MQ5UOJKKRLwCdt7V4V9M_gOImosoAFYmnYZG7laQd5YTQDtJ2demWl2m2kqXoweUs7JK9VQWnpOeLR0AkYsa-NEmtSra9CFPsruaNFYsJdVi-qCpKLWq6t5Dy8sCkTeVLfDXpEpv3SLAL8naUTU8HC1OEs5s1F7LmyqYoE6jQ0AxYtw/s600/Nur_20251222_160140_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/mohonatv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Mohona TV is a Bangladeshi television channel offering a wide range of programs including live news, talk shows, drama series, music, and cultural content. The channel keeps viewers updated with national and international events while delivering entertainment that highlights Bangladeshi traditions, lifestyle, and contemporary culture. With engaging storytelling, high-quality broadcasts, and diverse programming, Mohona TV provides a complete viewing experience for audiences of all ages. Enjoy drama series, informative news, and cultural shows seamlessly on your screens with Outflank TV.",
+      "added_date": "2025-12-22"
     }
   ]
 }

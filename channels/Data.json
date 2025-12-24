@@ -1077,6 +1077,16 @@
       "language": "Bangla",
       "description": "Jhankar TV is a popular Bangladeshi music and entertainment channel featuring a wide range of programs including music shows, chartbusters, live performances, and special artist features. The channel provides nonstop entertainment for viewers who love contemporary Bengali music, classic hits, and vibrant musical programs. With engaging content, high-quality broadcasts, and diverse programming, Jhankar TV delivers an immersive musical experience for audiences of all ages. Enjoy the best of Bengali music and entertainment seamlessly on your screens with Outflank TV.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 108,
+      "name": "DBC News HD",
+      "logo": "",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "DBC News is a 24-hour Bangladeshi news television channel providing comprehensive coverage of national and international events. The channel features live news updates, in-depth analysis, talk shows, and special reports on politics, economy, society, and current affairs. With timely reporting, professional journalism, and engaging programming, DBC News keeps viewers informed and connected to the latest developments. Stay updated with breaking news, special reports, and insightful analysis seamlessly on your screens with Outflank TV.",
+      "added_date": "2025-12-24"
     }
   ]
 }

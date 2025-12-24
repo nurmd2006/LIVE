@@ -1107,6 +1107,16 @@
       "language": "Bangla",
       "description": "RTV is a Bangladeshi television channel offering a diverse mix of programs including news, entertainment, drama series, talk shows, and cultural content. The channel provides live coverage of national and international events while delivering family-friendly entertainment that reflects Bangladeshi traditions, lifestyle, and contemporary culture. With engaging storytelling, high-quality broadcasts, and varied programming, RTV offers viewers an immersive television experience. Enjoy news, entertainment, and cultural shows seamlessly on your screens with Outflank TV.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 111,
+      "name": "Tara Bangla Cinema",
+      "logo": "",
+      "stream_url": "http://103.145.48.150:90/laosat24/taratv/index.m3u8",
+      "category": "MOVIES",
+      "language": "Bangla",
+      "description": "Tara Bangla Cinema - A popular Bengali movie channel showcasing the best collection of new and classic Bengali films. Enjoy all genres including romance, comedy, action, and drama. Streaming 24/7, never miss your favorite movies! If you want, I can also make an even shorter, catchy version perfect for channel lists or hover descriptions on Outflank TV.",
+      "added_date": "2025-12-24"
     }
   ]
 }

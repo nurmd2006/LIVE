@@ -1097,6 +1097,16 @@
       "language": "Bangla",
       "description": "Ekhon TV is a 24-hour Bangladeshi news television channel delivering live updates, breaking news, talk shows, and in-depth analysis on national and international events. The channel provides comprehensive coverage of politics, economy, society, and current affairs, keeping viewers informed about the latest developments. With professional journalism, timely reporting, and engaging programming, Ekhon TV ensures audiences stay connected with critical news and insightful discussions. Watch all the latest news and updates conveniently on your screens with Outflank TV.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 110,
+      "name": "RTV",
+      "logo": "",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "RTV is a Bangladeshi television channel offering a diverse mix of programs including news, entertainment, drama series, talk shows, and cultural content. The channel provides live coverage of national and international events while delivering family-friendly entertainment that reflects Bangladeshi traditions, lifestyle, and contemporary culture. With engaging storytelling, high-quality broadcasts, and varied programming, RTV offers viewers an immersive television experience. Enjoy news, entertainment, and cultural shows seamlessly on your screens with Outflank TV.",
+      "added_date": "2025-12-24"
     }
   ]
 }

@@ -1117,6 +1117,16 @@
       "language": "Bangla",
       "description": "Tara Bangla Cinema - A popular Bengali movie channel showcasing the best collection of new and classic Bengali films. Enjoy all genres including romance, comedy, action, and drama. Streaming 24/7, never miss your favorite movies! If you want, I can also make an even shorter, catchy version perfect for channel lists or hover descriptions on Outflank TV.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 112,
+      "name": "Maasranga TV",
+      "logo": "",
+      "stream_url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Maasranga TV - A leading Bangladeshi television channel offering a mix of news, entertainment, and cultural programs. Stay updated with the latest happenings, watch popular shows, and enjoy diverse content 24/7. If you want, I can also make a shorter, catchy version suitable for Outflank TV channel lists.",
+      "added_date": "2025-12-24"
     }
   ]
 }

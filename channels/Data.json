@@ -1027,6 +1027,16 @@
       "language": "Bangla",
       "description": "Jungle Book is a popular kids’ entertainment channel featuring animated series and adventures inspired by the classic Jungle Book universe. The channel brings exciting stories of Mowgli, Baloo, Bagheera, and other beloved jungle characters, offering fun-filled entertainment combined with friendship, courage, and moral lessons. Designed especially for children, Jungle Book delivers colorful animation, engaging storytelling, and family-friendly content that keeps young viewers entertained and inspired. Kids can enjoy nonstop jungle adventures and animated fun while watching their favorite characters anytime on Outflank TV.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 103,
+      "name": "Azan TV",
+      "logo": "",
+      "stream_url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "Bangla",
+      "description": "Azan TV is an Islamic religious television channel dedicated to promoting Islamic teachings, Quran recitation, Azan, Hadith discussions, and educational religious programs. The channel focuses on spreading peace, faith, and knowledge through authentic Islamic content suitable for viewers of all ages. With spiritual programs, live Azan broadcasts, and Islamic reminders, Azan TV serves as a source of guidance and reflection for Muslim audiences worldwide. Stay connected with meaningful Islamic content and spiritual programming through Outflank TV.",
+      "added_date": "2025-12-24"
     }
   ]
 }

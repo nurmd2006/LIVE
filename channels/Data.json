@@ -1067,6 +1067,16 @@
       "language": "Bangla",
       "description": "DesheBedeshi TV is a movie-based entertainment channel featuring a wide collection of Bangla, Hindi, and international movies. The channel focuses on delivering nonstop cinematic entertainment, including action, drama, romance, comedy, and classic films for movie lovers.\nKnown for its diverse movie lineup and engaging content, DesheBedeshi TV brings together local and international films, offering viewers a complete entertainment experience. From popular blockbusters to timeless classics, the channel is designed for audiences who enjoy watching movies around the clock. Watch DesheBedeshi TV seamlessly on Outflank TV.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 107,
+      "name": "Jhankar TV",
+      "logo": "",
+      "stream_url": "https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8",
+      "category": "MUSIC",
+      "language": "Bangla",
+      "description": "Jhankar TV is a popular Bangladeshi music and entertainment channel featuring a wide range of programs including music shows, chartbusters, live performances, and special artist features. The channel provides nonstop entertainment for viewers who love contemporary Bengali music, classic hits, and vibrant musical programs. With engaging content, high-quality broadcasts, and diverse programming, Jhankar TV delivers an immersive musical experience for audiences of all ages. Enjoy the best of Bengali music and entertainment seamlessly on your screens with Outflank TV.",
+      "added_date": "2025-12-24"
     }
   ]
 }

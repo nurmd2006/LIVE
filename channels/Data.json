@@ -1137,6 +1137,16 @@
       "language": "Bangla",
       "description": "Nexus Television is a premier Bangladeshi channel available on Outflank TV, offering a perfect blend of news, current affairs, and engaging entertainment. Tune in 24/7 on Outflank TV for in-depth discussions, top stories, and captivating programs that keep you informed and entertained.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 114,
+      "name": "Show BOX",
+      "logo": "",
+      "stream_url": "https://epiconvh.akamaized.net/live/showbox/master.m3u8",
+      "category": "MUSIC",
+      "language": "Hindi",
+      "description": "",
+      "added_date": "2025-12-24"
     }
   ]
 }

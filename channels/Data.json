@@ -3,7 +3,7 @@
     "name": "NUR MOHAMMAD MRIDHA",
     "email": "nurmd2006.official@gmail.com",
     "platform_name": "Ovation Bangladesh",
-    "last_update": "2025-12-22"
+    "last_update": "2025-12-24"
   },
   "ads": [],
   "ad_images": [],
@@ -1017,6 +1017,16 @@
       "language": "Bangla",
       "description": "Mohona TV is a Bangladeshi television channel offering a wide range of programs including live news, talk shows, drama series, music, and cultural content. The channel keeps viewers updated with national and international events while delivering entertainment that highlights Bangladeshi traditions, lifestyle, and contemporary culture. With engaging storytelling, high-quality broadcasts, and diverse programming, Mohona TV provides a complete viewing experience for audiences of all ages. Enjoy drama series, informative news, and cultural shows seamlessly on your screens with Outflank TV.",
       "added_date": "2025-12-22"
+    },
+    {
+      "id": 102,
+      "name": "JungleBook",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SvpPncHQfHZlsBpjVMVtmBfJC4LOr2DFgPqmKy3TLc2RX9qFojXlkVI4PE3HsdqQxe86M45jG3qox-9gnHrWQitihZNK-MTGNzOcAnVlvljq4T6ww5f6uY5CAIjZ3dT6QpkPTPtpuF4j1XfR5s4lYx6h55y5rjkuczIYedVvzrg6F3ZknbS35cUZ/s600/Nur_20251103_212544_0000.png",
+      "stream_url": "https://cc-4bhi5osabejc9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/9fd1aa74-124b-4537-b6f0-8cc64f8de9cf/0.m3u8",
+      "category": "KIDS",
+      "language": "Bangla",
+      "description": "Jungle Book is a popular kids’ entertainment channel featuring animated series and adventures inspired by the classic Jungle Book universe. The channel brings exciting stories of Mowgli, Baloo, Bagheera, and other beloved jungle characters, offering fun-filled entertainment combined with friendship, courage, and moral lessons. Designed especially for children, Jungle Book delivers colorful animation, engaging storytelling, and family-friendly content that keeps young viewers entertained and inspired. Kids can enjoy nonstop jungle adventures and animated fun while watching their favorite characters anytime on Outflank TV.",
+      "added_date": "2025-12-24"
     }
   ]
 }

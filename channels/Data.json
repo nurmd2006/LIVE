@@ -1150,11 +1150,11 @@
     },
     {
       "id": 115,
-      "name": "ATN Music",
+      "name": "National Geography",
       "logo": "",
-      "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
-      "category": "MUSIC",
-      "language": "Bangla",
+      "stream_url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
       "description": "",
       "added_date": "2025-12-24"
     }

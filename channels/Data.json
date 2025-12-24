@@ -1087,6 +1087,16 @@
       "language": "Bangla",
       "description": "DBC News is a 24-hour Bangladeshi news television channel providing comprehensive coverage of national and international events. The channel features live news updates, in-depth analysis, talk shows, and special reports on politics, economy, society, and current affairs. With timely reporting, professional journalism, and engaging programming, DBC News keeps viewers informed and connected to the latest developments. Stay updated with breaking news, special reports, and insightful analysis seamlessly on your screens with Outflank TV.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 109,
+      "name": "Ekhon TV",
+      "logo": "",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "Ekhon TV is a 24-hour Bangladeshi news television channel delivering live updates, breaking news, talk shows, and in-depth analysis on national and international events. The channel provides comprehensive coverage of politics, economy, society, and current affairs, keeping viewers informed about the latest developments. With professional journalism, timely reporting, and engaging programming, Ekhon TV ensures audiences stay connected with critical news and insightful discussions. Watch all the latest news and updates conveniently on your screens with Outflank TV.",
+      "added_date": "2025-12-24"
     }
   ]
 }

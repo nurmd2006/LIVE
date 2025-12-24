@@ -1127,6 +1127,16 @@
       "language": "Bangla",
       "description": "Maasranga TV - A leading Bangladeshi television channel offering a mix of news, entertainment, and cultural programs. Stay updated with the latest happenings, watch popular shows, and enjoy diverse content 24/7. If you want, I can also make a shorter, catchy version suitable for Outflank TV channel lists.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 113,
+      "name": "Nexus Television",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/nexustv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Nexus Television is a premier Bangladeshi channel available on Outflank TV, offering a perfect blend of news, current affairs, and engaging entertainment. Tune in 24/7 on Outflank TV for in-depth discussions, top stories, and captivating programs that keep you informed and entertained.",
+      "added_date": "2025-12-24"
     }
   ]
 }

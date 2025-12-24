@@ -1047,6 +1047,16 @@
       "language": "Bangla",
       "description": "Madani Channel Bangla is an Islamic television channel that broadcasts religious programs in the Bangla language. The channel features Quran recitation, Islamic lectures, Naats, religious discussions, and educational programs aimed at spreading authentic Islamic knowledge and values. Focused on Dawah and spiritual development, Madani Channel Bangla serves viewers seeking Islamic guidance and religious learning in Bangla. Stay connected with Islamic teachings and inspiring content on Outflank TV.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 105,
+      "name": "MeTV",
+      "logo": "",
+      "stream_url": "https://iptvbd.live/metv1080/1080.m3u8",
+      "category": "MOVIES",
+      "language": "Bangla",
+      "description": "MeTV Bangladesh is a movie-based IPTV channel that focuses on broadcasting a wide collection of films for entertainment lovers. The channel features action movies, drama films, romantic stories, and popular movie content suitable for audiences who enjoy nonstop cinematic entertainment. As a dedicated movie channel, MeTV Bangladesh delivers engaging storytelling, diverse film genres, and continuous movie programming, making it a popular choice among viewers looking for enjoyable and relaxing entertainment. Watch MeTV Bangladesh smoothly with high-quality streaming on Outflank TV, your destination for online movie and TV channels.",
+      "added_date": "2025-12-24"
     }
   ]
 }

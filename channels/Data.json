@@ -1037,6 +1037,16 @@
       "language": "Bangla",
       "description": "Azan TV is an Islamic religious television channel dedicated to promoting Islamic teachings, Quran recitation, Azan, Hadith discussions, and educational religious programs. The channel focuses on spreading peace, faith, and knowledge through authentic Islamic content suitable for viewers of all ages. With spiritual programs, live Azan broadcasts, and Islamic reminders, Azan TV serves as a source of guidance and reflection for Muslim audiences worldwide. Stay connected with meaningful Islamic content and spiritual programming through Outflank TV.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 104,
+      "name": "Madani Channel Bangla",
+      "logo": "",
+      "stream_url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+      "category": "ISLAMIC",
+      "language": "Bangla",
+      "description": "Madani Channel Bangla is an Islamic television channel that broadcasts religious programs in the Bangla language. The channel features Quran recitation, Islamic lectures, Naats, religious discussions, and educational programs aimed at spreading authentic Islamic knowledge and values. Focused on Dawah and spiritual development, Madani Channel Bangla serves viewers seeking Islamic guidance and religious learning in Bangla. Stay connected with Islamic teachings and inspiring content on Outflank TV.",
+      "added_date": "2025-12-24"
     }
   ]
 }

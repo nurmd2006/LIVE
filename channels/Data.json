@@ -1107,6 +1107,16 @@
       "language": "Bangla",
       "description": "Global Television is a Bangladeshi TV channel offering a variety of programs including news updates, talk shows, cultural features, drama series, and entertainment specials. The channel focuses on informative storytelling while promoting Bangladeshi heritage, values, and creative content. Viewers enjoy its mix of current affairs and entertainment designed to appeal to families across the country.\nWatch your favorite shows and news from Global Television anytime through Outflank TV.",
       "added_date": "2025-12-26"
+    },
+    {
+      "id": 121,
+      "name": "MyTV HD",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/mytv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "MyTV is a Bangladeshi entertainment channel offering drama serials, music programs, movies, talk shows, and cultural content. The channel highlights Bangladeshi lifestyle and traditions while also presenting modern entertainment for a wide audience.\nEnjoy your favorite shows, dramas, and entertainment easily with Outflank TV.",
+      "added_date": "2025-12-26"
     }
   ]
 }

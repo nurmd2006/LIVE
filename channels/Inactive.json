@@ -1,16 +1,6 @@
 {
   "channels": [
     {
-      "id": 58,
-      "name": "Zee Bangla Sonar",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6HG2ByBPFRMc_cdjIApS0M4Iwac5sSGHeshdf3XhQaO3FzPTjac8BSumTxAbGWZOJ9E2Jnz11qriNrHhHFmgdzrhX57d6EmR769neGh7251qt12CT0efc2MxzOKAZFDCyqwqxTLscS3iP91xHLAydiHp0YCQIUYpYwC53CIKt8W2KyYnZ5h7JHOSOtA/s600/Nur_20251107_005218_0000.png",
-      "stream_url": "https://tvsen6.aynaott.com/ZeeBanglaCinema/index.m3u8",
-      "category": "MOVIES",
-      "language": "Bangla",
-      "description": "Zee Bangla Sonar is an Indian Bengali-language movie and entertainment television channel dedicated to showcasing classic and popular Bengali films. The channel focuses on timeless cinema, legendary actors, and memorable stories that celebrate the rich heritage of Bengali film culture. Zee Bangla Sonar brings audiences a nostalgic cinematic experience by airing evergreen movies along with selected special programs. With its emphasis on classic storytelling and cultural value, the channel is a favorite destination for viewers who love traditional Bengali cinema and heritage entertainment.",
-      "added_date": "2025-12-18"
-    },
-    {
       "id": 28,
       "name": "Discovery HD Indian",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjclA_gDBqUdomkP0VQd2BBOOKbwf2a1WFl2lfjyj_barMq0ZgVMSrPtKDgFXF7pK3NZeSvT1tEerTbalzt-6n-OgNl2acWlkbXEVUZvzddfLy33ETUGtaeTF5hoMt5JqH6lZqQX_Md36hs2zkTEueFEwe_ziznQruJLGx78nUhSgW3zr9iDAJHf_XXBQ/s600/Nur_20251215_125830_0000.png",
@@ -19,6 +9,16 @@
       "language": "English",
       "description": "Discovery HD is a globally recognized television channel that delivers high-definition factual and documentary programming. The channel features a wide range of content including science, technology, nature, engineering, adventure, and real-life exploration shows, presented with stunning visuals and informative storytelling. Discovery HD is known for its immersive documentaries and educational entertainment that inspire curiosity and learning. By combining cutting-edge production quality with compelling real-world stories, the channel offers viewers an engaging experience that explores the wonders of the world, innovation, and human achievement.",
       "added_date": "2025-10-30"
+    },
+    {
+      "id": 58,
+      "name": "Zee Bangla Sonar",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6HG2ByBPFRMc_cdjIApS0M4Iwac5sSGHeshdf3XhQaO3FzPTjac8BSumTxAbGWZOJ9E2Jnz11qriNrHhHFmgdzrhX57d6EmR769neGh7251qt12CT0efc2MxzOKAZFDCyqwqxTLscS3iP91xHLAydiHp0YCQIUYpYwC53CIKt8W2KyYnZ5h7JHOSOtA/s600/Nur_20251107_005218_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/ZeeBanglaCinema/index.m3u8",
+      "category": "MOVIES",
+      "language": "Bangla",
+      "description": "Zee Bangla Sonar is an Indian Bengali-language movie and entertainment television channel dedicated to showcasing classic and popular Bengali films. The channel focuses on timeless cinema, legendary actors, and memorable stories that celebrate the rich heritage of Bengali film culture. Zee Bangla Sonar brings audiences a nostalgic cinematic experience by airing evergreen movies along with selected special programs. With its emphasis on classic storytelling and cultural value, the channel is a favorite destination for viewers who love traditional Bengali cinema and heritage entertainment.",
+      "added_date": "2025-12-18"
     },
     {
       "id": 85,
@@ -68,16 +68,6 @@
       "category": "SCIENTIFIC",
       "language": "Bangla",
       "description": "Discovery India is a popular factual and documentary television channel that presents educational and informative programs in the Hindi language. The channel features a wide range of content including science, technology, history, wildlife, adventure, and real-life stories, making learning both engaging and entertaining for viewers. Viewers can watch Discovery India Hindi live on OUTFLANK TV, enjoying high-quality streaming of informative documentaries and reality-based shows. With its Hindi-language programming and knowledge-driven content, Discovery India Hindi is a preferred choice for audiences seeking educational entertainment on trusted platforms like OUTFLANK TV.",
-      "added_date": "2025-12-19"
-    },
-    {
-      "id": 90,
-      "name": "Cartoon Network",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2_Oo4wyPeRJLk6Qx2LR-qkU7yUMefWJePaqWug6mf0BpN9c-JOnMtXrlahIdhb20vUfRAVmne71FSD3RUY_is9kr7fWe5K0Yd33IDt-mAC75fv7cfe49rOlV-a-JF5T1_7XV16ayq1hf2yg018vibmqvuCTigY3ZQn0G00e_Dxl7gZy8a1LZ6C-SAvg/s600/Nur_20251222_155548_0000.png",
-      "stream_url": "https://allottplay.com/tv/toffee/live.php?id=cartoon_network_sd&e=.m3u8",
-      "category": "KIDS",
-      "language": "Hindi",
-      "description": "Cartoon Network is a world-famous children’s television channel known for its wide range of animated series, cartoons, and entertaining shows loved by kids and families worldwide. The channel features iconic characters, fun adventures, comedy, and creative storytelling that encourage imagination and laughter among young viewers. Viewers can watch Cartoon Network live on OUTFLANK TV, enjoying smooth streaming and high-quality cartoon entertainment anytime. With its mix of classic and modern animated content, Cartoon Network remains a top destination for children seeking fun, creativity, and family-friendly entertainment on platforms like OUTFLANK TV.",
       "added_date": "2025-12-19"
     },
     {

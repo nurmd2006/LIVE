@@ -1057,6 +1057,16 @@
       "language": "Hindi",
       "description": "",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 116,
+      "name": "BTV News",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "BTV News is a 24-hour Bangladeshi news channel operated under Bangladesh Television, delivering credible and nationwide coverage of current affairs. The channel features live bulletins, breaking news, press briefings, parliamentary sessions, special reports, and in-depth analysis on politics, economy, education, health, and social issues. Known for its wide reach and authoritative reporting, BTV News focuses on factual journalism and public-interest programming that keeps viewers informed about what matters most across Bangladesh and around the world. Stay updated with reliable news and important national developments on your screens with Outflank TV.",
+      "added_date": "2025-12-26"
     }
   ]
 }

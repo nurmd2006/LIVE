@@ -1131,7 +1131,7 @@
     {
       "id": 113,
       "name": "Nexus Television",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitq58axdbCfGNK8qnGYe7NLyrBUvXyrKC6Ecv8Tz1lAm92MameWti_mim2e6PRquP9dhudYb7k0CqmMmVqrFGVXYV5xzbaNoi07uK3C-Xqz78BNSstr0Q0tRBsrj1V2GXRnNg_jL_iGObQ3FsRUDOBL7AQBsU-85f5gTslDC7oJPHF6z_Rkv9WgIl4Nw/s600/Nur_20251226_221102_0000.png",
       "stream_url": "https://tvsen6.aynaott.com/nexustv/index.m3u8",
       "category": "ENTERTAINMENT",
       "language": "Bangla",
@@ -1141,7 +1141,7 @@
     {
       "id": 114,
       "name": "Show BOX",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5DuQpH5EdHc3UyUSvbEZFlYH7QuX2yg2-9aIM8wqzKbz9cLJlh57OSwo-Lhcc0yjg-gxMXXA-_ESHf93FvLxBZGx03T2dmpXK8YkNT-dSEm-PZaR-7zfK5MonkmuTut9pjmep6ijGVTjfLFPYuvVRcKoW25emiBArbqxEMFg4B3qcayezJJv7YwTFgw/s600/Nur_20251226_220859_0000.png",
       "stream_url": "https://epiconvh.akamaized.net/live/showbox/master.m3u8",
       "category": "MUSIC",
       "language": "Hindi",
@@ -1151,7 +1151,7 @@
     {
       "id": 115,
       "name": "National Geography",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4fNg7Y1yZkZ-RLrrheUqWIAgFbv8MNr2gHS7iKuUMZO5-ydXzWSA5b6eQ1IbfX-JL5m1NAZWjftduuM_Xt81XRPaJpfQvUCwlzBOj4Iqaf3Tc0xWjyfsI3mq1xIG0oIq1dI2udnE06DAKv7UtJybngNhn0P0tiIMRlGTJilMLfYVB2kXh1QF6Ddb5w/s600/Nur_20251226_220828_0000.png",
       "stream_url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8",
       "category": "SCIENTIFIC",
       "language": "English",

@@ -1087,6 +1087,16 @@
       "language": "Bangla",
       "description": "SA TV is a Bangladeshi television channel offering a mix of news, entertainment, drama series, music programs, and cultural shows. The channel highlights Bangladeshi lifestyle and traditions while also delivering informative programs and special features.\nEnjoy diverse entertainment and informative programming from SA TV directly on Outflank TV.",
       "added_date": "2025-12-26"
+    },
+    {
+      "id": 119,
+      "name": "Desh TV",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/deshtv/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "Desh TV is a Bangladeshi television channel broadcasting news, talk shows, entertainment programs, cultural shows, and documentary-style features. The channel focuses on national stories, social awareness, and meaningful entertainment that connects viewers with Bangladesh’s culture and heritage. Watch your favorite programs and stay updated with Desh TV through Outflank TV.",
+      "added_date": "2025-12-26"
     }
   ]
 }

@@ -1060,62 +1060,22 @@
     },
     {
       "id": 116,
-      "name": "BTV News",
+      "name": "Sky Cinema Animation",
       "logo": "",
-      "stream_url": "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "BTV News is a 24-hour Bangladeshi news channel operated under Bangladesh Television, delivering credible and nationwide coverage of current affairs. The channel features live bulletins, breaking news, press briefings, parliamentary sessions, special reports, and in-depth analysis on politics, economy, education, health, and social issues. Known for its wide reach and authoritative reporting, BTV News focuses on factual journalism and public-interest programming that keeps viewers informed about what matters most across Bangladesh and around the world. Stay updated with reliable news and important national developments on your screens with Outflank TV.",
+      "stream_url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
+      "category": "KIDS",
+      "language": "English",
+      "description": "",
       "added_date": "2025-12-26"
     },
     {
       "id": 117,
-      "name": "Press TV",
+      "name": "Music India",
       "logo": "",
-      "stream_url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
-      "category": "NEWS",
-      "language": "English",
-      "description": "Press TV is Iran’s international news channel broadcasting primarily in English. It delivers global news, documentaries, debates, and analytical programs focusing on Middle Eastern politics, world affairs, human rights, and socio-economic issues often from a perspective not commonly seen in mainstream Western media. The channel aims to provide alternative viewpoints and comprehensive reporting on regional and global events. Follow international news and perspectives from around the world easily through Outflank TV.",
-      "added_date": "2025-12-26"
-    },
-    {
-      "id": 118,
-      "name": "SATV HD",
-      "logo": "",
-      "stream_url": "https://tvsen6.aynaott.com/satv/index.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "SA TV is a Bangladeshi television channel offering a mix of news, entertainment, drama series, music programs, and cultural shows. The channel highlights Bangladeshi lifestyle and traditions while also delivering informative programs and special features.\nEnjoy diverse entertainment and informative programming from SA TV directly on Outflank TV.",
-      "added_date": "2025-12-26"
-    },
-    {
-      "id": 119,
-      "name": "Desh TV",
-      "logo": "",
-      "stream_url": "https://tvsen6.aynaott.com/deshtv/index.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "Desh TV is a Bangladeshi television channel broadcasting news, talk shows, entertainment programs, cultural shows, and documentary-style features. The channel focuses on national stories, social awareness, and meaningful entertainment that connects viewers with Bangladesh’s culture and heritage. Watch your favorite programs and stay updated with Desh TV through Outflank TV.",
-      "added_date": "2025-12-26"
-    },
-    {
-      "id": 120,
-      "name": "Global Television",
-      "logo": "",
-      "stream_url": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Global Television is a Bangladeshi TV channel offering a variety of programs including news updates, talk shows, cultural features, drama series, and entertainment specials. The channel focuses on informative storytelling while promoting Bangladeshi heritage, values, and creative content. Viewers enjoy its mix of current affairs and entertainment designed to appeal to families across the country.\nWatch your favorite shows and news from Global Television anytime through Outflank TV.",
-      "added_date": "2025-12-26"
-    },
-    {
-      "id": 121,
-      "name": "MyTV HD",
-      "logo": "",
-      "stream_url": "https://tvsen6.aynaott.com/mytv/index.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "MyTV is a Bangladeshi entertainment channel offering drama serials, music programs, movies, talk shows, and cultural content. The channel highlights Bangladeshi lifestyle and traditions while also presenting modern entertainment for a wide audience.\nEnjoy your favorite shows, dramas, and entertainment easily with Outflank TV.",
+      "stream_url": "https://cdn-2.pishow.tv/live/226/master.m3u8",
+      "category": "MUSIC",
+      "language": "Hindi",
+      "description": "Music India is a popular Indian music television channel dedicated to Bollywood songs, chart shows, romantic hits, party mixes, and exclusive music specials. The channel features latest releases, evergreen classics, celebrity interviews, behind-the-scenes segments, and curated playlists that celebrate Indian cinema and music culture. With nonstop music programming, engaging countdown shows, and high-quality broadcasts, Music India offers a complete musical experience for viewers who love Hindi songs and Bollywood entertainment. Enjoy your favorite music programs anytime with Outflank TV.",
       "added_date": "2025-12-26"
     }
   ]

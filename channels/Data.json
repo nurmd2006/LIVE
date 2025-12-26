@@ -1097,6 +1097,16 @@
       "language": "Bangla",
       "description": "Desh TV is a Bangladeshi television channel broadcasting news, talk shows, entertainment programs, cultural shows, and documentary-style features. The channel focuses on national stories, social awareness, and meaningful entertainment that connects viewers with Bangladesh’s culture and heritage. Watch your favorite programs and stay updated with Desh TV through Outflank TV.",
       "added_date": "2025-12-26"
+    },
+    {
+      "id": 120,
+      "name": "Global Television",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Global Television is a Bangladeshi TV channel offering a variety of programs including news updates, talk shows, cultural features, drama series, and entertainment specials. The channel focuses on informative storytelling while promoting Bangladeshi heritage, values, and creative content. Viewers enjoy its mix of current affairs and entertainment designed to appeal to families across the country.\nWatch your favorite shows and news from Global Television anytime through Outflank TV.",
+      "added_date": "2025-12-26"
     }
   ]
 }

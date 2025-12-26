@@ -9,16 +9,6 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 116,
-      "name": "News 24 HD",
-      "logo": "",
-      "stream_url": "https://tvsen6.aynaott.com/news24/index.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "News24 is a 24-hour Bangladeshi news channel offering breaking news, live updates, investigative reports, and talk shows covering national and international stories. The channel highlights major issues including politics, business, social matters, and public interest topics with strong editorial analysis and expert opinions. Known for its fast updates and detailed reporting, News24 helps viewers understand important developments as they happen. Stay informed with continuous news coverage anytime through Outflank TV.",
-      "added_date": "2025-12-26"
-    },
-    {
       "id": 1,
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
@@ -1067,6 +1057,26 @@
       "language": "Hindi",
       "description": "",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 116,
+      "name": "News 24 HD",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/news24/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "News24 is a 24-hour Bangladeshi news channel offering breaking news, live updates, investigative reports, and talk shows covering national and international stories. The channel highlights major issues including politics, business, social matters, and public interest topics with strong editorial analysis and expert opinions. Known for its fast updates and detailed reporting, News24 helps viewers understand important developments as they happen. Stay informed with continuous news coverage anytime through Outflank TV.",
+      "added_date": "2025-12-26"
+    },
+    {
+      "id": 117,
+      "name": "BTV News",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "BTV News is a national Bangladeshi news channel that delivers verified and reliable coverage of politics, economy, sports, culture, and current affairs. The channel focuses on factual reporting, live bulletins, exclusive interviews, and special documentaries that help viewers stay informed about events happening across Bangladesh and around the world. With balanced journalism, timely updates, and dedicated news programs, BTV News keeps audiences connected to trustworthy information every day. Watch the latest headlines and in-depth reports conveniently with Outflank TV.",
+      "added_date": "2025-12-26"
     }
   ]
 }

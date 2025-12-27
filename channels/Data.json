@@ -1081,7 +1081,7 @@
     {
       "id": 118,
       "name": "Islam Channel",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GpJ2-CuPoX3IQOI3ROE-2Vhu9c4rFcgmHsrxPQ49EzvZP4sFq_HTCp9oj4kc3ql9-1_yg5WIk0NTv9XbY1Ly5l_i1qmNzRrIVr2vw0z49k80Dx6K5Tse3TYvt5MrlOce81E-HKBksZSkiRKZuX-ImGnXN61ep_ernelOlRwYimr-DnjpUdWM9JLwTw/s600/Nur_20251227_140508_0000.png",
       "stream_url": "https://tvsen6.aynaott.com/islam/index.m3u8",
       "category": "ISLAMIC",
       "language": "English",
@@ -1091,17 +1091,17 @@
     {
       "id": 119,
       "name": "TBN 24",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFphRfZS4hE82pVNVg6gkfWSq3RmgzFmqMBfjUcHuTYlvOh5tgbQpiu_TCwARbw4Y7dueHF3ESI1lesfdBWh-60DkWlergwiQMh_ck_dOCFf2p4XdcOkBk-8zRRKqObrRq269hmmN1oO3zB4sZwWab1vv1inhsFPn9ws4IqUmN_bKUwhSKqUa1HRluJQ/s600/Nur_20251227_140653_0000.png",
       "stream_url": "https://www.tbn24.com/live-tv-stream/20201_.m3u8",
       "category": "NEWS",
       "language": "Bangla",
-      "description": "",
+      "description": "TBN 24 is a Bangla-language television channel primarily serving Bangladeshi audiences abroad, especially in North America. The channel broadcasts news, community programs, talk shows, and cultural content connecting viewers to Bangladesh. Stay connected to Bangla news and community updates with Outflank TV.",
       "added_date": "2025-12-27"
     },
     {
       "id": 120,
       "name": "Oggy & Cockroaches",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRB4drGtiLC7n-WUv1Whw5zivy-mXgxQ_x3sidxEBL5bItoFPLDbbYPZ7IQ1yyk0xNc8Qz_E05I0CppL3bpp4iB2YvDvTPb9GAjmEbOwTJFBCTxOpQhlBIltjIPsbqloBL0Ah-4lSLtDCoQj6cQpmkkp082IQvRYN9bHTmEQIdkOkcKaB30168kd0qmw/s600/Nur_20251227_140437_0000.png",
       "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8",
       "category": "KIDS",
       "language": "Hindi",
@@ -1111,11 +1111,11 @@
     {
       "id": 121,
       "name": "Global Television",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMpIa-Ckqus5ll5uOh9vNZc7_ekC8gzp47_m9tSLqe3KbPGpr2kWhELxLHj-d25HSOh_ys__QnM1ccCK7x_1jeO8KWWj6sg6cZP3u0hJD9QS9nEdWrCCF9qU21nekj758dLm9yaBF9Qw8jxVtY5uuANki_WjX9kEui7iBGf9bpdzCLW1kuodOUTJ5lA/s600/Nur_20251227_140413_0000.png",
       "stream_url": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8",
       "category": "ENTERTAINMENT",
       "language": "Bangla",
-      "description": "",
+      "description": "Global Television is a Bangladeshi channel offering a blend of news, entertainment shows, talk programs, and cultural features. It serves audiences with informative coverage and family-friendly entertainment. Access Global Television easily and enjoy uninterrupted viewing with Outflank TV.",
       "added_date": "2025-12-27"
     },
     {

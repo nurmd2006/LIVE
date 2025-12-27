@@ -1090,11 +1090,11 @@
     },
     {
       "id": 119,
-      "name": "Travel XP",
+      "name": "TBN 24",
       "logo": "",
-      "stream_url": "https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8",
-      "category": "SCIENTIFIC",
-      "language": "English",
+      "stream_url": "https://www.tbn24.com/live-tv-stream/20201_.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
       "description": "",
       "added_date": "2025-12-27"
     }

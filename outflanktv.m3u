@@ -1,0 +1,361 @@
+#EXTM3U
+# Outflank TV Playlist
+# Generated: 12/27/2025, 5:02:57 PM
+
+#EXTINF:-1 tvg-id="1" tvg-name="Saudi Quran TV" group-title="ISLAMIC",Saudi Quran TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Duronto TV" group-title="KIDS",Duronto TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="Lotus Macau" group-title="MOVIES",Lotus Macau
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/lotusmacautv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="Somoy TV HD" group-title="NEWS",Somoy TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="Jamuna TV HD" group-title="NEWS",Jamuna TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="BTV National" group-title="NEWS",BTV National
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="Zee Bangla" group-title="DRAMA",Zee Bangla
+https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="Saudi Sunnah TV" group-title="ISLAMIC",Saudi Sunnah TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Aakash Aath" group-title="DRAMA",Aakash Aath
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="Fubo Sports" group-title="SPORTS",Fubo Sports
+https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="BBC Earth HD" group-title="SCIENTIFIC",BBC Earth HD
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="AMC Anime" group-title="KIDS",AMC Anime
+https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/amc_anime_x_hidive_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="Hum TV" group-title="DRAMA",Hum TV
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="Channel I HD" group-title="NEWS",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="DD Sports" group-title="SPORTS",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="T Sports" group-title="SPORTS",T Sports
+https://tvsen7.aynaott.com/tsportshd/index.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="ARY Digital" group-title="DRAMA",ARY Digital
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="Gubbare TV" group-title="KIDS",Gubbare TV
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-name="&flix HD" group-title="MOVIES",&flix HD
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="Action Hollywood Movies" group-title="MOVIES",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="Channel 24" group-title="NEWS",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="Independent TV" group-title="NEWS",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="ATN News" group-title="NEWS",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="Ekattor TV HD" group-title="NEWS",Ekattor TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="Geo Super" group-title="SPORTS",Geo Super
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="Willow HD" group-title="SPORTS",Willow HD
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="Sony Sports 2" group-title="SPORTS",Sony Sports 2
+https://tvsen3.aynaott.com/HsatAP9H/index.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="Star Sports Select 1" group-title="SPORTS",Star Sports Select 1
+https://tvsen6.aynaott.com/spsel1/index.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="Star Sports 1" group-title="SPORTS",Star Sports 1
+https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="BanglaVision HD" group-title="ENTERTAINMENT",BanglaVision HD
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="Boishakhi TV" group-title="ENTERTAINMENT",Boishakhi TV
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="GTV HD" group-title="ENTERTAINMENT",GTV HD
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="Peace TV Bangla" group-title="ISLAMIC",Peace TV Bangla
+https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="Ananda TV" group-title="MOVIES",Ananda TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="Ekushey TV" group-title="NEWS",Ekushey TV
+https://tvsen6.aynaott.com/etv/index.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="ATN Bangla" group-title="NEWS",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="NTV HD" group-title="ENTERTAINMENT",NTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="Deepto TV HD" group-title="DRAMA",Deepto TV HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="A Sports HD" group-title="SPORTS",A Sports HD
+https://tvsen6.aynaott.com/asports/index.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="Star Jalsha HD" group-title="DRAMA",Star Jalsha HD
+https://tvsen7.aynaott.com/sjhdbd/index.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="Gopal Bhar" group-title="KIDS",Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="Motu Patlu" group-title="KIDS",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Doraemon Hindi" group-title="KIDS",Doraemon Hindi
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="Iqra Bangla" group-title="ISLAMIC",Iqra Bangla
+https://tvsen5.aynaott.com/iqrabangla/index.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Asian TV HD" group-title="ENTERTAINMENT",Asian TV HD
+https://tvsen6.aynaott.com/asiantv/index.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="Movie Bangla HD" group-title="MOVIES",Movie Bangla HD
+https://tvsen7.aynaott.com/moviebangla/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="DW News" group-title="NEWS",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="CNN HD" group-title="NEWS",CNN HD
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="BBC World News" group-title="NEWS",BBC World News
+https://tvsen6.aynaott.com/bbcnews/index.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="Aljazeera HD" group-title="NEWS",Aljazeera HD
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="Mastiii TV" group-title="MUSIC",Mastiii TV
+https://tvsen6.aynaott.com/mastimusic/index.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="9XM" group-title="MUSIC",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="YRF Music" group-title="MUSIC",YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="Balle Balle" group-title="Music",Balle Balle
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="24 Hours Free Movies" group-title="MOVIES",24 Hours Free Movies
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="Hum Sitaray" group-title="DRAMA",Hum Sitaray
+https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
+
+#EXTINF:-1 tvg-id="59" tvg-name="Peace TV HD" group-title="ISLAMIC",Peace TV HD
+https://tvsen5.aynaott.com/peacetv/index.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="Peace TV Urdu" group-title="ISLAMIC",Peace TV Urdu
+https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="SRK TV" group-title="ENTERTAINMENT",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="62" tvg-name="8XM" group-title="MUSIC",8XM
+https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="63" tvg-name="ARY News" group-title="NEWS",ARY News
+https://live.thebosstv.com:30443/dwlive/ARY-NEWS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="64" tvg-name="PTV Sports" group-title="SPORTS",PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+
+#EXTINF:-1 tvg-id="65" tvg-name="Star Sports Select 2 HD" group-title="SPORTS",Star Sports Select 2 HD
+https://tvsen7.aynaott.com/ssps2hd/index.m3u8
+
+#EXTINF:-1 tvg-id="66" tvg-name="Star Sports 2 HD" group-title="SPORTS",Star Sports 2 HD
+https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+
+#EXTINF:-1 tvg-id="67" tvg-name="G-Series Drama" group-title="DRAMA",G-Series Drama
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="& Pictures HD" group-title="MOVIES",& Pictures HD
+https://tvsen6.aynaott.com/andpictureshd/index.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-name="Star Plus HD" group-title="DRAMA",Star Plus HD
+https://tvsen7.aynaott.com/sphdbd/index.m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="Travel Channel HD" group-title="SCIENTIFIC",Travel Channel HD
+https://tvsen6.aynaott.com/travelxp/index.m3u8
+
+#EXTINF:-1 tvg-id="71" tvg-name="National Geographic" group-title="SCIENTIFIC",National Geographic
+https://tvsen6.aynaott.com/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-id="72" tvg-name="Animal Planet HD" group-title="SCIENTIFIC",Animal Planet HD
+https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="73" tvg-name="Nickelodeon" group-title="KIDS",Nickelodeon
+https://tvsen7.aynaott.com/nicklodean/index.m3u8
+
+#EXTINF:-1 tvg-id="74" tvg-name="Disney Channel" group-title="KIDS",Disney Channel
+https://tvsen7.aynaott.com/disney/index.m3u8
+
+#EXTINF:-1 tvg-id="75" tvg-name="TV9 Bangla" group-title="NEWS",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="76" tvg-name="DD Bangla" group-title="NEWS",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
+#EXTINF:-1 tvg-id="77" tvg-name="GoldMines" group-title="MOVIES",GoldMines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-id="78" tvg-name="GoldMines Movies" group-title="MOVIES",GoldMines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-id="79" tvg-name="B4U Movies" group-title="MOVIES",B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
+#EXTINF:-1 tvg-id="80" tvg-name="B4U Kadak" group-title="MOVIES",B4U Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+
+#EXTINF:-1 tvg-id="81" tvg-name="B4U Music" group-title="MUSIC",B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+#EXTINF:-1 tvg-id="82" tvg-name="Zoom" group-title="MUSIC",Zoom
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+
+#EXTINF:-1 tvg-id="83" tvg-name="Colors Bangla HD" group-title="DRAMA",Colors Bangla HD
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="84" tvg-name="Sangeet Bangla" group-title="MUSIC",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
+#EXTINF:-1 tvg-id="89" tvg-name="Discovery Channel" group-title="SCIENTIFIC",Discovery Channel
+https://tvsen6.aynaott.com/discovery_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="90" tvg-name="Cartoon Network" group-title="KIDS",Cartoon Network
+https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="94" tvg-name="Channel 9" group-title="ENTERTAINMENT",Channel 9
+https://tvsen6.aynaott.com/channel9/index.m3u8
+
+#EXTINF:-1 tvg-id="95" tvg-name="Bangla TV" group-title="ENTERTAINMENT",Bangla TV
+https://tvsen6.aynaott.com/banglatv/index.m3u8
+
+#EXTINF:-1 tvg-id="96" tvg-name="Bijoy TV" group-title="NEWS",Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
+
+#EXTINF:-1 tvg-id="97" tvg-name="Green TV" group-title="DRAMA",Green TV
+https://tvsen6.aynott.com/GreenTvHD/index.m3u8
+
+#EXTINF:-1 tvg-id="98" tvg-name="Sony TV (SET)" group-title="ENTERTAINMENT",Sony TV (SET)
+https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="Geo Entertainment" group-title="DRAMA",Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-name="Ruposhi Bangla" group-title="DRAMA",Ruposhi Bangla
+https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="101" tvg-name="Mohona TV" group-title="ENTERTAINMENT",Mohona TV
+https://tvsen6.aynaott.com/mohonatv/index.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="JungleBook" group-title="KIDS",JungleBook
+https://cc-4bhi5osabejc9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/9fd1aa74-124b-4537-b6f0-8cc64f8de9cf/0.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-name="Azan TV" group-title="ISLAMIC",Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-name="Madani Channel Bangla" group-title="ISLAMIC",Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+#EXTINF:-1 tvg-id="105" tvg-name="MeTV" group-title="MOVIES",MeTV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-name="DesheBedeshi TV" group-title="ENTERTAINMENT",DesheBedeshi TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+#EXTINF:-1 tvg-id="107" tvg-name="Jhankar TV" group-title="MUSIC",Jhankar TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-name="DBC News HD" group-title="NEWS",DBC News HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="Ekhon TV" group-title="NEWS",Ekhon TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="RTV" group-title="NEWS",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="111" tvg-name="Tara Bangla Cinema" group-title="MOVIES",Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
+#EXTINF:-1 tvg-id="112" tvg-name="Maasranga TV" group-title="ENTERTAINMENT",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+
+#EXTINF:-1 tvg-id="113" tvg-name="Nexus Television" group-title="ENTERTAINMENT",Nexus Television
+https://tvsen6.aynaott.com/nexustv/index.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-name="Show BOX" group-title="MUSIC",Show BOX
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
+#EXTINF:-1 tvg-id="116" tvg-name="Sky Cinema Animation" group-title="KIDS",Sky Cinema Animation
+https://tvsen7.aynaott.com/skycinemanimation/index.m3u8
+
+#EXTINF:-1 tvg-id="117" tvg-name="Music India" group-title="MUSIC",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-name="Islam Channel" group-title="ISLAMIC",Islam Channel
+https://tvsen6.aynaott.com/islam/index.m3u8
+
+#EXTINF:-1 tvg-id="119" tvg-name="TBN 24" group-title="NEWS",TBN 24
+https://www.tbn24.com/live-tv-stream/20201_.m3u8
+
+#EXTINF:-1 tvg-id="120" tvg-name="Oggy & Cockroaches" group-title="KIDS",Oggy & Cockroaches
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="121" tvg-name="Global Television" group-title="ENTERTAINMENT",Global Television
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-name="Desh TV" group-title="ENTERTAINMENT",Desh TV
+https://tvsen6.aynaott.com/deshtv/index.m3u8
+
+#EXTINF:-1 tvg-id="123" tvg-name="BTV News" group-title="NEWS",BTV News
+https://tvsen6.aynaott.com/BTVNews/index.m3u8
+
+#EXTINF:-1 tvg-id="124" tvg-name="MyTV" group-title="ENTERTAINMENT",MyTV
+https://tvsen6.aynaott.com/mytv/index.m3u8
+
+#EXTINF:-1 tvg-id="125" tvg-name="Dangal HD" group-title="DRAMA",Dangal HD
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="126" tvg-name="EPIC" group-title="ENTERTAINMENT",EPIC
+https://epiconvh.akamaized.net/live/epic/master.m3u8
+
+#EXTINF:-1 tvg-id="127" tvg-name="Padma TV" group-title="MOVIES",Padma TV
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+
+#EXTINF:-1 tvg-id="128" tvg-name="SATV" group-title="NEWS",SATV
+https://tvsen6.aynaott.com/satv/index.m3u8
+
+#EXTINF:-1 tvg-id="129" tvg-name="Kolkata TV" group-title="NEWS",Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+

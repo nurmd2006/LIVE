@@ -1121,41 +1121,41 @@
     {
       "id": 122,
       "name": "Desh TV",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Y5o-pe8mUw33aKqBeJ3jNikq_s3y29kcFMwcmcTJjG0i80TJKTsMubCanv4lYV2-zy1zv2RCk1PxpbnZBFsq9oAZS5YFl9iUmg5-o-1Md9CuGAv0feCfh1XNaE86kZtKsWm-8cO7j2FLdRl-iOvsD-tONjscRhjORvmYQt49ltegag5y0eYSu6W1Lw/s600/Nur_20251227_140349_0000.png",
       "stream_url": "https://tvsen6.aynaott.com/deshtv/index.m3u8",
       "category": "ENTERTAINMENT",
       "language": "Bangla",
-      "description": "",
+      "description": "Desh TV is a Bangladeshi television channel broadcasting news, talk shows, dramas, music programs, and cultural content. It focuses on informative storytelling and programs that reflect Bangladeshi life and society. Watch your favorite Desh TV programs anytime through Outflank TV.",
       "added_date": "2025-12-27"
     },
     {
       "id": 123,
       "name": "BTV News",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD4L2jwggH5ZM3PZoWQz46su4T_i1v2ogOjqEk3B3TJm22SJVqcvfDYe8-ZazLFKk1wW4bhgslm1Z2GRcUchuQc72SUGBM0T0pXLYx_6_cymB1smOp5RWLreSERR2R1ddsG4hsSGAKYEUYgKBNu85P6FqmXEtfbzTHIvdEb3R_dfKUFwWj3MBRh-slig/s600/Nur_20251227_140323_0000.png",
       "stream_url": "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
       "category": "NEWS",
       "language": "Bangla",
-      "description": "",
+      "description": "BTV News is a Bangladeshi 24-hour news channel delivering breaking news, live bulletins, talk shows, and current-affairs programs. The channel covers national politics, economy, society, sports, and international updates with a focus on reliable reporting for viewers across Bangladesh. Stay informed with the latest headlines and special reports, available conveniently through Outflank TV.",
       "added_date": "2025-12-27"
     },
     {
       "id": 124,
       "name": "MyTV",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYRRVi-h-Em0yozT479Y2hX4JX8EWaogbhJeyvrcLYjY0nHvC0XqiTEYWqw-Il3UZ-vOXKoE_sLssGXMRvb2hIuIUeIsBXiPGPMNs8TcrkgNzvnXOpk8vYoy_LYvJ68E0CP8I85_E6ni2ujoDCMdKZbfHceJShgyexHgPSFAfA26-2-u-xt7Ni812yw/s600/Nur_20251227_140302_0000.png",
       "stream_url": "https://tvsen6.aynaott.com/mytv/index.m3u8",
       "category": "ENTERTAINMENT",
       "language": "Bangla",
-      "description": "",
+      "description": "MyTV is a Bangladeshi entertainment channel featuring drama series, music programs, magazine shows, and lifestyle content. The channel highlights local culture while delivering enjoyable, family-oriented programming.\nStream MyTV programs conveniently with Outflank TV.",
       "added_date": "2025-12-27"
     },
     {
       "id": 125,
       "name": "Dangal HD",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-UTziEUvsJzRfB5hUXUfZD8zchAOzk0CWBuRm-Vcg2r6ze4gUNMShVkYtelDrQzBgLC3CQDwUQr3P182SjKCvW7kbqP0k7izaj71dGYqCcwuLYKHzyEvYzLjzHkDjfQ56YKzzJoYS9YHao7rHHWo3KTnBYeagv0fh-jA1_FiEsunzz69Oa5amP6khKw/s600/Nur_20251227_140232_0000.png",
       "stream_url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
       "category": "DRAMA",
       "language": "Hindi",
-      "description": "",
+      "description": "Dangal TV is a popular Indian Hindi-language entertainment channel featuring drama serials, family shows, reality programs, and classic reruns. Known for strong storytelling and mass-appeal content, it attracts viewers across age groups. Enjoy popular Indian entertainment from Dangal TV anytime using Outflank TV.",
       "added_date": "2025-12-27"
     }
   ]

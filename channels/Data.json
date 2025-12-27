@@ -1117,6 +1117,16 @@
       "language": "Bangla",
       "description": "",
       "added_date": "2025-12-27"
+    },
+    {
+      "id": 122,
+      "name": "Desh TV",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/deshtv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "",
+      "added_date": "2025-12-27"
     }
   ]
 }

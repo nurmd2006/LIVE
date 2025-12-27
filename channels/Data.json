@@ -1177,6 +1177,16 @@
       "language": "Bangla",
       "description": "Padma TV is a Bangladeshi television channel that broadcasts a mix of news, informative programs, talk shows, and cultural content. The channel focuses on reliable reporting, social awareness, and entertainment that reflects Bangladeshi lifestyle, heritage, and current affairs. Viewers can enjoy engaging discussions, regional stories, special features, and programs designed for audiences of different age groups. Stay informed and enjoy your favorite Padma TV programs easily with Outflank TV.",
       "added_date": "2025-12-27"
+    },
+    {
+      "id": 128,
+      "name": "SATV",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/satv/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "SA TV is a Bangladeshi entertainment and news channel broadcasting drama series, musical shows, talk programs, cultural content, and daily news bulletins. The channel highlights Bangladeshi lifestyle and creative storytelling for family audiences. Enjoy engaging shows and informative programs conveniently with Outflank TV.",
+      "added_date": "2025-12-27"
     }
   ]
 }

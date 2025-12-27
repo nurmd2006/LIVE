@@ -1187,6 +1187,16 @@
       "language": "Bangla",
       "description": "SA TV is a Bangladeshi entertainment and news channel broadcasting drama series, musical shows, talk programs, cultural content, and daily news bulletins. The channel highlights Bangladeshi lifestyle and creative storytelling for family audiences. Enjoy engaging shows and informative programs conveniently with Outflank TV.",
       "added_date": "2025-12-27"
+    },
+    {
+      "id": 129,
+      "name": "Kolkata TV",
+      "logo": "",
+      "stream_url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "Kolkata TV is an Indian Bengali-language news channel that delivers continuous coverage of regional, national, and international events. The channel features breaking news, political discussions, investigative reports, talk shows, and special programs focusing on issues that matter to viewers across West Bengal and the Bengali-speaking community worldwide. With timely reporting, in-depth analysis, and engaging newsroom programming, Kolkata TV keeps audiences informed and aware of the latest developments. Stay updated with news and current affairs right from your screen with Outflank TV.",
+      "added_date": "2025-12-27"
     }
   ]
 }

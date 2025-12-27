@@ -1127,6 +1127,16 @@
       "language": "Bangla",
       "description": "",
       "added_date": "2025-12-27"
+    },
+    {
+      "id": 123,
+      "name": "BTV News",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "",
+      "added_date": "2025-12-27"
     }
   ]
 }

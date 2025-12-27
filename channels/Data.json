@@ -1,8 +1,8 @@
 {
   "admin": {
-    "name": "Outflank TV",
-    "platform_name": "Outflank TV",
-    "last_update": "2025-12-27T11:28:41.142Z"
+    "name": "NUR MOHAMMAD MRIDHA",
+    "platform_name": "OUTFLANK TV",
+    "last_update": "2025-12-27T12:13:33.241Z"
   },
   "channels": [
     {
@@ -14,16 +14,6 @@
       "language": "Arabic",
       "description": "Saudi Quran TV is a renowned Islamic television channel broadcast from the Kingdom of Saudi Arabia, dedicated to the continuous recitation of the Holy Qur’an. The channel features beautiful and authentic Qur’anic recitations by esteemed Qaris and the Imams of the Haramain Sharifain (Masjid al-Haram and Masjid an-Nabawi). This channel serves as a source of spiritual peace, reflection, and guidance for Muslims around the world. Through its high-quality and soul-touching Tilawat, Saudi Quran TV helps strengthen faith, encourage regular Qur’an recitation, and create a serene Islamic atmosphere in homes and hearts.",
       "added_date": "2025-11-15"
-    },
-    {
-      "id": 2,
-      "name": "Duronto TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ10o12m5_heYW_O1b71UxtR_ZtpK9dmjzwh1XaPs3lfC8Ev4CweSEOam1lCJ5Tf0V59Yyba60h-UPffxAIMj78BM-qvY5ZMeEAVJYfJ1lOzP0gQn3zX5_iduoCgPb7y-d2NB6NgJ0Ck7vTkwg9VxjNTtmSs4yHN3SHIyxGoZe00djFk5vh95PuCrF/s600/Nur_20251103_211727_0000.png",
-      "stream_url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
-      "category": "KIDS",
-      "language": "Bangla",
-      "description": "Duronto TV is a popular Bangladeshi children’s television channel dedicated to providing fun, educational, and family-friendly entertainment. The channel broadcasts a wide range of animated series, cartoons, and kids’ programs that are designed to inspire creativity, imagination, and positive values among young viewers. With a focus on safe and age-appropriate content, Duronto TV blends entertainment with learning, helping children develop cognitive skills, moral understanding, and curiosity in an engaging way. It has become a trusted choice for parents and a favorite destination for kids seeking joyful and meaningful television experiences.",
-      "added_date": "2025-12-20"
     },
     {
       "id": 3,

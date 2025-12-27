@@ -1157,6 +1157,26 @@
       "language": "Hindi",
       "description": "Dangal TV is a popular Indian Hindi-language entertainment channel featuring drama serials, family shows, reality programs, and classic reruns. Known for strong storytelling and mass-appeal content, it attracts viewers across age groups. Enjoy popular Indian entertainment from Dangal TV anytime using Outflank TV.",
       "added_date": "2025-12-27"
+    },
+    {
+      "id": 126,
+      "name": "EPIC",
+      "logo": "",
+      "stream_url": "https://epiconvh.akamaized.net/live/epic/master.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Hindi",
+      "description": "Epic is an Indian infotainment and entertainment channel that focuses on history, mythology, culture, and heritage through engaging storytelling and visually rich programming. The channel features original series, documentaries, historical dramas, travel shows, and cultural explorations that dive deep into India’s past and present. Known for its cinematic presentation and educational yet entertaining content, Epic brings viewers fascinating stories about legends, civilizations, traditions, and iconic moments that shaped the subcontinent. Enjoy thoughtful narratives, beautifully crafted visuals, and informative programs that inspire curiosity and learning. Watch your favorite Epic programs easily and enjoy seamless streaming with Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
+      "id": 127,
+      "name": "Padma TV",
+      "logo": "",
+      "stream_url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8",
+      "category": "MOVIES",
+      "language": "Bangla",
+      "description": "Padma TV is a Bangladeshi television channel that broadcasts a mix of news, informative programs, talk shows, and cultural content. The channel focuses on reliable reporting, social awareness, and entertainment that reflects Bangladeshi lifestyle, heritage, and current affairs. Viewers can enjoy engaging discussions, regional stories, special features, and programs designed for audiences of different age groups. Stay informed and enjoy your favorite Padma TV programs easily with Outflank TV.",
+      "added_date": "2025-12-27"
     }
   ]
 }

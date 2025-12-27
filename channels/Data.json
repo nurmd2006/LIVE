@@ -1087,6 +1087,16 @@
       "language": "English",
       "description": "Islam Channel is an international Islamic television network broadcasting religious lectures, talk shows, educational programs, Quran recitations, and lifestyle content from an Islamic perspective. The channel aims to promote knowledge, ethics, and spiritual awareness among viewers worldwide. Access Islamic programs and learning content easily on Outflank TV.",
       "added_date": "2025-12-27"
+    },
+    {
+      "id": 119,
+      "name": "Travel XP",
+      "logo": "",
+      "stream_url": "https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
+      "description": "",
+      "added_date": "2025-12-27"
     }
   ]
 }

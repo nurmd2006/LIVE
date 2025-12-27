@@ -1077,6 +1077,16 @@
       "language": "Hindi",
       "description": "Music India is a popular Indian music television channel dedicated to Bollywood songs, chart shows, romantic hits, party mixes, and exclusive music specials. The channel features latest releases, evergreen classics, celebrity interviews, behind-the-scenes segments, and curated playlists that celebrate Indian cinema and music culture. With nonstop music programming, engaging countdown shows, and high-quality broadcasts, Music India offers a complete musical experience for viewers who love Hindi songs and Bollywood entertainment. Enjoy your favorite music programs anytime with Outflank TV.",
       "added_date": "2025-12-26"
+    },
+    {
+      "id": 118,
+      "name": "Islam Channel",
+      "logo": "",
+      "stream_url": "https://tvsen6.aynaott.com/islam/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "English",
+      "description": "Islam Channel is an international Islamic television network broadcasting religious lectures, talk shows, educational programs, Quran recitations, and lifestyle content from an Islamic perspective. The channel aims to promote knowledge, ethics, and spiritual awareness among viewers worldwide. Access Islamic programs and learning content easily on Outflank TV.",
+      "added_date": "2025-12-27"
     }
   ]
 }

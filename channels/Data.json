@@ -2,7 +2,7 @@
   "admin": {
     "name": "NUR MOHAMMAD MRIDHA",
     "platform_name": "OUTFLANK TV",
-    "last_update": "2025-12-29T07:04:58.727Z"
+    "last_update": "2025-12-29T07:24:30.887Z"
   },
   "channels": [
     {
@@ -1204,6 +1204,16 @@
       "language": "Bangla",
       "description": "Kolkata TV is an Indian Bengali-language news channel that delivers continuous coverage of regional, national, and international events. The channel features breaking news, political discussions, investigative reports, talk shows, and special programs focusing on issues that matter to viewers across West Bengal and the Bengali-speaking community worldwide. With timely reporting, in-depth analysis, and engaging newsroom programming, Kolkata TV keeps audiences informed and aware of the latest developments. Stay updated with news and current affairs right from your screen with Outflank TV.",
       "added_date": "2025-12-27"
+    },
+    {
+      "id": 130,
+      "name": "Channel S",
+      "logo": "",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
+      "category": "MOVIES",
+      "language": "Bangla",
+      "description": "",
+      "added_date": "2025-12-29"
     }
   ]
 }

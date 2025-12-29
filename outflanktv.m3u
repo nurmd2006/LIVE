@@ -1,6 +1,6 @@
 #EXTM3U
 # OUTFLANK TV — Playlist
-# Generated: 12/29/2025, 1:05:14 PM
+# Generated: 12/29/2025, 1:25:18 PM
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png" tvg-name="nurmd2006" group-title="ISLAMIC",Saudi Quran TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
@@ -361,4 +361,7 @@ https://tvsen6.aynaott.com/satv/index.m3u8
 
 #EXTINF:-1 tvg-id="129" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizKgZcL9KxBIRrzdLn9LcXYPFU_IsHk03ocrgEItU0auDdEWviw4eytzYFp9iMekV4eTSqvubpkewJbprbANrGCvV51X3m_JNR98EgQjeQJdli1B1T299JraLIxZ83OpRoYx6w-LwfSQ0_wtlm2-x27bTbMO1_ug4Y9pxr_fL7TixXnOdp-BXRkzte-w/s600/Nur_20251227_144017_0000.png" tvg-name="nurmd2006" group-title="NEWS",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+
+#EXTINF:-1 tvg-id="130" tvg-logo="" tvg-name="nurmd2006" group-title="MOVIES",Channel S
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
 

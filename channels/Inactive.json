@@ -89,16 +89,6 @@
       "language": "Hindi",
       "description": "Sony Max is a leading Indian movie channel broadcasting Bollywood films 24/7. The channel features action-packed blockbusters, romantic dramas, comedies, and classic hits, providing nonstop entertainment for movie enthusiasts. Known for its high-quality presentation and curated movie selection, Sony Max delivers an immersive cinematic experience, making it a top destination for Bollywood fans.",
       "added_date": "2025-12-19"
-    },
-    {
-      "id": 115,
-      "name": "National Geography",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4fNg7Y1yZkZ-RLrrheUqWIAgFbv8MNr2gHS7iKuUMZO5-ydXzWSA5b6eQ1IbfX-JL5m1NAZWjftduuM_Xt81XRPaJpfQvUCwlzBOj4Iqaf3Tc0xWjyfsI3mq1xIG0oIq1dI2udnE06DAKv7UtJybngNhn0P0tiIMRlGTJilMLfYVB2kXh1QF6Ddb5w/s600/Nur_20251226_220828_0000.png",
-      "stream_url": "http://151.80.18.177:86/National_Geo_HD/index.m3u8",
-      "category": "SCIENTIFIC",
-      "language": "English",
-      "description": "",
-      "added_date": "2025-12-24"
     }
   ]
 }

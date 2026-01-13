@@ -1,6 +1,26 @@
 {
   "channels": [
     {
+      "id": 19,
+      "name": "&flix HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPvYILxlwOqD7tNsYZ7rP5oUWqGZTvLHgYOHglr4NehS1KihDz6B5IDBqJ7zohTEQkN0VTAVhbNNUvX26SyyTcfqH-DVwI4tfDWIzrLC4M1TDmM7gL-qaExT48jC2vel6IhuWXB438W_YXFtNaledUMKnyezi_Si7hFrdW_oDKA2BJeWUbrTvehh37KA/s600/Nur_20251215_124152_0000.png",
+      "stream_url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8",
+      "category": "MOVIES",
+      "language": "Hindi/English",
+      "description": "&flix is an Indian entertainment television channel that primarily broadcasts Hollywood movies, international films, and popular global series. The channel caters to audiences who enjoy premium cinematic content, offering a diverse range of genres including action, drama, thriller, romance, and adventure. &flix delivers high-quality broadcasts with engaging storytelling, bringing blockbuster films and international hits directly to viewers’ screens. With its focus on global entertainment and cinematic excellence, the channel has become a favorite destination for movie enthusiasts looking for world-class film content in India.",
+      "added_date": "2025-10-22"
+    },
+    {
+      "id": 7,
+      "name": "Zee Bangla",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFpKLo5cYb54zMuUNtSaJOOxK0aQKrC-VJ6a0_XIspxxk0aX178b0z3oO1Xn8qIiE7Jmrw3bv06A4axit55KEFhS6vgmcTo0cUqXhlbZh0IYNkPdomla8SJR7bvlBV2hGKeDDwQyzyztAWhyphenhyphenodRZ6FXnYIbNdoBoxdECEpNQBPDeTFkAh2zqISTWvag/s600/Nur_20251107_002115_0000.png",
+      "stream_url": "https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8",
+      "category": "DRAMA",
+      "language": "Bangla",
+      "description": "Zee Bangla is a popular Indian Bengali-language television channel that offers a wide variety of entertainment programs, including drama series, reality shows, talk shows, movies, and cultural content. The channel is known for delivering high-quality productions that resonate with Bengali-speaking audiences both in India and abroad. Zee Bangla provides a perfect blend of entertainment, storytelling, and cultural representation, making it a favorite choice for families and individuals seeking engaging and diverse programming. With its innovative shows and viewer-centric approach, the channel continues to be a leading destination for Bengali entertainment.",
+      "added_date": "2025-09-07"
+    },
+    {
       "id": 28,
       "name": "Discovery HD Indian",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjclA_gDBqUdomkP0VQd2BBOOKbwf2a1WFl2lfjyj_barMq0ZgVMSrPtKDgFXF7pK3NZeSvT1tEerTbalzt-6n-OgNl2acWlkbXEVUZvzddfLy33ETUGtaeTF5hoMt5JqH6lZqQX_Md36hs2zkTEueFEwe_ziznQruJLGx78nUhSgW3zr9iDAJHf_XXBQ/s600/Nur_20251215_125830_0000.png",

@@ -1,6 +1,356 @@
 {
   "channels": [
     {
+      "id": 128,
+      "name": "SATV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_0QnjaJvezQpV3q84D2RZMusa4e51bPYguwV-qjnayyD95-JfuxCtWk_yzyO_I_gM8pmocXQxcaVCzO17zSZdJN-aSyH-qfvtE-Vfidjqo6vJ21IwmNFZzCYqdvBMyPrlK-3S362ErNmIY8eDqBE8TQOQw8fn3A0PNz6ZCKKrqlSZW8Rbptmj0Mn8A/s600/Nur_20251227_143914_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/satv/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "SA TV is a Bangladeshi entertainment and news channel broadcasting drama series, musical shows, talk programs, cultural content, and daily news bulletins. The channel highlights Bangladeshi lifestyle and creative storytelling for family audiences. Enjoy engaging shows and informative programs conveniently with Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
+      "id": 124,
+      "name": "MyTV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYRRVi-h-Em0yozT479Y2hX4JX8EWaogbhJeyvrcLYjY0nHvC0XqiTEYWqw-Il3UZ-vOXKoE_sLssGXMRvb2hIuIUeIsBXiPGPMNs8TcrkgNzvnXOpk8vYoy_LYvJ68E0CP8I85_E6ni2ujoDCMdKZbfHceJShgyexHgPSFAfA26-2-u-xt7Ni812yw/s600/Nur_20251227_140302_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/mytv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "MyTV is a Bangladeshi entertainment channel featuring drama series, music programs, magazine shows, and lifestyle content. The channel highlights local culture while delivering enjoyable, family-oriented programming.\nStream MyTV programs conveniently with Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
+      "id": 122,
+      "name": "Desh TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Y5o-pe8mUw33aKqBeJ3jNikq_s3y29kcFMwcmcTJjG0i80TJKTsMubCanv4lYV2-zy1zv2RCk1PxpbnZBFsq9oAZS5YFl9iUmg5-o-1Md9CuGAv0feCfh1XNaE86kZtKsWm-8cO7j2FLdRl-iOvsD-tONjscRhjORvmYQt49ltegag5y0eYSu6W1Lw/s600/Nur_20251227_140349_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/deshtv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Desh TV is a Bangladeshi television channel broadcasting news, talk shows, dramas, music programs, and cultural content. It focuses on informative storytelling and programs that reflect Bangladeshi life and society. Watch your favorite Desh TV programs anytime through Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
+      "id": 123,
+      "name": "BTV News",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD4L2jwggH5ZM3PZoWQz46su4T_i1v2ogOjqEk3B3TJm22SJVqcvfDYe8-ZazLFKk1wW4bhgslm1Z2GRcUchuQc72SUGBM0T0pXLYx_6_cymB1smOp5RWLreSERR2R1ddsG4hsSGAKYEUYgKBNu85P6FqmXEtfbzTHIvdEb3R_dfKUFwWj3MBRh-slig/s600/Nur_20251227_140323_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "BTV News is a Bangladeshi 24-hour news channel delivering breaking news, live bulletins, talk shows, and current-affairs programs. The channel covers national politics, economy, society, sports, and international updates with a focus on reliable reporting for viewers across Bangladesh. Stay informed with the latest headlines and special reports, available conveniently through Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
+      "id": 121,
+      "name": "Global Television",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMpIa-Ckqus5ll5uOh9vNZc7_ekC8gzp47_m9tSLqe3KbPGpr2kWhELxLHj-d25HSOh_ys__QnM1ccCK7x_1jeO8KWWj6sg6cZP3u0hJD9QS9nEdWrCCF9qU21nekj758dLm9yaBF9Qw8jxVtY5uuANki_WjX9kEui7iBGf9bpdzCLW1kuodOUTJ5lA/s600/Nur_20251227_140413_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Global Television is a Bangladeshi channel offering a blend of news, entertainment shows, talk programs, and cultural features. It serves audiences with informative coverage and family-friendly entertainment. Access Global Television easily and enjoy uninterrupted viewing with Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
+      "id": 118,
+      "name": "Islam Channel",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GpJ2-CuPoX3IQOI3ROE-2Vhu9c4rFcgmHsrxPQ49EzvZP4sFq_HTCp9oj4kc3ql9-1_yg5WIk0NTv9XbY1Ly5l_i1qmNzRrIVr2vw0z49k80Dx6K5Tse3TYvt5MrlOce81E-HKBksZSkiRKZuX-ImGnXN61ep_ernelOlRwYimr-DnjpUdWM9JLwTw/s600/Nur_20251227_140508_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/islam/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "English",
+      "description": "Islam Channel is an international Islamic television network broadcasting religious lectures, talk shows, educational programs, Quran recitations, and lifestyle content from an Islamic perspective. The channel aims to promote knowledge, ethics, and spiritual awareness among viewers worldwide. Access Islamic programs and learning content easily on Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
+      "id": 113,
+      "name": "Nexus Television",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitq58axdbCfGNK8qnGYe7NLyrBUvXyrKC6Ecv8Tz1lAm92MameWti_mim2e6PRquP9dhudYb7k0CqmMmVqrFGVXYV5xzbaNoi07uK3C-Xqz78BNSstr0Q0tRBsrj1V2GXRnNg_jL_iGObQ3FsRUDOBL7AQBsU-85f5gTslDC7oJPHF6z_Rkv9WgIl4Nw/s600/Nur_20251226_221102_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/nexustv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Nexus Television is a premier Bangladeshi channel available on Outflank TV, offering a perfect blend of news, current affairs, and engaging entertainment. Tune in 24/7 on Outflank TV for in-depth discussions, top stories, and captivating programs that keep you informed and entertained.",
+      "added_date": "2025-12-24"
+    },
+    {
+      "id": 112,
+      "name": "Maasranga TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7mWHUclDA5WuZMLpnSQC0nP_Twe24aCWgBgmgzOqDHGkqI2drluYCOFuRJIR4M8AuBA0FvrwW-oJA_7892CvvvxP1l9auZO0fW6Yr0BjPAVnyANbIkm9paKJS6AAbf2meZuQfjWa1ub9WloT0CHaDrmhRSW_qxZWvd7h_ZE_smEz3nZAtm60tX5bGcA/s600/Nur_20251226_221132_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Maasranga TV - A leading Bangladeshi television channel offering a mix of news, entertainment, and cultural programs. Stay updated with the latest happenings, watch popular shows, and enjoy diverse content 24/7. If you want, I can also make a shorter, catchy version suitable for Outflank TV channel lists.",
+      "added_date": "2025-12-24"
+    },
+    {
+      "id": 100,
+      "name": "Ruposhi Bangla",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ6FjOHNtFWvecX1HpJdW3eTbqB9D8LNscO-3lKdPFCmMeoLbhduIY9NwCR-U6ohKBPb4u3iFWWE0wyhhyqfTbl2XePK2mwDn-6YqvDMbK6MeR7Q2OqOm25QO3-_yfDeth8IXl884j9hPaBNYoFqoHtwTSIrRHIRNNCEbUcXeMr2PkFq_M4VDocNMm2A/s600/Nur_20251222_155927_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/RupshiBangla/index.m3u8",
+      "category": "DRAMA",
+      "language": "Bangla",
+      "description": "Ruposhi Bangla is an Indian Bengali-language entertainment channel offering a mix of drama series, movies, reality shows, and music programs. The channel focuses on family-friendly content that showcases Bengali culture, lifestyle, and contemporary storytelling for audiences in India and beyond.",
+      "added_date": "2025-12-22"
+    },
+    {
+      "id": 98,
+      "name": "Sony TV (SET)",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihCDl_YHooFMZ6_XKc3PSlGC-eAKeQENyIFFjbQLOPw23y1u9sJrGU2DuoMSz6d1rN4ufGb8OWAwAyjaxU2rnqXFo10HvS8aKOzRyEXBCEcjvgzAELcVbKWG0JL-Knvq4x5ZWG2q-5tDE88eP8EbSzRs7q8efVXKpGc8wJwABLNJzwHZt-2AoZ4lyIRw/s600/Nur_20251222_155901_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Hindi",
+      "description": "Sony Entertainment TV is a popular Indian Hindi-language entertainment channel offering a wide range of programs including drama series, reality shows, game shows, and family-oriented content. The channel is known for its engaging storytelling, high-quality productions, and diverse programming that appeals to audiences of all ages.",
+      "added_date": "2025-12-22"
+    },
+    {
+      "id": 97,
+      "name": "Green TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRkjY14tIkYWVUxVMkluzbYHW8a_cADNbR8Bu47g1v1FkLMEdC9fgD-_OGt103qHdQFtVzxKFkYv814m1yxoxcVkQ2XCJ2Cekd1ntRnk6BEd5u3ykv5CvVWlS66COW_NBUgx0yfDJFz7B881VigR4QJVAjGDDxuHlbHwGgwkt_UAKzGkuvY_gvDFi8Hw/s600/Nur_20251222_155837_0000.png",
+      "stream_url": "https://tvsen6.aynott.com/GreenTvHD/index.m3u8",
+      "category": "DRAMA",
+      "language": "Bangla",
+      "description": "Green TV is a Bangladeshi television channel offering a variety of programs including news, talk shows, lifestyle content, drama series, and cultural shows. The channel provides live updates on national and international events while showcasing content that reflects Bangladeshi culture, traditions, and values.",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 96,
+      "name": "Bijoy TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4__88VYWOTSZ8r2iePlVG3SjTcwXrelXeGMGogLoKEqLO3K1LzK7HBZZb_ofjO1HmobVRqS95QuadQr6H5KjtLYziV01BeAgnNTPfJ0blmgDcysQSTR_pRXNCPIZnC9Aygpd1XrEhs9CcsMiNoNdkMJK6J37NeqWjI-HwlewpBjqKC5PjzqZMRA4h9g/s600/Nur_20251222_155817_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/bijoytv/index.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "Bijoy TV is a Bangladeshi television channel offering a mix of news, drama series, music programs, and cultural shows. Viewers can enjoy live updates on national and international events along with entertainment that highlights Bangladeshi culture and lifestyle. Watch Bijoy TV seamlessly on Outflank TV, your go-to platform for streaming Bangladeshi TV channels online. Outflank TV provides easy access, high-quality streaming, and a smooth viewing experience, making it simple to stay connected with your favorite Bangladeshi programs anytime, anywhere.",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 95,
+      "name": "Bangla TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHANSi1vWD_6Q1aWLZTV0gYgxU4lPHlo7q6cntCxRHfYDdFaqHFK5Q6mT1gCt8SKJx3FS7SISSnW-RoNA1kK7_BOAtfWLvUJ38gBYFWjwYnEEFI0ktwXSbkw-UTM0G5yOrBjYSMpFdYNCnQrrr28cWJI9Ywe4mdydYdM2_wtvTt84-I2yA9Z_J_q5ZMg/s600/Nur_20251222_160020_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/banglatv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Watch Bangla TV on Outflank TV, a Bangladeshi channel offering a wide range of programs including live news, drama series, music, talk shows, and cultural content. Stay updated with national and international events while enjoying entertainment that highlights Bangladeshi traditions and lifestyle.",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 94,
+      "name": "Channel 9",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis7bNgGkPt4lYYUWyXxyhtyfksNKHjXmT2mQxdJv1T9IHWajVUc2mnZfpwZcW94LBXF_vPFsAut498y8EzmdkDyUpfHJ2OVNjbz_CbvMF0hEMcGlqvjKLjun6YaZSBDKiBBE9gY1dVq1LjxORP8rVeFT1IvBOkc-uximA02WW6TvkarM4IAE8oCPgPiA/s600/Nur_20251222_155730_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/channel9/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Channel 9 is a 24-hour Bangladeshi news and entertainment television channel, providing live news updates, talk shows, in-depth analysis, and cultural programs. The channel covers national and international events while also featuring entertainment, lifestyle, and special reports tailored for Bangladeshi audiences. Known for its timely reporting and diverse programming, Channel 9 combines news, entertainment, and cultural content to deliver an engaging viewing experience. The channel has become a trusted destination for viewers seeking comprehensive coverage and quality entertainment in Bangladesh.",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 90,
+      "name": "Cartoon Network",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2_Oo4wyPeRJLk6Qx2LR-qkU7yUMefWJePaqWug6mf0BpN9c-JOnMtXrlahIdhb20vUfRAVmne71FSD3RUY_is9kr7fWe5K0Yd33IDt-mAC75fv7cfe49rOlV-a-JF5T1_7XV16ayq1hf2yg018vibmqvuCTigY3ZQn0G00e_Dxl7gZy8a1LZ6C-SAvg/s600/Nur_20251222_155548_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8",
+      "category": "KIDS",
+      "language": "Hindi",
+      "description": "Cartoon Network is a world-famous children’s television channel known for its wide range of animated series, cartoons, and entertaining shows loved by kids and families worldwide. The channel features iconic characters, fun adventures, comedy, and creative storytelling that encourage imagination and laughter among young viewers. Viewers can watch Cartoon Network live on OUTFLANK TV, enjoying smooth streaming and high-quality cartoon entertainment anytime. With its mix of classic and modern animated content, Cartoon Network remains a top destination for children seeking fun, creativity, and family-friendly entertainment on platforms like OUTFLANK TV.",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 89,
+      "name": "Discovery Channel",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigQvIDyoNabm8RtiUiJjI-9HQHZ7fRugHwGFujj4Zfptfq3hNnS8MtPFBp3uqO-eZBfzMXFMh0H0Q-0WW-Tk5wTywv122HdezORs2s8iD7BAuVoqGy9PzUp0wKdfUQSiz-5FM4n3quCGezuiBQ5FTMyrKZjJYcdN2pkkszssYlLCLGnmVUFTJqB0HOXw/s600/Nur_20251222_155527_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/discovery_hd/index.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
+      "description": "Discovery is a popular factual and documentary television channel that presents educational and informative programs in the Hindi language. The channel features a wide range of content including science, technology, history, wildlife, adventure, and real-life stories, making learning both engaging and entertaining for viewers. Viewers can watch Discovery Channel live on OUTFLANK TV, enjoying high-quality streaming of informative documentaries and reality-based shows. With its Hindi-language programming and knowledge-driven content, Discovery HD is a preferred choice for audiences seeking educational entertainment on trusted platforms like OUTFLANK TV.",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 83,
+      "name": "Colors Bangla HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmdOa-FrjsbmHkj3fe8cdJs7wCr8LqP44W8eCN4dB9tg-khIKtKCqyodP9MZtLtOKPRVYRHTy268xxlfWub0v5GqHWtG0wBAbfkF_uBu4vICj0EgBz3B6SQnasWV9LOi_ye4_FqTWCspD09E3Rlcwm6jESgLacRCxkb-aIorG9dZyD74alcdIxpSzYQ/s600/Nur_20251219_135028_0000.png",
+      "stream_url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8",
+      "category": "DRAMA",
+      "language": "Bangla",
+      "description": "Colors Bangla is a premier Indian Bengali-language entertainment channel offering a wide range of programs including drama series, reality shows, movies, music, and cultural content. The channel features family-friendly entertainment that showcases contemporary Bengali lifestyle, traditions, and popular storytelling. Known for its high-quality productions and engaging programming, Colors Bangla combines drama, reality, and cultural content to provide viewers with a wholesome entertainment experience. With diverse shows and vibrant presentation, the channel has become a popular destination for Bengali audiences seeking both modern and traditional entertainment.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 74,
+      "name": "Disney Channel",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK-tzipUod0BTAWj8XBcEw5PK_Cnon-bXOlRgicX8QkwO9djmBMd1Cl3QDqJfsX1wBS4QCAETMHaWDgbqCNffwYEj-htgfFXZ9kZ-5PCqqhdR3XPG_cad0mUq6tpWqkSY-1w4Rgi3NNkGrro2hzy5G2kIF6MdKzqnifuSEwcUl2P3GVqW-d_pbyEyX5Q/s600/Nur_20251219_134626_0000.png",
+      "stream_url": "https://tvsen7.aynaott.com/disney/index.m3u8",
+      "category": "KIDS",
+      "language": "English/Japanese",
+      "description": "Disney Channel is a globally renowned children’s and family entertainment television channel that offers a wide range of animated series, live-action shows, movies, and original programming. The channel features beloved Disney characters, engaging adventures, and inspiring stories that entertain and educate viewers of all ages. Known for its high-quality content, magical storytelling, and family-friendly programming, Disney Channel combines humor, creativity, and life lessons to provide a wholesome entertainment experience. The channel is a favorite destination for children and families worldwide, delivering fun, imagination, and memorable characters in every program.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 73,
+      "name": "Nickelodeon",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJMWQAYPgusPLnyf6bSVFESZ32enbfvGoEZs53OGWkJE7vnYAOeQRRPdOWz3KAXQZkZeX18W2fzTnxMob88C-fRz8Rbw88WAqZvGkeH0Wxnil-UxcJ0IdlAp-FXFVUOE2XVYTmJAFKwdAnac0gNelziDBD4yUH7ex5uNldVawKkNEaskc2MXkmk_9OJA/s600/Nur_20251219_134415_0000.png",
+      "stream_url": "https://tvsen7.aynaott.com/nicklodean/index.m3u8",
+      "category": "KIDS",
+      "language": "English",
+      "description": "Nickelodeon is a globally popular children’s television channel that offers a wide variety of animated series, live-action shows, movies, and educational programs designed for kids and young audiences. The channel features beloved characters, fun adventures, and entertaining stories that spark creativity and imagination. Known for its engaging content and family-friendly programming, Nickelodeon combines humor, learning, and adventure to provide a wholesome entertainment experience. The channel is a favorite destination for children around the world, offering a safe and enjoyable environment filled with laughter, fun, and memorable characters.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 72,
+      "name": "Animal Planet HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_xqKi53cyxWPeBO9M4N_MTna0uVF-hOkOTSMFULJExw1yfuk9uwYklCocq5an3bZnUXEgMk96Xvm2CfCz8BEqmMtwA1L5djhujsX8IeTqBtOTpubohWRPUBmH9VJ5Tij6XGRU1lPgjHnp3jWzUYNSEvSjv1nPiO38zJB6PqfRjQyO9zLRpnPmKRrwg/s600/Nur_20251219_134350_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
+      "description": "Animal Planet is an internationally recognized television channel dedicated to wildlife, nature, and animal-focused programming. The channel features documentaries, reality shows, and educational series that explore the behavior, habitats, and conservation of animals from around the world. Known for its engaging storytelling and stunning visuals, Animal Planet combines entertainment with education to inspire viewers to learn about and appreciate the animal kingdom. Through its diverse programs, the channel raises awareness about wildlife conservation, animal welfare, and the fascinating world of nature, making it a favorite destination for animal lovers and families alike.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 70,
+      "name": "Travel Channel HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirCHpd8qlc6iiMrOqQxZsl7qEIn2CT-7P_FjX2ipudHD0AbKCtbXJb1g2eZhJ9nmjh7uZKqY4XdlYVDzmP8yavVuLwkzj2UGX8d5BaxIE6pq3IrD-aNN-AAewTVjUnpMNLT1zK8Ymo4wGsgIdlE4SN1ABxKMcg0wyyu-jAnIUG-a46E7qgNSvfc-d0uQ/s600/Nur_20251219_134135_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/travelxp/index.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
+      "description": "Travel Channel is a globally recognized television channel dedicated to exploration, adventure, and travel experiences. The channel features documentaries, reality shows, and series that showcase stunning destinations, unique cultures, culinary adventures, and thrilling journeys from around the world. Known for its high-quality production and immersive storytelling, Travel Channel inspires curiosity and wanderlust among viewers. By combining entertainment with education and cultural insight, the channel provides audiences with an engaging and informative experience, allowing them to explore the world from the comfort of their homes.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 71,
+      "name": "National Geographic",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYRMUUOnrJacEJvUIIPmzdohKZQB9WEAiZegY5851eV0Y-3XKkfOwO2aJ25SVqE1SrZHHAzKUjlI0WUvSg3XAAH9dO6ILUz7F6YY-Bd5BOmBUs2VxRj_hb13UfOQ7iSHipCs_KH6rf1-1BxrvBc3rI3nII1pUBDjVOkfvAVTtB_v_to8rhcuwvTlwmaA/s600/Nur_20251219_134213_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/natgeo/index.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
+      "description": "National Geographic is a world-renowned television channel dedicated to exploring the wonders of the natural world, science, history, and culture. The channel features high-quality documentaries, reality series, and educational programs that cover wildlife, environmental issues, archaeology, technology, and human stories from across the globe. Known for its stunning visuals, in-depth research, and immersive storytelling, National Geographic inspires curiosity, learning, and exploration. By combining entertainment with education, the channel provides viewers with a captivating experience that broadens their understanding of our planet, its history, and the diverse cultures that inhabit it.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 69,
+      "name": "Star Plus HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilwqskBGe2fTWJKVAbyTt7UXMUV2lLdSX4cbAP6hD9_KX46uuPgicQN1znONcMYtgPkyxtVNRm9uHaeElMZIGOvV7TkkOiPWcGurTVu803W3V0BlQQIMtRiabDBevG1rWJW5ihSkLBkXZef75BZd956AUzFnzTQaVHW_bktBjCPv1rcjknsfIAjJGa_A/s600/Nur_20251219_134111_0000.png",
+      "stream_url": "https://tvsen7.aynaott.com/sphdbd/index.m3u8",
+      "category": "DRAMA",
+      "language": "Hindi",
+      "description": "Star Plus HD is a leading Indian high-definition entertainment television channel that offers a wide range of programs including drama serials, reality shows, movies, and cultural content. The channel is known for its engaging storytelling, high-quality production, and family-oriented programming that appeals to audiences across India and abroad. Star Plus HD combines contemporary entertainment with cultural representation, showcasing diverse narratives, popular shows, and modern lifestyle content. With its vibrant programming and HD broadcasts, the channel provides viewers with an immersive and enjoyable television experience suitable for all age groups.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 68,
+      "name": "& Pictures HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmBsBk82ozmlZjbgVO0CRwJRbB-FydnIT4Qtuh8j1NmvkWsGhP5hKZA4fUHfmx7SOHMS_rss_Io0PYbyzt7cFvXCeRDALhJtWI9YDqcOT_hWwbt34GVSywtKHtMZBhJ6xBYPlBqHoZyAVZwyBl8exXAiHF06ugCAVrqeOaORHiL8O_9F_tnByiwZIgZQ/s600/Nur_20251219_134046_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/andpictureshd/index.m3u8",
+      "category": "MOVIES",
+      "language": "Hindi",
+      "description": "&Pictures HD is an Indian high-definition entertainment television channel that primarily broadcasts Bollywood movies, film-based shows, and special cinematic content. The channel features a diverse collection of films ranging from romantic dramas and comedies to action-packed blockbusters, catering to audiences who enjoy Hindi cinema. Known for its high-quality broadcasts and vibrant presentation, &Pictures HD brings the glamour and excitement of Bollywood directly to viewers’ screens. With a mix of contemporary hits and classic films, the channel provides an immersive cinematic experience, making it a favorite destination for movie lovers.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 66,
+      "name": "Star Sports 2 HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5B5G8ISMQK1rl9dPAygzrtXf5giqzVXI3bNJ5zHFPr5EXEjYcFcX1VS9D3Mwme4dWu5lY8XTP6FSso23uhGWEWvhJC2JvxN8gxUEogNKn1r8A3Gn0s59atCRFWeyd55J_wQzQkaYeBUMKnX02CYmlikbjJSNemcpxvBwk2i3O_bfdFpU-9rILBLHMyg/s600/Nur_20251219_133937_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
+      "category": "SPORTS",
+      "language": "Hindi/English",
+      "description": "Star Sports 2 HD is a leading high-definition sports television channel that provides extensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and special programs for popular sports including cricket, football, tennis, and more. Known for its top-quality production and professional commentary, Star Sports 2 HD delivers an engaging and immersive viewing experience for sports fans. With comprehensive coverage and exclusive sports content, the channel is a preferred destination for audiences seeking live action, in-depth insights, and premium sports entertainment.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 65,
+      "name": "Star Sports Select 2 HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3X9XytcH0vIGqSxO5H0TQKqk-wPJLcgr9tjfXBO6zm1cww024l-yyAdKttLSlcvmMxJLMefNHc-O_b8vCpiIWdTH7FYeokVBE-iGCfeA2VFEVVJQ1Qqp0gmps5z0JGrSqVREBDnzpz7Ao-zqteBd-2wPjRUxfgLpAbHiBFu2ZnU6rI7CGYIDjNdICg/s600/Nur_20251219_133628_0000.png",
+      "stream_url": "https://tvsen7.aynaott.com/ssps2hd/index.m3u8",
+      "category": "SPORTS",
+      "language": "Hindi/English",
+      "description": "Star Sports Select 2 HD is a premium sports television channel offering high-definition coverage of elite national and international sporting events. The channel features live matches, match highlights, expert analysis, and in-depth commentary on top sports such as cricket, football, tennis, and more. Renowned for its professional broadcasting and high-quality production, Star Sports Select 2 HD provides an immersive and engaging viewing experience for sports enthusiasts. With comprehensive coverage and exclusive content, the channel is a top destination for viewers seeking in-depth insights, live action, and premium sports entertainment.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 64,
+      "name": "PTV Sports",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgccM6ZGr3IWjVGn75GxLU04cwwWIzjmGVUhCR6ZVDrg5KtunAwdUynWXMkOv403KReDsJ46aSxr2dhoZv0apGjt5CmT-Rl4eMpOwPV7G1dgCzBPNcuNYGGJWEUQj_cFsY5umEMnntSScbYLTzPpQiMqhkjVoO3UTfDd3AfSSPiGljWYdq1ClTDgo5sUQ/s600/Nur_20251219_133601_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8",
+      "category": "SPORTS",
+      "language": "Urdu/English",
+      "description": "PTV Sports is Pakistan’s premier sports television channel, providing comprehensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and sports-related talk shows, with a special focus on cricket, football, hockey, and other popular sports. Known for its professional commentary, high-quality production, and timely updates, PTV Sports delivers an engaging and immersive viewing experience for sports enthusiasts. The channel aims to promote sports culture in Pakistan, keeping fans connected to their favorite teams, tournaments, and athletes.",
+      "added_date": "2025-12-18"
+    },
+    {
+      "id": 45,
+      "name": "Iqra Bangla",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxOLOHgsy5Qp5kksSWrPwfsykIy-eXH8KYIdID3Q82bTTQ45PAJbT0QHlReNyoirB8XyTJKbj5EIJUGQfgx3ZKdzfqJTrW9i6QbF3ZVAHaSSPO1MeqLlhGcD5iw0pjKLwvWLp-Pw5GdM66V8Fc__Qlz3hkHWrXqO3fxsPge31OGIkhtQKGPWWw95Khzg/s600/Nur_20251216_230457_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/iqrabangla/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "Bangla",
+      "description": "Iqra Bangla is a Bangladeshi Islamic television channel dedicated to spreading the teachings of Islam in the Bangla language. The channel features programs such as Qur’an recitations, Islamic lectures, religious discussions, and educational content aimed at promoting knowledge, faith, and moral values among viewers. Iqra Bangla focuses on providing spiritually enriching content for audiences of all ages, helping Muslims strengthen their understanding of Islam and live according to its principles. Through its engaging and educational programs, the channel encourages devotion, learning, and the practice of Islamic teachings in daily life.",
+      "added_date": "2025-12-15"
+    },
+    {
+      "id": 46,
+      "name": "Asian TV HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9NgO-lFaW83IPuGAZXfo9nDb-9x5nfSuRgAQ3u1cdongs8YSDrgwH_RQAExmGOeSXeBeOV9g1DumONpBb6HUtYtR69Oi1UoE5BdprdqmLjYm95gmzfxte4GdKlV0Cx5E0nBxiGe_cq99rWCNRq4ebEUhVhZhgPHRbkJIJr1yPFhhyc_cquwn65Hitw/s600/Nur_20251216_230519_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/asiantv/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Asian TV is a prominent Bangladeshi entertainment television channel that offers a wide variety of programming, including drama serials, movies, talk shows, music programs, and cultural content. The channel aims to provide engaging, family-friendly entertainment for viewers across Bangladesh and abroad. Known for its diverse content and modern production quality, Asian TV combines entertainment with cultural storytelling, reflecting contemporary Bangladeshi life and traditions. Through its vibrant shows and broadcasts, the channel delivers enjoyable, informative, and immersive television experiences for audiences of all ages.",
+      "added_date": "2025-12-15"
+    },
+    {
+      "id": 41,
+      "name": "Star Jalsha HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png",
+      "stream_url": "https://tvsen7.aynaott.com/sjhdbd/index.m3u8",
+      "category": "DRAMA",
+      "language": "Bangla",
+      "description": "Star Jalsha HD is a leading Indian Bengali-language television channel that offers a wide range of entertainment programs, including drama serials, reality shows, movies, music programs, and cultural content. The channel is known for its high-quality productions, engaging storytelling, and family-friendly entertainment that appeals to Bengali-speaking audiences in India and abroad. Star Jalsha HD combines contemporary entertainment with cultural representation, showcasing the richness of Bengali traditions and lifestyle. With its vibrant programming and high-definition broadcasts, the channel provides viewers with an immersive and enjoyable television experience.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 40,
+      "name": "A Sports HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmOtBqrUYPOwhCcOe6DsfthRdQf40rz636cFtvtCa1mhdSPHJX34moNI-3-DRrccq3GzdcgqonlAwKk8fh5iIXqB1R8UTQN33ZaYE9bfjDorq4UWCnkOb-rLqMdthJwYpwOnFukDD7IVF4TzDTjksgtjbssx_UMVytELS7i4YJj8SyqI9N17f7OjkYxw/s600/Nur_20251216_222037_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/asports/index.m3u8",
+      "category": "SPORTS",
+      "language": "Urdu/English",
+      "description": "A Sports HD is a dedicated Bangladeshi sports television channel that provides comprehensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and special sports programs, catering to fans of cricket, football, and other popular sports. Known for its high-definition broadcasts and professional presentation, A Sports HD delivers an immersive and engaging sports viewing experience. The channel aims to promote sports culture in Bangladesh by keeping viewers informed, entertained, and connected to their favorite teams, leagues, and sporting events.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 33,
+      "name": "GTV HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUytWIP-VVJdFlHTiigxsmzHh3D8g5eXDAqmtBmD0M4JZiMZ3LPvVByKtWPTwJV4seYdZKBTGDcmgkHBb9tWTR645l1TZoEyskqOwTpsBQoaRKSVfYu0A7XH2l6sY_jeOsdjN3bKAATzjPrDZdzvLlMcB05lC00RwJgXIn_5o83zGLs3lWXLRmqJTD1Q/s600/Nur_20251216_221611_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "GTV HD is a leading Bangladeshi entertainment television channel that offers a diverse range of programs in high-definition quality. The channel broadcasts popular drama serials, movies, reality shows, music programs, and special events, catering to audiences of all ages across Bangladesh and abroad. Known for its high production standards and engaging content, GTV HD combines entertainment with cultural richness. Through its premium HD broadcasts and popular shows, the channel provides viewers with an enjoyable and immersive television experience while showcasing contemporary Bangladeshi entertainment.",
+      "added_date": "2025-11-20"
+    },
+    {
+      "id": 30,
+      "name": "Star Sports 1",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFJqjN4nfxkVw5lcWZhEe_AUk-DdkLuLZgb2idv3kZEiHPaVP7RNgk4hU4cfC-1z830otQdR_nLcarHrdSew3Cx9TylJ901V4CUAQtjeW6uP-6V-9Drdynyv8cJ75MJFP-zSEMChboJ3uPF8hL6F5rIJkQVS5wqh-NfbA2jjgg95gVlrg1VuByXbKhbg/s600/Nur_20251216_221535_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8",
+      "category": "SPORTS",
+      "language": "Hindi/English",
+      "description": "Star Sports 1 is one of India’s leading sports television channels, offering extensive coverage of major national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and special sports programs, with a strong focus on cricket, football, kabaddi, and other popular sports. Star Sports 1 is known for its high-quality production, engaging commentary, and wide-ranging sports content that caters to millions of fans. With its comprehensive programming and reliable coverage, the channel remains a top destination for sports enthusiasts seeking live action and in-depth sports entertainment.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 29,
+      "name": "Star Sports Select 1",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLOEbu7WVccSRRH3l-Q7KQh8jFO87BaqusHGjzW9Nn3h7Trt8bwZGL5kKfEbUmaFPUOoiP8stewAtwAIlZhomPQbmVlroq0gul1GClTADo6Hh4gWanS2fzPxGg2lGiwUX_AijZRyBa2LTcKLjpskFH-ESD5HZY19FbK409eKCD7vy4a5jyQM_q4BPPhQ/s600/Nur_20251216_221506_0000.png",
+      "stream_url": "https://tvsen6.aynaott.com/spsel1/index.m3u8",
+      "category": "SPORTS",
+      "language": "Hindi/English",
+      "description": "Star Sports Select 1 is a premium sports television channel that offers live coverage of elite international sporting events. The channel primarily focuses on top-tier sports such as cricket, football, tennis, and other global competitions, along with expert analysis, pre-match shows, and detailed post-match discussions. Known for its high-quality production and exclusive sports content, Star Sports Select 1 delivers an immersive and professional viewing experience for sports enthusiasts. The channel is designed for audiences who seek in-depth coverage, expert commentary, and premium sports entertainment from around the world.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 26,
+      "name": "Willow HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgOPZz03_XXVz4UHRvWTbilk70mIGUpr6EBN9ml7GIn12FfoTvh6xDdFRJ0orfou52IUE04WEiwRa_UNBKBhFMFm5IGnpKQBZp3AdkhAgBZXYnjLglKvX287y-JbqqwHCibAygg3s9LnfZW1poIb109ssVoIvO31XBZKDDHVASyf0s1qWzharduxCjA/s600/Nur_20251215_125607_0000.png",
+      "stream_url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
+      "category": "SPORTS",
+      "language": "Hindi/English",
+      "description": "Willow HD is a premier sports television channel dedicated primarily to live cricket coverage, serving cricket fans around the world. The channel broadcasts international cricket matches, domestic leagues, highlights, and expert analysis, delivering high-definition viewing experiences for major tournaments and series. Willow HD is especially popular among South Asian and global cricket audiences for its reliable coverage, in-depth commentary, and exclusive cricket content. With its focus on live action and quality broadcasting, the channel is a top destination for viewers who want to stay connected to the world of cricket.",
+      "added_date": "2025-11-30"
+    },
+    {
       "id": 19,
       "name": "&flix HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPvYILxlwOqD7tNsYZ7rP5oUWqGZTvLHgYOHglr4NehS1KihDz6B5IDBqJ7zohTEQkN0VTAVhbNNUvX26SyyTcfqH-DVwI4tfDWIzrLC4M1TDmM7gL-qaExT48jC2vel6IhuWXB438W_YXFtNaledUMKnyezi_Si7hFrdW_oDKA2BJeWUbrTvehh37KA/s600/Nur_20251215_124152_0000.png",

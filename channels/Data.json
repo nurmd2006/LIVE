@@ -32,7 +32,7 @@
       "id": 3,
       "name": "Lotus Macau",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2-CuAoARb0QOtO6oM-x-4nuLA3yWe9-xzoWLuzOg_hVcxWcHHbJDjU3NC8q0dEHj20F9P14RPRFdEBdOKRn5UC0nvsS6ulsXPniJDPCDvcs3d-R6k-PO9yW3qj4X6EwTmy88n7qW-D8sthM1jloquuj1MIVz6UOUoHcc7pGVcgAIhEvm-gI3Rxda/s600/Nur_20251103_202827_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/lotusmacautv.stream/tracks-v1a1/mono.m3u8",
+      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/lotusmacautv.stream/tracks-v1a1/mono.m3u8",
       "category": "MOVIES",
       "language": "English",
       "description": "Lotus Macau is a well-known television channel based in Macau, China, offering a diverse mix of entertainment, lifestyle, and cultural programming. The channel features a variety of content including movies, drama series, music programs, talk shows, and special broadcasts that reflect both regional and international influences. Lotus Macau is recognized for delivering quality entertainment to a wide audience, combining modern media presentation with cultural richness. Through its engaging programs, the channel provides viewers with enjoyable, informative, and culturally diverse television experiences, making it a popular choice among audiences seeking international content.",
@@ -67,16 +67,6 @@
       "language": "Bangla",
       "description": "Bangladesh Television (BTV) is the state-owned national television channel of Bangladesh, providing a wide range of programming that includes news, cultural shows, documentaries, entertainment, educational content, and live events. As the country’s first television broadcaster, BTV has played a significant role in shaping Bangladesh’s media landscape and promoting national culture and heritage. BTV delivers reliable news coverage, insightful talk shows, and diverse programs that cater to all age groups and interests. With a focus on education, culture, and public service broadcasting, BTV remains a trusted source of information and entertainment for audiences across Bangladesh and the global Bangladeshi community.",
       "added_date": "2025-10-14"
-    },
-    {
-      "id": 7,
-      "name": "Zee Bangla",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFpKLo5cYb54zMuUNtSaJOOxK0aQKrC-VJ6a0_XIspxxk0aX178b0z3oO1Xn8qIiE7Jmrw3bv06A4axit55KEFhS6vgmcTo0cUqXhlbZh0IYNkPdomla8SJR7bvlBV2hGKeDDwQyzyztAWhyphenhyphenodRZ6FXnYIbNdoBoxdECEpNQBPDeTFkAh2zqISTWvag/s600/Nur_20251107_002115_0000.png",
-      "stream_url": "https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8",
-      "category": "DRAMA",
-      "language": "Bangla",
-      "description": "Zee Bangla is a popular Indian Bengali-language television channel that offers a wide variety of entertainment programs, including drama series, reality shows, talk shows, movies, and cultural content. The channel is known for delivering high-quality productions that resonate with Bengali-speaking audiences both in India and abroad. Zee Bangla provides a perfect blend of entertainment, storytelling, and cultural representation, making it a favorite choice for families and individuals seeking engaging and diverse programming. With its innovative shows and viewer-centric approach, the channel continues to be a leading destination for Bengali entertainment.",
-      "added_date": "2025-09-07"
     },
     {
       "id": 8,
@@ -134,7 +124,7 @@
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUUr5b6nt32L9MbGNHgY_TYzD6tb5gy_3t7LjrIEdX8x5qURZJ1QjyZVO_bE7zgUuny3K2gg3nPYFWVuls07NeP8AZ1Ko2rK63afWf9dgfr4ZP2gTP-OdwjlTfRnqaMmRBA8scsekezXydvxlou7pd1-FcA0IDE9W2jPWuwgm-LjS_wM6OH9IDeGFU6Q/s600/Nur_20251106_235545_0000.png",
       "stream_url": "https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8",
       "category": "DRAMA",
-      "language": "Hindi/Urdu",
+      "language": "Urdu",
       "description": "Hum TV is a leading Pakistani entertainment television channel known for its high-quality drama serials, reality shows, talk shows, and cultural programs. The channel has earned a reputation for delivering engaging storytelling, relatable characters, and socially relevant content that resonates with audiences both in Pakistan and internationally. Hum TV combines entertainment with meaningful narratives, showcasing the richness of Pakistani culture, traditions, and contemporary life. Its diverse programming, including award-winning dramas and popular shows, makes it a preferred destination for viewers seeking quality entertainment, emotional engagement, and cultural connection.",
       "added_date": "2025-11-04"
     },
@@ -174,7 +164,7 @@
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJevI_k2cbabTVI7ylFRiaqGmXVfS30w4BHpF72kXn9AMMgZS8L5YQ9DPrx3DqwNSuUs7cDCL1NSD6FM3ne3pTP-yFdT1Mr8nxregkTX-3ZXquReqpi38_lW1WTNa0DrvkYnD6jsB-Ruw-cymWq4Ely5oPmZ4qduZ1CvVCLSAV6Z9XxB8i2AZV8bgVNg/s600/Nur_20251106_235521_0000.png",
       "stream_url": "https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8",
       "category": "DRAMA",
-      "language": "Hindi/Urdu",
+      "language": "Urdu",
       "description": "ARY Digital is a leading Pakistani entertainment television channel that offers a wide range of programs including drama serials, reality shows, talk shows, morning shows, and cultural content. The channel is renowned for its high-quality productions, engaging storytelling, and programs that resonate with audiences both in Pakistan and internationally. ARY Digital combines entertainment with meaningful narratives, showcasing Pakistani culture, traditions, and contemporary life. Its diverse programming, including award-winning dramas and popular shows, makes it a favorite destination for viewers seeking entertainment, emotional connection, and cultural insight through television.",
       "added_date": "2025-10-28"
     },
@@ -187,16 +177,6 @@
       "language": "Bangla",
       "description": "Gubbare TV is an Indian children’s television channel dedicated to providing fun, educational, and entertaining content for young viewers. The channel features a wide range of animated series, cartoons, and kid-friendly programs designed to inspire creativity, imagination, and positive values. With its focus on safe and age-appropriate content, Gubbare TV combines learning with entertainment, helping children develop cognitive skills, moral understanding, and curiosity in an engaging way. The channel has become a popular choice for parents and children seeking joyful, educational, and family-friendly television experiences.",
       "added_date": "2025-10-07"
-    },
-    {
-      "id": 19,
-      "name": "&flix HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPvYILxlwOqD7tNsYZ7rP5oUWqGZTvLHgYOHglr4NehS1KihDz6B5IDBqJ7zohTEQkN0VTAVhbNNUvX26SyyTcfqH-DVwI4tfDWIzrLC4M1TDmM7gL-qaExT48jC2vel6IhuWXB438W_YXFtNaledUMKnyezi_Si7hFrdW_oDKA2BJeWUbrTvehh37KA/s600/Nur_20251215_124152_0000.png",
-      "stream_url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8",
-      "category": "MOVIES",
-      "language": "Hindi/English",
-      "description": "&flix is an Indian entertainment television channel that primarily broadcasts Hollywood movies, international films, and popular global series. The channel caters to audiences who enjoy premium cinematic content, offering a diverse range of genres including action, drama, thriller, romance, and adventure. &flix delivers high-quality broadcasts with engaging storytelling, bringing blockbuster films and international hits directly to viewers’ screens. With its focus on global entertainment and cinematic excellence, the channel has become a favorite destination for movie enthusiasts looking for world-class film content in India.",
-      "added_date": "2025-10-22"
     },
     {
       "id": 20,

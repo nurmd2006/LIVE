@@ -9,20 +9,10 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 123,
-      "name": "BTV News",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD4L2jwggH5ZM3PZoWQz46su4T_i1v2ogOjqEk3B3TJm22SJVqcvfDYe8-ZazLFKk1wW4bhgslm1Z2GRcUchuQc72SUGBM0T0pXLYx_6_cymB1smOp5RWLreSERR2R1ddsG4hsSGAKYEUYgKBNu85P6FqmXEtfbzTHIvdEb3R_dfKUFwWj3MBRh-slig/s600/Nur_20251227_140323_0000.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "BTV News is a Bangladeshi 24-hour news channel delivering breaking news, live bulletins, talk shows, and current-affairs programs. The channel covers national politics, economy, society, sports, and international updates with a focus on reliable reporting for viewers across Bangladesh. Stay informed with the latest headlines and special reports, available conveniently through Outflank TV.",
-      "added_date": "2025-12-27"
-    },
-    {
       "id": 1,
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
-      "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+      "stream_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/tracks-v1a1/mono.ts.m3u8",
       "category": "ISLAMIC",
       "language": "Arabic",
       "description": "Saudi Quran TV is a renowned Islamic television channel broadcast from the Kingdom of Saudi Arabia, dedicated to the continuous recitation of the Holy Qur’an. The channel features beautiful and authentic Qur’anic recitations by esteemed Qaris and the Imams of the Haramain Sharifain (Masjid al-Haram and Masjid an-Nabawi). This channel serves as a source of spiritual peace, reflection, and guidance for Muslims around the world. Through its high-quality and soul-touching Tilawat, Saudi Quran TV helps strengthen faith, encourage regular Qur’an recitation, and create a serene Islamic atmosphere in homes and hearts.",
@@ -37,16 +27,6 @@
       "language": "Bangla",
       "description": "Duronto TV is a popular Bangladeshi children’s television channel dedicated to providing fun, educational, and family-friendly entertainment. The channel broadcasts a wide range of animated series, cartoons, and kids’ programs that are designed to inspire creativity, imagination, and positive values among young viewers. With a focus on safe and age-appropriate content, Duronto TV blends entertainment with learning, helping children develop cognitive skills, moral understanding, and curiosity in an engaging way. It has become a trusted choice for parents and a favorite destination for kids seeking joyful and meaningful television experiences.",
       "added_date": "2025-12-20"
-    },
-    {
-      "id": 3,
-      "name": "Lotus Macau",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2-CuAoARb0QOtO6oM-x-4nuLA3yWe9-xzoWLuzOg_hVcxWcHHbJDjU3NC8q0dEHj20F9P14RPRFdEBdOKRn5UC0nvsS6ulsXPniJDPCDvcs3d-R6k-PO9yW3qj4X6EwTmy88n7qW-D8sthM1jloquuj1MIVz6UOUoHcc7pGVcgAIhEvm-gI3Rxda/s600/Nur_20251103_202827_0000.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/lotusmacautv.stream/tracks-v1a1/mono.m3u8",
-      "category": "MOVIES",
-      "language": "English",
-      "description": "Lotus Macau is a well-known television channel based in Macau, China, offering a diverse mix of entertainment, lifestyle, and cultural programming. The channel features a variety of content including movies, drama series, music programs, talk shows, and special broadcasts that reflect both regional and international influences. Lotus Macau is recognized for delivering quality entertainment to a wide audience, combining modern media presentation with cultural richness. Through its engaging programs, the channel provides viewers with enjoyable, informative, and culturally diverse television experiences, making it a popular choice among audiences seeking international content.",
-      "added_date": "2025-12-12"
     },
     {
       "id": 4,
@@ -92,7 +72,7 @@
       "id": 8,
       "name": "Saudi Sunnah TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMtx2NOqlOhEtXDNkDY9AQPKHBTTRlIA6QsJ8-dgcHmog-4_ZFzIg6LwPvyV3k-YjyX5L9LgwJOiS2zf-HymlED3fUg4eV7EXsdBdPjclaGRTLLjXfTrdh1-0XcfwDjN9Y6Uk3SOhb-1wmUnTQ4Mn0nXAAYrumM-NNgh3RQEYnHb1Wmf6e2zIwB9aueA/s600/Nur_20251107_152041_0000.png",
-      "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+      "stream_url": "https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/tracks-v1a1/mono.ts.m3u8",
       "category": "ISLAMIC",
       "language": "Arabic",
       "description": "Sunnah TV is an Islamic television channel broadcast from the Kingdom of Saudi Arabia, dedicated to promoting the teachings of the Prophet Muhammad ﷺ through authentic Sunnah-based content. The channel primarily features live coverage and recorded programs from Masjid an-Nabawi, including sermons, lectures, and guidance rooted in the Qur’an and Sahih Hadith. Sunnah TV plays an important role in educating Muslims about Islamic manners, worship, and daily life according to the Sunnah. Through scholarly talks and spiritually enriching broadcasts, the channel helps viewers strengthen their faith, deepen their understanding of Islam, and follow the path of the Prophet ﷺ with clarity and devotion.",
@@ -869,7 +849,7 @@
       "added_date": "2025-12-27"
     },
     {
-      "id": 125,
+      "id": 124,
       "name": "Dangal HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-UTziEUvsJzRfB5hUXUfZD8zchAOzk0CWBuRm-Vcg2r6ze4gUNMShVkYtelDrQzBgLC3CQDwUQr3P182SjKCvW7kbqP0k7izaj71dGYqCcwuLYKHzyEvYzLjzHkDjfQ56YKzzJoYS9YHao7rHHWo3KTnBYeagv0fh-jA1_FiEsunzz69Oa5amP6khKw/s600/Nur_20251227_140232_0000.png",
       "stream_url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
@@ -879,7 +859,7 @@
       "added_date": "2025-12-27"
     },
     {
-      "id": 126,
+      "id": 125,
       "name": "EPIC",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeYCSb0AX4COz-m_8padFt8dpxRpgavsRZloeenJh5nws9IAII4_RqJwl1-c4xSyNYd1wG1nopjpfmwewnEPQ4pkY0XbGy7k27YfeeeON33rZe2IQiNbtfQxnIXw0hV4oyNjqHL-EcEd5WY8rguRyBwl3bSMvnfxBybnZK7fRv00QywtCaYpU88fP3xQ/s600/Nur_20251227_143935_0000.png",
       "stream_url": "https://epiconvh.akamaized.net/live/epic/master.m3u8",
@@ -889,7 +869,7 @@
       "added_date": "2025-12-27"
     },
     {
-      "id": 127,
+      "id": 126,
       "name": "Padma TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVN5GA0eKvsEcUEA2Y0xTqp-WhuXBNoRI3aCeOQloOWnF41EQvqnZiwsEiga0lV3gvaqxREyyRLSDcks_PaavQJuOCmk7IYrFl9gH_BjEiaH0RH_YaKYY7Tsq_gmD-i5kI741sZLy4nghh4rzQWFfuxaiRqkt8tnG2Nw_x6mhcxfK6-jRnKQjynUv8HA/s600/Nur_20251227_143848_0000.png",
       "stream_url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8",
@@ -899,7 +879,7 @@
       "added_date": "2025-12-27"
     },
     {
-      "id": 129,
+      "id": 128,
       "name": "Kolkata TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizKgZcL9KxBIRrzdLn9LcXYPFU_IsHk03ocrgEItU0auDdEWviw4eytzYFp9iMekV4eTSqvubpkewJbprbANrGCvV51X3m_JNR98EgQjeQJdli1B1T299JraLIxZ83OpRoYx6w-LwfSQ0_wtlm2-x27bTbMO1_ug4Y9pxr_fL7TixXnOdp-BXRkzte-w/s600/Nur_20251227_144017_0000.png",
       "stream_url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
@@ -909,7 +889,7 @@
       "added_date": "2025-12-27"
     },
     {
-      "id": 130,
+      "id": 129,
       "name": "Channel S",
       "logo": "",
       "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
@@ -919,7 +899,7 @@
       "added_date": "2025-12-29"
     },
     {
-      "id": 131,
+      "id": 130,
       "name": "Deshi TV",
       "logo": "",
       "stream_url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
@@ -929,7 +909,7 @@
       "added_date": "2025-12-29"
     },
     {
-      "id": 132,
+      "id": 131,
       "name": "Deen TV",
       "logo": "",
       "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/tracks-v1a1/mono.m3u8",
@@ -939,7 +919,7 @@
       "added_date": "2025-12-29"
     },
     {
-      "id": 133,
+      "id": 132,
       "name": "ATN Bangla UK",
       "logo": "",
       "stream_url": "https://proxy.nurmd2006-official.workers.dev/live-orgin/atnbanglauk-off.stream/playlist.m3u8",
@@ -949,7 +929,7 @@
       "added_date": "2025-12-30"
     },
     {
-      "id": 134,
+      "id": 133,
       "name": "History TV",
       "logo": "",
       "stream_url": "https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8",
@@ -957,16 +937,6 @@
       "language": "English",
       "description": "",
       "added_date": "2026-01-13"
-    },
-    {
-      "id": 135,
-      "name": "Quran TV Bangla",
-      "logo": "",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/qurantvbangla.stream/playlist.m3u8",
-      "category": "ISLAMIC",
-      "language": "Bangla",
-      "description": "Quran TV Bangla is a dedicated Islamic live TV channel broadcasting Holy Quran recitation with Bangla translation, Tafsir, Hadith, Islamic discussions, Waz Mahfil, Dua and religious education programs, helping viewers learn and understand Islam through trusted Bangla Islamic content available via 24/7 online live streaming on Outflank TV.",
-      "added_date": "2026-01-20"
     }
   ]
 }

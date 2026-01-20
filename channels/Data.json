@@ -977,6 +977,16 @@
       "language": "Bangla",
       "description": "Quran TV Bangla is a dedicated Islamic live TV channel broadcasting Holy Quran recitation with Bangla translation, Tafsir, Hadith, Islamic discussions, Waz Mahfil, Dua and religious education programs, helping viewers learn and understand Islam through trusted Bangla Islamic content available via 24/7 online live streaming on Outflank TV.",
       "added_date": "2026-01-20"
+    },
+    {
+      "id": 135,
+      "name": "BTV News",
+      "logo": "",
+      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "BTV News is the official national news television channel of Bangladesh, broadcasting authentic government news, national updates, political programs, public information, special reports and important announcements, allowing viewers to stay informed with reliable Bangladeshi news through 24/7 online live TV streaming on Outflank TV.",
+      "added_date": "2026-01-20"
     }
   ]
 }

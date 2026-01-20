@@ -1,16 +1,6 @@
 {
   "channels": [
     {
-      "id": 41,
-      "name": "Star Jalsha HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png",
-      "stream_url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
-      "category": "DRAMA",
-      "language": "Bangla",
-      "description": "Star Jalsha HD is a leading Indian Bengali-language television channel that offers a wide range of entertainment programs, including drama serials, reality shows, movies, music programs, and cultural content. The channel is known for its high-quality productions, engaging storytelling, and family-friendly entertainment that appeals to Bengali-speaking audiences in India and abroad. Star Jalsha HD combines contemporary entertainment with cultural representation, showcasing the richness of Bengali traditions and lifestyle. With its vibrant programming and high-definition broadcasts, the channel provides viewers with an immersive and enjoyable television experience.",
-      "added_date": "2025-11-29"
-    },
-    {
       "id": 19,
       "name": "&flix HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPvYILxlwOqD7tNsYZ7rP5oUWqGZTvLHgYOHglr4NehS1KihDz6B5IDBqJ7zohTEQkN0VTAVhbNNUvX26SyyTcfqH-DVwI4tfDWIzrLC4M1TDmM7gL-qaExT48jC2vel6IhuWXB438W_YXFtNaledUMKnyezi_Si7hFrdW_oDKA2BJeWUbrTvehh37KA/s600/Nur_20251215_124152_0000.png",
@@ -78,6 +68,16 @@
       "category": "SPORTS",
       "language": "Urdu/English",
       "description": "A Sports HD is a dedicated Bangladeshi sports television channel that provides comprehensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and special sports programs, catering to fans of cricket, football, and other popular sports. Known for its high-definition broadcasts and professional presentation, A Sports HD delivers an immersive and engaging sports viewing experience. The channel aims to promote sports culture in Bangladesh by keeping viewers informed, entertained, and connected to their favorite teams, leagues, and sporting events.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 41,
+      "name": "Star Jalsha HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png",
+      "stream_url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
+      "category": "DRAMA",
+      "language": "Bangla",
+      "description": "Star Jalsha HD is a leading Indian Bengali-language television channel that offers a wide range of entertainment programs, including drama serials, reality shows, movies, music programs, and cultural content. The channel is known for its high-quality productions, engaging storytelling, and family-friendly entertainment that appeals to Bengali-speaking audiences in India and abroad. Star Jalsha HD combines contemporary entertainment with cultural representation, showcasing the richness of Bengali traditions and lifestyle. With its vibrant programming and high-definition broadcasts, the channel provides viewers with an immersive and enjoyable television experience.",
       "added_date": "2025-11-29"
     },
     {
@@ -378,16 +378,6 @@
       "category": "ENTERTAINMENT",
       "language": "Bangla",
       "description": "Global Television is a Bangladeshi channel offering a blend of news, entertainment shows, talk programs, and cultural features. It serves audiences with informative coverage and family-friendly entertainment. Access Global Television easily and enjoy uninterrupted viewing with Outflank TV.",
-      "added_date": "2025-12-27"
-    },
-    {
-      "id": 122,
-      "name": "Desh TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Y5o-pe8mUw33aKqBeJ3jNikq_s3y29kcFMwcmcTJjG0i80TJKTsMubCanv4lYV2-zy1zv2RCk1PxpbnZBFsq9oAZS5YFl9iUmg5-o-1Md9CuGAv0feCfh1XNaE86kZtKsWm-8cO7j2FLdRl-iOvsD-tONjscRhjORvmYQt49ltegag5y0eYSu6W1Lw/s600/Nur_20251227_140349_0000.png",
-      "stream_url": "https://tvsen6.aynaott.com/deshtv/index.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Desh TV is a Bangladeshi television channel broadcasting news, talk shows, dramas, music programs, and cultural content. It focuses on informative storytelling and programs that reflect Bangladeshi life and society. Watch your favorite Desh TV programs anytime through Outflank TV.",
       "added_date": "2025-12-27"
     },
     {

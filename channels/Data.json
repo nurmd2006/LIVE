@@ -9,6 +9,16 @@
   "ad_images": [],
   "channels": [
     {
+      "id": 123,
+      "name": "BTV News",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD4L2jwggH5ZM3PZoWQz46su4T_i1v2ogOjqEk3B3TJm22SJVqcvfDYe8-ZazLFKk1wW4bhgslm1Z2GRcUchuQc72SUGBM0T0pXLYx_6_cymB1smOp5RWLreSERR2R1ddsG4hsSGAKYEUYgKBNu85P6FqmXEtfbzTHIvdEb3R_dfKUFwWj3MBRh-slig/s600/Nur_20251227_140323_0000.png",
+      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "BTV News is a Bangladeshi 24-hour news channel delivering breaking news, live bulletins, talk shows, and current-affairs programs. The channel covers national politics, economy, society, sports, and international updates with a focus on reliable reporting for viewers across Bangladesh. Stay informed with the latest headlines and special reports, available conveniently through Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
       "id": 1,
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",

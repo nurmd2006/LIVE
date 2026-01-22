@@ -3,7 +3,7 @@
     "name": "NUR MOHAMMAD MRIDHA",
     "email": "nurmd2006.official@gmail.com",
     "platform_name": "Ovation Bangladesh",
-    "last_update": "2026-01-20"
+    "last_update": "2026-01-22"
   },
   "ads": [],
   "ad_images": [],
@@ -1047,6 +1047,16 @@
       "language": "Bangla",
       "description": "",
       "added_date": "2026-01-20"
+    },
+    {
+      "id": 142,
+      "name": "Islamic TV",
+      "logo": "",
+      "stream_url": "https://stream.nurmd2006-official.workers.dev/LIVE/islamictvbd.stream/tracks-v1a1/mono.m3u8",
+      "category": "ISLAMIC",
+      "language": "Bangla",
+      "description": "",
+      "added_date": "2026-01-22"
     }
   ]
 }

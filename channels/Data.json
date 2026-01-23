@@ -1087,6 +1087,16 @@
       "language": "English",
       "description": "",
       "added_date": "2026-01-23"
+    },
+    {
+      "id": 145,
+      "name": "SCIFI World",
+      "logo": "",
+      "stream_url": "https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
+      "description": "",
+      "added_date": "2026-01-23"
     }
   ]
 }

@@ -3,7 +3,7 @@
     "name": "NUR MOHAMMAD MRIDHA",
     "email": "nurmd2006.official@gmail.com",
     "platform_name": "Ovation Bangladesh",
-    "last_update": "2026-01-22"
+    "last_update": "2026-01-23"
   },
   "ads": [],
   "ad_images": [],
@@ -1057,6 +1057,16 @@
       "language": "Bangla",
       "description": "",
       "added_date": "2026-01-22"
+    },
+    {
+      "id": 143,
+      "name": "Horror TV",
+      "logo": "",
+      "stream_url": "https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8",
+      "category": "MOVIES",
+      "language": "English",
+      "description": "",
+      "added_date": "2026-01-23"
     }
   ]
 }

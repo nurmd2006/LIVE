@@ -879,16 +879,6 @@
       "added_date": "2025-12-26"
     },
     {
-      "id": 118,
-      "name": "Islam Channel",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GpJ2-CuPoX3IQOI3ROE-2Vhu9c4rFcgmHsrxPQ49EzvZP4sFq_HTCp9oj4kc3ql9-1_yg5WIk0NTv9XbY1Ly5l_i1qmNzRrIVr2vw0z49k80Dx6K5Tse3TYvt5MrlOce81E-HKBksZSkiRKZuX-ImGnXN61ep_ernelOlRwYimr-DnjpUdWM9JLwTw/s600/Nur_20251227_140508_0000.png",
-      "stream_url": "https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8",
-      "category": "ISLAMIC",
-      "language": "English",
-      "description": "Islam Channel is an international Islamic television network broadcasting religious lectures, talk shows, educational programs, Quran recitations, and lifestyle content from an Islamic perspective. The channel aims to promote knowledge, ethics, and spiritual awareness among viewers worldwide. Access Islamic programs and learning content easily on Outflank TV.",
-      "added_date": "2025-12-27"
-    },
-    {
       "id": 119,
       "name": "TBN 24",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFphRfZS4hE82pVNVg6gkfWSq3RmgzFmqMBfjUcHuTYlvOh5tgbQpiu_TCwARbw4Y7dueHF3ESI1lesfdBWh-60DkWlergwiQMh_ck_dOCFf2p4XdcOkBk-8zRRKqObrRq269hmmN1oO3zB4sZwWab1vv1inhsFPn9ws4IqUmN_bKUwhSKqUa1HRluJQ/s600/Nur_20251227_140653_0000.png",
@@ -1117,6 +1107,16 @@
       "language": "English",
       "description": "",
       "added_date": "2026-01-23"
+    },
+    {
+      "id": 146,
+      "name": "Iqra TV",
+      "logo": "",
+      "stream_url": "https://cd198.anystream.uk:8082/hls/iq6a7ktv/2_1/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "English",
+      "description": "",
+      "added_date": "2026-01-25"
     }
   ]
 }

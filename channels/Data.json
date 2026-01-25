@@ -9,16 +9,6 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 118,
-      "name": "Islam Channel",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GpJ2-CuPoX3IQOI3ROE-2Vhu9c4rFcgmHsrxPQ49EzvZP4sFq_HTCp9oj4kc3ql9-1_yg5WIk0NTv9XbY1Ly5l_i1qmNzRrIVr2vw0z49k80Dx6K5Tse3TYvt5MrlOce81E-HKBksZSkiRKZuX-ImGnXN61ep_ernelOlRwYimr-DnjpUdWM9JLwTw/s600/Nur_20251227_140508_0000.png",
-      "stream_url": "https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8",
-      "category": "ISLAMIC",
-      "language": "English",
-      "description": "Islam Channel is an international Islamic television network broadcasting religious lectures, talk shows, educational programs, Quran recitations, and lifestyle content from an Islamic perspective. The channel aims to promote knowledge, ethics, and spiritual awareness among viewers worldwide. Access Islamic programs and learning content easily on Outflank TV.",
-      "added_date": "2025-12-27"
-    },
-    {
       "id": 1,
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
@@ -887,6 +877,16 @@
       "language": "Hindi",
       "description": "Music India is a popular Indian music television channel dedicated to Bollywood songs, chart shows, romantic hits, party mixes, and exclusive music specials. The channel features latest releases, evergreen classics, celebrity interviews, behind-the-scenes segments, and curated playlists that celebrate Indian cinema and music culture. With nonstop music programming, engaging countdown shows, and high-quality broadcasts, Music India offers a complete musical experience for viewers who love Hindi songs and Bollywood entertainment. Enjoy your favorite music programs anytime with Outflank TV.",
       "added_date": "2025-12-26"
+    },
+    {
+      "id": 118,
+      "name": "Islam Channel",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GpJ2-CuPoX3IQOI3ROE-2Vhu9c4rFcgmHsrxPQ49EzvZP4sFq_HTCp9oj4kc3ql9-1_yg5WIk0NTv9XbY1Ly5l_i1qmNzRrIVr2vw0z49k80Dx6K5Tse3TYvt5MrlOce81E-HKBksZSkiRKZuX-ImGnXN61ep_ernelOlRwYimr-DnjpUdWM9JLwTw/s600/Nur_20251227_140508_0000.png",
+      "stream_url": "https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8",
+      "category": "ISLAMIC",
+      "language": "English",
+      "description": "Islam Channel is an international Islamic television network broadcasting religious lectures, talk shows, educational programs, Quran recitations, and lifestyle content from an Islamic perspective. The channel aims to promote knowledge, ethics, and spiritual awareness among viewers worldwide. Access Islamic programs and learning content easily on Outflank TV.",
+      "added_date": "2025-12-27"
     },
     {
       "id": 119,

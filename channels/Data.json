@@ -9,16 +9,6 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 45,
-      "name": "Iqra Bangla",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxOLOHgsy5Qp5kksSWrPwfsykIy-eXH8KYIdID3Q82bTTQ45PAJbT0QHlReNyoirB8XyTJKbj5EIJUGQfgx3ZKdzfqJTrW9i6QbF3ZVAHaSSPO1MeqLlhGcD5iw0pjKLwvWLp-Pw5GdM66V8Fc__Qlz3hkHWrXqO3fxsPge31OGIkhtQKGPWWw95Khzg/s600/Nur_20251216_230457_0000.png",
-      "stream_url": "https://cd198.anystream.uk:8082/hls/iq53la/2_1/index.m3u8",
-      "category": "ISLAMIC",
-      "language": "Bangla",
-      "description": "Iqra Bangla is a Bangladeshi Islamic television channel dedicated to spreading the teachings of Islam in the Bangla language. The channel features programs such as Qur’an recitations, Islamic lectures, religious discussions, and educational content aimed at promoting knowledge, faith, and moral values among viewers. Iqra Bangla focuses on providing spiritually enriching content for audiences of all ages, helping Muslims strengthen their understanding of Islam and live according to its principles. Through its engaging and educational programs, the channel encourages devotion, learning, and the practice of Islamic teachings in daily life.",
-      "added_date": "2025-12-15"
-    },
-    {
       "id": 1,
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
@@ -387,6 +377,16 @@
       "language": "Hindi",
       "description": "Doraemon – Doraemon is a beloved Japanese animated series that follows the adventures of a robotic cat from the future named Doraemon, who comes to help Nobita, a young boy, navigate everyday challenges. Using futuristic gadgets from his magical pocket, Doraemon solves problems, prevents mischief, and teaches valuable life lessons in fun and imaginative ways. The show combines humor, friendship, creativity, and moral teachings, making it a timeless favorite for children and families around the world. With exciting adventures and memorable characters, Doraemon inspires curiosity, problem-solving, and the joy of learning through entertaining storytelling.",
       "added_date": "2025-12-16"
+    },
+    {
+      "id": 45,
+      "name": "Iqra Bangla",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxOLOHgsy5Qp5kksSWrPwfsykIy-eXH8KYIdID3Q82bTTQ45PAJbT0QHlReNyoirB8XyTJKbj5EIJUGQfgx3ZKdzfqJTrW9i6QbF3ZVAHaSSPO1MeqLlhGcD5iw0pjKLwvWLp-Pw5GdM66V8Fc__Qlz3hkHWrXqO3fxsPge31OGIkhtQKGPWWw95Khzg/s600/Nur_20251216_230457_0000.png",
+      "stream_url": "https://cd198.anystream.uk:8082/hls/iq53la/2_1/index.m3u8",
+      "category": "ISLAMIC",
+      "language": "Bangla",
+      "description": "Iqra Bangla is a Bangladeshi Islamic television channel dedicated to spreading the teachings of Islam in the Bangla language. The channel features programs such as Qur’an recitations, Islamic lectures, religious discussions, and educational content aimed at promoting knowledge, faith, and moral values among viewers. Iqra Bangla focuses on providing spiritually enriching content for audiences of all ages, helping Muslims strengthen their understanding of Islam and live according to its principles. Through its engaging and educational programs, the channel encourages devotion, learning, and the practice of Islamic teachings in daily life.",
+      "added_date": "2025-12-15"
     },
     {
       "id": 46,

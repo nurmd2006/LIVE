@@ -1,16 +1,6 @@
 {
   "channels": [
     {
-      "id": 118,
-      "name": "Islam Channel",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GpJ2-CuPoX3IQOI3ROE-2Vhu9c4rFcgmHsrxPQ49EzvZP4sFq_HTCp9oj4kc3ql9-1_yg5WIk0NTv9XbY1Ly5l_i1qmNzRrIVr2vw0z49k80Dx6K5Tse3TYvt5MrlOce81E-HKBksZSkiRKZuX-ImGnXN61ep_ernelOlRwYimr-DnjpUdWM9JLwTw/s600/Nur_20251227_140508_0000.png",
-      "stream_url": "https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8",
-      "category": "ISLAMIC",
-      "language": "English",
-      "description": "Islam Channel is an international Islamic television network broadcasting religious lectures, talk shows, educational programs, Quran recitations, and lifestyle content from an Islamic perspective. The channel aims to promote knowledge, ethics, and spiritual awareness among viewers worldwide. Access Islamic programs and learning content easily on Outflank TV.",
-      "added_date": "2025-12-27"
-    },
-    {
       "id": 19,
       "name": "&flix HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPvYILxlwOqD7tNsYZ7rP5oUWqGZTvLHgYOHglr4NehS1KihDz6B5IDBqJ7zohTEQkN0VTAVhbNNUvX26SyyTcfqH-DVwI4tfDWIzrLC4M1TDmM7gL-qaExT48jC2vel6IhuWXB438W_YXFtNaledUMKnyezi_Si7hFrdW_oDKA2BJeWUbrTvehh37KA/s600/Nur_20251215_124152_0000.png",
@@ -79,16 +69,6 @@
       "language": "Urdu/English",
       "description": "A Sports HD is a dedicated Bangladeshi sports television channel that provides comprehensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, and special sports programs, catering to fans of cricket, football, and other popular sports. Known for its high-definition broadcasts and professional presentation, A Sports HD delivers an immersive and engaging sports viewing experience. The channel aims to promote sports culture in Bangladesh by keeping viewers informed, entertained, and connected to their favorite teams, leagues, and sporting events.",
       "added_date": "2025-11-29"
-    },
-    {
-      "id": 45,
-      "name": "Iqra Bangla",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxOLOHgsy5Qp5kksSWrPwfsykIy-eXH8KYIdID3Q82bTTQ45PAJbT0QHlReNyoirB8XyTJKbj5EIJUGQfgx3ZKdzfqJTrW9i6QbF3ZVAHaSSPO1MeqLlhGcD5iw0pjKLwvWLp-Pw5GdM66V8Fc__Qlz3hkHWrXqO3fxsPge31OGIkhtQKGPWWw95Khzg/s600/Nur_20251216_230457_0000.png",
-      "stream_url": "https://tvsen5.aynaott.com/iqrabangla/index.m3u8",
-      "category": "ISLAMIC",
-      "language": "Bangla",
-      "description": "Iqra Bangla is a Bangladeshi Islamic television channel dedicated to spreading the teachings of Islam in the Bangla language. The channel features programs such as Qur’an recitations, Islamic lectures, religious discussions, and educational content aimed at promoting knowledge, faith, and moral values among viewers. Iqra Bangla focuses on providing spiritually enriching content for audiences of all ages, helping Muslims strengthen their understanding of Islam and live according to its principles. Through its engaging and educational programs, the channel encourages devotion, learning, and the practice of Islamic teachings in daily life.",
-      "added_date": "2025-12-15"
     },
     {
       "id": 58,
@@ -309,6 +289,16 @@
       "language": "Bangla",
       "description": "Nexus Television is a premier Bangladeshi channel available on Outflank TV, offering a perfect blend of news, current affairs, and engaging entertainment. Tune in 24/7 on Outflank TV for in-depth discussions, top stories, and captivating programs that keep you informed and entertained.",
       "added_date": "2025-12-24"
+    },
+    {
+      "id": 118,
+      "name": "Islam Channel",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GpJ2-CuPoX3IQOI3ROE-2Vhu9c4rFcgmHsrxPQ49EzvZP4sFq_HTCp9oj4kc3ql9-1_yg5WIk0NTv9XbY1Ly5l_i1qmNzRrIVr2vw0z49k80Dx6K5Tse3TYvt5MrlOce81E-HKBksZSkiRKZuX-ImGnXN61ep_ernelOlRwYimr-DnjpUdWM9JLwTw/s600/Nur_20251227_140508_0000.png",
+      "stream_url": "https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8",
+      "category": "ISLAMIC",
+      "language": "English",
+      "description": "Islam Channel is an international Islamic television network broadcasting religious lectures, talk shows, educational programs, Quran recitations, and lifestyle content from an Islamic perspective. The channel aims to promote knowledge, ethics, and spiritual awareness among viewers worldwide. Access Islamic programs and learning content easily on Outflank TV.",
+      "added_date": "2025-12-27"
     },
     {
       "id": 121,

@@ -369,16 +369,6 @@
       "language": "Bangla",
       "description": "Quran TV Bangla is a dedicated Islamic live TV channel broadcasting Holy Quran recitation with Bangla translation, Tafsir, Hadith, Islamic discussions, Waz Mahfil, Dua and religious education programs, helping viewers learn and understand Islam through trusted Bangla Islamic content available via 24/7 online live streaming on Outflank TV.",
       "added_date": "2026-01-20"
-    },
-    {
-      "id": 137,
-      "name": "Star Gold HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMaD6fRu68cu-QUIEoHjhuwLHb5vwlVhy4opRyzgO1jF_4DGFvWtiVxr4PRuGSOSy3COlclkZyzf6pAyg3kBhv7gc3tI6__6doWGBbENVxdhv3O67drH4klSx2dxRJ8oms_9zxNcUpiMG__zsnJoTAqAw7ncvgTbqShhewMyvGAoxiYfQ4BwvqLboSDw/s1080/1000009647.png",
-      "stream_url": "http://tvn2.chowdhury-shaheb.com/stargold/tracks-v1a1/mono.m3u8",
-      "category": "MOVIES",
-      "language": "Hindi",
-      "description": "Star Gold is a popular Hindi movie entertainment TV channel broadcasting blockbuster Bollywood movies, action films, romantic dramas and family entertainment, offering viewers nonstop Hindi cinema enjoyment through 24/7 online live TV streaming on Outflank TV.",
-      "added_date": "2026-01-20"
     }
   ]
 }

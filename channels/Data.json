@@ -961,7 +961,7 @@
     {
       "id": 132,
       "name": "ATN Bangla UK",
-      "logo": "",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqremJjiM-PqRDsdo-b1njUtabCviA69pO3f5wnccHHpVEU2dbf-jJVyYuDz0CGuIcwmKh0QvDuy6v-TdBYGbiRmysMuVuqLy09ybWpY3ZlAmKaXEcCMbNWhP853PlIQL1CNxJiHzbSspj-6xDn04YkjL_YuCnVsNNdo3S0UaYgVMZafOpSbgBgfz7Gg/s1080/1000010074.png",
       "stream_url": "https://stream.nurmd2006-official.workers.dev/LIVE/atnbanglauk-off.stream/playlist.m3u8",
       "category": "ENTERTAINMENT",
       "language": "Bangla",
@@ -981,7 +981,7 @@
     {
       "id": 135,
       "name": "BTV News",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDNbhgx2CBgL8s_51UOzuqCqrXnIDjhRUHtj34b70B1Wv5pTdAMINje5rAooYnTSfGYrq2PMQDY5toCe0GRgPEp5dqsUtgJ2NObidEvZpvGeiplEXgRI099-cVMoexdXVB3E3MMesYp3_oxM3b_I1vSbEF-LKfl-B_WwQY2PfNQodSL_1uyOgt347XRA/s1080/1000010075.png",
+      "logo": "",
       "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8",
       "category": "NEWS",
       "language": "Bangla",
@@ -1021,8 +1021,8 @@
     {
       "id": 140,
       "name": "Nagorik TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXLQm7blSttGVm_Q9ZXoE7XB7tE6TX2wKILCZWpqw5de3wflgoIu_To87h263NDXA9tb5Pxw82J2TpsXTbez3zvMgBbM3qHCHXAdNUUJDED_04regNQsQb30rLRy69VkyGATaPTcZSsKzfXMHaJcI8P2DGxm-x0E1j41WXTPknBmlea4-L7VPVA4sHA/s1080/1000010076.png",
-      "stream_url": "http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8",
+      "logo": "",
+      "stream_url": "https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8",
       "category": "ENTERTAINMENT",
       "language": "Bangla",
       "description": "Nagorik TV is a Bangladeshi private television channel broadcasting news, talk shows, social awareness programs, current affairs and entertainment content, focusing on citizen-centric issues and real stories while offering viewers 24/7 online live TV streaming on Outflank TV.",
@@ -1061,7 +1061,7 @@
     {
       "id": 144,
       "name": "Xtream Sports",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh20UHe_DMceL98clzG0TUBYwvo_3aOHtN3mI6qAJnONQL6i3OYr7OVVzLtnw5qkTNVD7D_EjZbsHYe4GMx3bPzuiEwWXbRz6Ryo8FPCoZTG_BvfBPgBuxbJSwswY8jiTpv36e1bXZnGDkaAOwpD1QmaIuf95bVUB_NMvinUnqO_RsEqxij3pfVSOHi-Q/s1080/1000010077.png",
+      "logo": "",
       "stream_url": "https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8",
       "category": "SPORTS",
       "language": "English",

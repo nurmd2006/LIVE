@@ -1022,7 +1022,7 @@
       "id": 140,
       "name": "Nagorik TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXLQm7blSttGVm_Q9ZXoE7XB7tE6TX2wKILCZWpqw5de3wflgoIu_To87h263NDXA9tb5Pxw82J2TpsXTbez3zvMgBbM3qHCHXAdNUUJDED_04regNQsQb30rLRy69VkyGATaPTcZSsKzfXMHaJcI8P2DGxm-x0E1j41WXTPknBmlea4-L7VPVA4sHA/s1080/1000010076.png",
-      "stream_url": "https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8",
+      "stream_url": "http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8",
       "category": "ENTERTAINMENT",
       "language": "Bangla",
       "description": "Nagorik TV is a Bangladeshi private television channel broadcasting news, talk shows, social awareness programs, current affairs and entertainment content, focusing on citizen-centric issues and real stories while offering viewers 24/7 online live TV streaming on Outflank TV.",

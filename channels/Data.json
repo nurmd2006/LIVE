@@ -1100,7 +1100,17 @@
     },
     {
       "id": 147,
-      "name": "PSN-1 Sports",
+      "name": "WION",
+      "logo": "",
+      "stream_url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+      "category": "NEWS",
+      "language": "English",
+      "description": "",
+      "added_date": "2026-01-31"
+    },
+    {
+      "id": 148,
+      "name": "PSN 1 Sports",
       "logo": "",
       "stream_url": "https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8",
       "category": "SPORTS",

@@ -1177,16 +1177,6 @@
       "language": "Arabic",
       "description": "",
       "added_date": "2026-01-31"
-    },
-    {
-      "id": 150,
-      "name": "Server 697",
-      "logo": "",
-      "stream_url": "https://www.w.mxonlive.xyz/live/45433/front/276971.m3u8",
-      "category": "SCIENTIFIC",
-      "language": "English",
-      "description": "",
-      "added_date": "2026-02-11"
     }
   ]
 }

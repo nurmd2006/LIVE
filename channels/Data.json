@@ -1187,6 +1187,16 @@
       "language": "Urdu",
       "description": "",
       "added_date": "2026-02-12"
+    },
+    {
+      "id": 151,
+      "name": "9X Jalwa",
+      "logo": "",
+      "stream_url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8",
+      "category": "MUSIC",
+      "language": "Hindi",
+      "description": "",
+      "added_date": "2026-02-12"
     }
   ]
 }

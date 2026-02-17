@@ -9,36 +9,6 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 122,
-      "name": "Desh TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Y5o-pe8mUw33aKqBeJ3jNikq_s3y29kcFMwcmcTJjG0i80TJKTsMubCanv4lYV2-zy1zv2RCk1PxpbnZBFsq9oAZS5YFl9iUmg5-o-1Md9CuGAv0feCfh1XNaE86kZtKsWm-8cO7j2FLdRl-iOvsD-tONjscRhjORvmYQt49ltegag5y0eYSu6W1Lw/s600/Nur_20251227_140349_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Desh TV is a Bangladeshi television channel broadcasting news, talk shows, dramas, music programs, and cultural content. It focuses on informative storytelling and programs that reflect Bangladeshi life and society. Watch your favorite Desh TV programs anytime through Outflank TV.",
-      "added_date": "2025-12-27"
-    },
-    {
-      "id": 123,
-      "name": "MyTV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYRRVi-h-Em0yozT479Y2hX4JX8EWaogbhJeyvrcLYjY0nHvC0XqiTEYWqw-Il3UZ-vOXKoE_sLssGXMRvb2hIuIUeIsBXiPGPMNs8TcrkgNzvnXOpk8vYoy_LYvJ68E0CP8I85_E6ni2ujoDCMdKZbfHceJShgyexHgPSFAfA26-2-u-xt7Ni812yw/s600/Nur_20251227_140302_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "MyTV is a Bangladeshi entertainment channel featuring drama series, music programs, magazine shows, and lifestyle content. The channel highlights local culture while delivering enjoyable, family-oriented programming.\nStream MyTV programs conveniently with Outflank TV.",
-      "added_date": "2025-12-27"
-    },
-    {
-      "id": 94,
-      "name": "Channel 9",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis7bNgGkPt4lYYUWyXxyhtyfksNKHjXmT2mQxdJv1T9IHWajVUc2mnZfpwZcW94LBXF_vPFsAut498y8EzmdkDyUpfHJ2OVNjbz_CbvMF0hEMcGlqvjKLjun6YaZSBDKiBBE9gY1dVq1LjxORP8rVeFT1IvBOkc-uximA02WW6TvkarM4IAE8oCPgPiA/s600/Nur_20251222_155730_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Channel 9 is a 24-hour Bangladeshi news and entertainment television channel, providing live news updates, talk shows, in-depth analysis, and cultural programs. The channel covers national and international events while also featuring entertainment, lifestyle, and special reports tailored for Bangladeshi audiences. Known for its timely reporting and diverse programming, Channel 9 combines news, entertainment, and cultural content to deliver an engaging viewing experience. The channel has become a trusted destination for viewers seeking comprehensive coverage and quality entertainment in Bangladesh.",
-      "added_date": "2025-12-19"
-    },
-    {
       "id": 1,
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
@@ -739,6 +709,16 @@
       "added_date": "2025-12-19"
     },
     {
+      "id": 94,
+      "name": "Channel 9",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis7bNgGkPt4lYYUWyXxyhtyfksNKHjXmT2mQxdJv1T9IHWajVUc2mnZfpwZcW94LBXF_vPFsAut498y8EzmdkDyUpfHJ2OVNjbz_CbvMF0hEMcGlqvjKLjun6YaZSBDKiBBE9gY1dVq1LjxORP8rVeFT1IvBOkc-uximA02WW6TvkarM4IAE8oCPgPiA/s600/Nur_20251222_155730_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Channel 9 is a 24-hour Bangladeshi news and entertainment television channel, providing live news updates, talk shows, in-depth analysis, and cultural programs. The channel covers national and international events while also featuring entertainment, lifestyle, and special reports tailored for Bangladeshi audiences. Known for its timely reporting and diverse programming, Channel 9 combines news, entertainment, and cultural content to deliver an engaging viewing experience. The channel has become a trusted destination for viewers seeking comprehensive coverage and quality entertainment in Bangladesh.",
+      "added_date": "2025-12-19"
+    },
+    {
       "id": 95,
       "name": "Bangla TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHANSi1vWD_6Q1aWLZTV0gYgxU4lPHlo7q6cntCxRHfYDdFaqHFK5Q6mT1gCt8SKJx3FS7SISSnW-RoNA1kK7_BOAtfWLvUJ38gBYFWjwYnEEFI0ktwXSbkw-UTM0G5yOrBjYSMpFdYNCnQrrr28cWJI9Ywe4mdydYdM2_wtvTt84-I2yA9Z_J_q5ZMg/s600/Nur_20251222_160020_0000.png",
@@ -976,6 +956,26 @@
       "category": "ENTERTAINMENT",
       "language": "Bangla",
       "description": "Global Television is a Bangladeshi channel offering a blend of news, entertainment shows, talk programs, and cultural features. It serves audiences with informative coverage and family-friendly entertainment. Access Global Television easily and enjoy uninterrupted viewing with Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
+      "id": 122,
+      "name": "Desh TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Y5o-pe8mUw33aKqBeJ3jNikq_s3y29kcFMwcmcTJjG0i80TJKTsMubCanv4lYV2-zy1zv2RCk1PxpbnZBFsq9oAZS5YFl9iUmg5-o-1Md9CuGAv0feCfh1XNaE86kZtKsWm-8cO7j2FLdRl-iOvsD-tONjscRhjORvmYQt49ltegag5y0eYSu6W1Lw/s600/Nur_20251227_140349_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Desh TV is a Bangladeshi television channel broadcasting news, talk shows, dramas, music programs, and cultural content. It focuses on informative storytelling and programs that reflect Bangladeshi life and society. Watch your favorite Desh TV programs anytime through Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
+      "id": 123,
+      "name": "MyTV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYRRVi-h-Em0yozT479Y2hX4JX8EWaogbhJeyvrcLYjY0nHvC0XqiTEYWqw-Il3UZ-vOXKoE_sLssGXMRvb2hIuIUeIsBXiPGPMNs8TcrkgNzvnXOpk8vYoy_LYvJ68E0CP8I85_E6ni2ujoDCMdKZbfHceJShgyexHgPSFAfA26-2-u-xt7Ni812yw/s600/Nur_20251227_140302_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "MyTV is a Bangladeshi entertainment channel featuring drama series, music programs, magazine shows, and lifestyle content. The channel highlights local culture while delivering enjoyable, family-oriented programming.\nStream MyTV programs conveniently with Outflank TV.",
       "added_date": "2025-12-27"
     },
     {

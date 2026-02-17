@@ -9,16 +9,6 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 121,
-      "name": "Global Television",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMpIa-Ckqus5ll5uOh9vNZc7_ekC8gzp47_m9tSLqe3KbPGpr2kWhELxLHj-d25HSOh_ys__QnM1ccCK7x_1jeO8KWWj6sg6cZP3u0hJD9QS9nEdWrCCF9qU21nekj758dLm9yaBF9Qw8jxVtY5uuANki_WjX9kEui7iBGf9bpdzCLW1kuodOUTJ5lA/s600/Nur_20251227_140413_0000.png",
-      "stream_url": "https://m.mxonlive.xyz/live/16559/toffeex/stream.php/0y_tDJsBNnOkwJLWNrdE.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Global Television is a Bangladeshi channel offering a blend of news, entertainment shows, talk programs, and cultural features. It serves audiences with informative coverage and family-friendly entertainment. Access Global Television easily and enjoy uninterrupted viewing with Outflank TV.",
-      "added_date": "2025-12-27"
-    },
-    {
       "id": 1,
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
@@ -902,7 +892,7 @@
       "id": 118,
       "name": "Islam Channel",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GpJ2-CuPoX3IQOI3ROE-2Vhu9c4rFcgmHsrxPQ49EzvZP4sFq_HTCp9oj4kc3ql9-1_yg5WIk0NTv9XbY1Ly5l_i1qmNzRrIVr2vw0z49k80Dx6K5Tse3TYvt5MrlOce81E-HKBksZSkiRKZuX-ImGnXN61ep_ernelOlRwYimr-DnjpUdWM9JLwTw/s600/Nur_20251227_140508_0000.png",
-      "stream_url": "https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8",
+      "stream_url": "https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/index.m3u8",
       "category": "ISLAMIC",
       "language": "English",
       "description": "Islam Channel is an international Islamic television network broadcasting religious lectures, talk shows, educational programs, Quran recitations, and lifestyle content from an Islamic perspective. The channel aims to promote knowledge, ethics, and spiritual awareness among viewers worldwide. Access Islamic programs and learning content easily on Outflank TV.",

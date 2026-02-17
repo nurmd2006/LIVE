@@ -9,13 +9,13 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 97,
-      "name": "Green TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRkjY14tIkYWVUxVMkluzbYHW8a_cADNbR8Bu47g1v1FkLMEdC9fgD-_OGt103qHdQFtVzxKFkYv814m1yxoxcVkQ2XCJ2Cekd1ntRnk6BEd5u3ykv5CvVWlS66COW_NBUgx0yfDJFz7B881VigR4QJVAjGDDxuHlbHwGgwkt_UAKzGkuvY_gvDFi8Hw/s600/Nur_20251222_155837_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8",
-      "category": "DRAMA",
+      "id": 94,
+      "name": "Channel 9",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis7bNgGkPt4lYYUWyXxyhtyfksNKHjXmT2mQxdJv1T9IHWajVUc2mnZfpwZcW94LBXF_vPFsAut498y8EzmdkDyUpfHJ2OVNjbz_CbvMF0hEMcGlqvjKLjun6YaZSBDKiBBE9gY1dVq1LjxORP8rVeFT1IvBOkc-uximA02WW6TvkarM4IAE8oCPgPiA/s600/Nur_20251222_155730_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8",
+      "category": "ENTERTAINMENT",
       "language": "Bangla",
-      "description": "Green TV is a Bangladeshi television channel offering a variety of programs including news, talk shows, lifestyle content, drama series, and cultural shows. The channel provides live updates on national and international events while showcasing content that reflects Bangladeshi culture, traditions, and values.",
+      "description": "Channel 9 is a 24-hour Bangladeshi news and entertainment television channel, providing live news updates, talk shows, in-depth analysis, and cultural programs. The channel covers national and international events while also featuring entertainment, lifestyle, and special reports tailored for Bangladeshi audiences. Known for its timely reporting and diverse programming, Channel 9 combines news, entertainment, and cultural content to deliver an engaging viewing experience. The channel has become a trusted destination for viewers seeking comprehensive coverage and quality entertainment in Bangladesh.",
       "added_date": "2025-12-19"
     },
     {
@@ -736,6 +736,16 @@
       "category": "NEWS",
       "language": "Bangla",
       "description": "Bijoy TV is a Bangladeshi television channel offering a mix of news, drama series, music programs, and cultural shows. Viewers can enjoy live updates on national and international events along with entertainment that highlights Bangladeshi culture and lifestyle. Watch Bijoy TV seamlessly on Outflank TV, your go-to platform for streaming Bangladeshi TV channels online. Outflank TV provides easy access, high-quality streaming, and a smooth viewing experience, making it simple to stay connected with your favorite Bangladeshi programs anytime, anywhere.",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 97,
+      "name": "Green TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRkjY14tIkYWVUxVMkluzbYHW8a_cADNbR8Bu47g1v1FkLMEdC9fgD-_OGt103qHdQFtVzxKFkYv814m1yxoxcVkQ2XCJ2Cekd1ntRnk6BEd5u3ykv5CvVWlS66COW_NBUgx0yfDJFz7B881VigR4QJVAjGDDxuHlbHwGgwkt_UAKzGkuvY_gvDFi8Hw/s600/Nur_20251222_155837_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8",
+      "category": "DRAMA",
+      "language": "Bangla",
+      "description": "Green TV is a Bangladeshi television channel offering a variety of programs including news, talk shows, lifestyle content, drama series, and cultural shows. The channel provides live updates on national and international events while showcasing content that reflects Bangladeshi culture, traditions, and values.",
       "added_date": "2025-12-19"
     },
     {

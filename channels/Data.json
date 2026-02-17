@@ -9,26 +9,6 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 140,
-      "name": "Nagorik TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXLQm7blSttGVm_Q9ZXoE7XB7tE6TX2wKILCZWpqw5de3wflgoIu_To87h263NDXA9tb5Pxw82J2TpsXTbez3zvMgBbM3qHCHXAdNUUJDED_04regNQsQb30rLRy69VkyGATaPTcZSsKzfXMHaJcI8P2DGxm-x0E1j41WXTPknBmlea4-L7VPVA4sHA/s1080/1000010076.png",
-      "stream_url": "https://m.mxonlive.xyz/live/flosix/stream.php?id=ch_699439ea382ca",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Nagorik TV is a Bangladeshi private television channel broadcasting news, talk shows, social awareness programs, current affairs and entertainment content, focusing on citizen-centric issues and real stories while offering viewers 24/7 online live TV streaming on Outflank TV.",
-      "added_date": "2026-01-20"
-    },
-    {
-      "id": 85,
-      "name": "Sony Aath",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgktJAGGIfEildMH1tn_0ygd9fed8QCpJuk0cR9IYjeHsQcTLch6tmGTw4b53x_9Nw53sGHcNRXbvHSrskujpP3mFcJd1h_bXOb41B9kGNUqwDH5Xm8UVNghDBKipzRqr8IWBA2iGugnRqL0lL6p2HV3x4Y94VJdVnBnz9FL6vTXRD2hiybsV9bbnV_zA/s600/Nur_20251222_155327_0000.png",
-      "stream_url": "https://m.mxonlive.xyz/live/16559/toffeex/stream.php/xi6xX5UBv9knK3AH9aMk.m3u8",
-      "category": "KIDS",
-      "language": "Bangla",
-      "description": "Sony Aath is a popular Indian Bengali-language entertainment television channel featuring a wide range of programs such as drama serials, comedy shows, movies, reality programs, and cultural content. The channel is well known for its family-friendly entertainment and engaging storytelling that appeals to Bengali audiences of all age groups. Viewers can watch Sony Aath live on OUTFLANK TV, enjoying a smooth and high-quality streaming experience. With its mix of modern entertainment and traditional Bengali culture, Sony Aath remains a favorite choice for audiences looking for quality Bengali television content on a reliable streaming platform like OUTFLANK TV.",
-      "added_date": "2025-12-19"
-    },
-    {
       "id": 1,
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
@@ -619,6 +599,16 @@
       "added_date": "2025-12-18"
     },
     {
+      "id": 85,
+      "name": "Sony Aath",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgktJAGGIfEildMH1tn_0ygd9fed8QCpJuk0cR9IYjeHsQcTLch6tmGTw4b53x_9Nw53sGHcNRXbvHSrskujpP3mFcJd1h_bXOb41B9kGNUqwDH5Xm8UVNghDBKipzRqr8IWBA2iGugnRqL0lL6p2HV3x4Y94VJdVnBnz9FL6vTXRD2hiybsV9bbnV_zA/s600/Nur_20251222_155327_0000.png",
+      "stream_url": "https://m.mxonlive.xyz/live/16559/toffeex/stream.php/xi6xX5UBv9knK3AH9aMk.m3u8",
+      "category": "KIDS",
+      "language": "Bangla",
+      "description": "Sony Aath is a popular Indian Bengali-language entertainment television channel featuring a wide range of programs such as drama serials, comedy shows, movies, reality programs, and cultural content. The channel is well known for its family-friendly entertainment and engaging storytelling that appeals to Bengali audiences of all age groups. Viewers can watch Sony Aath live on OUTFLANK TV, enjoying a smooth and high-quality streaming experience. With its mix of modern entertainment and traditional Bengali culture, Sony Aath remains a favorite choice for audiences looking for quality Bengali television content on a reliable streaming platform like OUTFLANK TV.",
+      "added_date": "2025-12-19"
+    },
+    {
       "id": 86,
       "name": "Sony Yay HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXQVfP2tnlnJjMmQsFu5RlBfBYB-Ltx3xYIKa8o7f_fT38E3T-7Yg6I0RNaMKaOceysvGkF6MXRIQHC00-PdPczMmWUkjf7OFwBc9fA7XnUa0J6oZrd7bWhTT5bR8MZrePAMzwsCF2mg06PFC7f9U9e8cdX-FGRU-4AHe8ADj3k8gR3LlHxZ8kW4OzPw/s600/Nur_20251222_155402_0000.png",
@@ -636,6 +626,16 @@
       "category": "KIDS",
       "language": "Hindi",
       "description": "Pogo is a popular children’s television channel offering fun-filled animated series, cartoons, and comedy shows loved by kids of all ages. The channel features colorful characters, humorous storytelling, and exciting adventures that entertain young viewers while promoting creativity, friendship, and positive values. Viewers can watch Pogo live on OUTFLANK TV, enjoying smooth streaming and a safe, family-friendly entertainment experience. With its engaging cartoons and light-hearted programming, Pogo continues to be a favorite kids’ channel for fun and laughter on platforms like OUTFLANK TV.",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 88,
+      "name": "Zee Cinema HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrBeyMzcqcunF_MsNAFlRaemB6KyAETCe8DyiD69Un0WtleKrtsMXffRMk0qSkzITDjMAY4Y3FV4TB7pey_dWEN91fixE3TOA_EmW6auTT-KzxhKgUj6BvkSUQXTUm2vn3KNrwkDCAHVcPURrU73SzUz84VJ7oENo9wJbldUDgAxHsDQFyetMevAg7zg/s600/Nur_20251222_155501_0000.png",
+      "stream_url": "https://m.mxonlive.xyz/live/16559/toffeex/stream.php/5y7HX5UBv9knK3AHs6Nk.m3u8",
+      "category": "MOVIES",
+      "language": "Hindi",
+      "description": "Zee Cinema is one of India’s leading Bollywood movie television channels, offering a wide collection of Hindi films including action, romance, comedy, drama, and blockbuster hits. The channel is known for airing popular movies, special film events, and entertaining movie premieres that appeal to a wide audience. Viewers can watch Zee Cinema live on OUTFLANK TV, enjoying high-quality streaming and nonstop Bollywood entertainment. With its diverse movie library and engaging programming, Zee Cinema remains a top choice for movie lovers seeking Hindi cinema on reliable platforms like OUTFLANK TV.",
       "added_date": "2025-12-19"
     },
     {
@@ -926,6 +926,16 @@
       "category": "MOVIES",
       "language": "Hindi",
       "description": "",
+      "added_date": "2026-01-20"
+    },
+    {
+      "id": 140,
+      "name": "Nagorik TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXLQm7blSttGVm_Q9ZXoE7XB7tE6TX2wKILCZWpqw5de3wflgoIu_To87h263NDXA9tb5Pxw82J2TpsXTbez3zvMgBbM3qHCHXAdNUUJDED_04regNQsQb30rLRy69VkyGATaPTcZSsKzfXMHaJcI8P2DGxm-x0E1j41WXTPknBmlea4-L7VPVA4sHA/s1080/1000010076.png",
+      "stream_url": "https://m.mxonlive.xyz/live/flosix/stream.php?id=ch_699439ea382ca",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Nagorik TV is a Bangladeshi private television channel broadcasting news, talk shows, social awareness programs, current affairs and entertainment content, focusing on citizen-centric issues and real stories while offering viewers 24/7 online live TV streaming on Outflank TV.",
       "added_date": "2026-01-20"
     },
     {

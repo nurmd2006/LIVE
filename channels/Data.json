@@ -9,24 +9,14 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 110,
-      "name": "RTV HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTmqI-WYBgHUedgOLzZRDeDFWF0JnZkd00pgwRXisRt6dWZpFQ7OzZgaoV1f55dIdIujiSQYMoibU-R8ISC3sFbsTisFWlU7xcpaXRC-_GFD-fqQg0F_YeZ-k7z3e7-ZAhaIO-vTTcAGA4CdsDO8KJq-xH0LSV1osASMiMGyywqcOw8S_8Q9Dq2FWMfg/s600/Nur_20251226_221231_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "RTV is a Bangladeshi television channel offering a diverse mix of programs including news, entertainment, drama series, talk shows, and cultural content. The channel provides live coverage of national and international events while delivering family-friendly entertainment that reflects Bangladeshi traditions, lifestyle, and contemporary culture. With engaging storytelling, high-quality broadcasts, and varied programming, RTV offers viewers an immersive television experience. Enjoy news, entertainment, and cultural shows seamlessly on your screens with Outflank TV.",
-      "added_date": "2025-12-24"
-    },
-    {
-      "id": 109,
-      "name": "Ekhon TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rwzM3TeXBFILm0KCzTHqk7WkaIVniq3gkqXny_2h_OJyCxzBVt3RGzHT0M0uHf9dOLNjsSlvNNzk_Ij3Qsqei0S3_Qh7eboeNq8O06tuDaBiW60St_EP_T17ulx5AvyA-Piaj9sLcT6jMJKs9uhTa8-sdf6dfDJgQDdd1yTO3L9Dvmv6Dwl1Ewq_1A/s600/Nur_20251226_221258_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "Ekhon TV is a 24-hour Bangladeshi news television channel delivering live updates, breaking news, talk shows, and in-depth analysis on national and international events. The channel provides comprehensive coverage of politics, economy, society, and current affairs, keeping viewers informed about the latest developments. With professional journalism, timely reporting, and engaging programming, Ekhon TV ensures audiences stay connected with critical news and insightful discussions. Watch all the latest news and updates conveniently on your screens with Outflank TV.",
-      "added_date": "2025-12-24"
+      "id": 118,
+      "name": "Islam Channel",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GpJ2-CuPoX3IQOI3ROE-2Vhu9c4rFcgmHsrxPQ49EzvZP4sFq_HTCp9oj4kc3ql9-1_yg5WIk0NTv9XbY1Ly5l_i1qmNzRrIVr2vw0z49k80Dx6K5Tse3TYvt5MrlOce81E-HKBksZSkiRKZuX-ImGnXN61ep_ernelOlRwYimr-DnjpUdWM9JLwTw/s600/Nur_20251227_140508_0000.png",
+      "stream_url": "https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8",
+      "category": "ISLAMIC",
+      "language": "English",
+      "description": "Islam Channel is an international Islamic television network broadcasting religious lectures, talk shows, educational programs, Quran recitations, and lifestyle content from an Islamic perspective. The channel aims to promote knowledge, ethics, and spiritual awareness among viewers worldwide. Access Islamic programs and learning content easily on Outflank TV.",
+      "added_date": "2025-12-27"
     },
     {
       "id": 1,
@@ -836,6 +826,26 @@
       "category": "NEWS",
       "language": "Bangla",
       "description": "DBC News is a 24-hour Bangladeshi news television channel providing comprehensive coverage of national and international events. The channel features live news updates, in-depth analysis, talk shows, and special reports on politics, economy, society, and current affairs. With timely reporting, professional journalism, and engaging programming, DBC News keeps viewers informed and connected to the latest developments. Stay updated with breaking news, special reports, and insightful analysis seamlessly on your screens with Outflank TV.",
+      "added_date": "2025-12-24"
+    },
+    {
+      "id": 109,
+      "name": "Ekhon TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rwzM3TeXBFILm0KCzTHqk7WkaIVniq3gkqXny_2h_OJyCxzBVt3RGzHT0M0uHf9dOLNjsSlvNNzk_Ij3Qsqei0S3_Qh7eboeNq8O06tuDaBiW60St_EP_T17ulx5AvyA-Piaj9sLcT6jMJKs9uhTa8-sdf6dfDJgQDdd1yTO3L9Dvmv6Dwl1Ewq_1A/s600/Nur_20251226_221258_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "Ekhon TV is a 24-hour Bangladeshi news television channel delivering live updates, breaking news, talk shows, and in-depth analysis on national and international events. The channel provides comprehensive coverage of politics, economy, society, and current affairs, keeping viewers informed about the latest developments. With professional journalism, timely reporting, and engaging programming, Ekhon TV ensures audiences stay connected with critical news and insightful discussions. Watch all the latest news and updates conveniently on your screens with Outflank TV.",
+      "added_date": "2025-12-24"
+    },
+    {
+      "id": 110,
+      "name": "RTV HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTmqI-WYBgHUedgOLzZRDeDFWF0JnZkd00pgwRXisRt6dWZpFQ7OzZgaoV1f55dIdIujiSQYMoibU-R8ISC3sFbsTisFWlU7xcpaXRC-_GFD-fqQg0F_YeZ-k7z3e7-ZAhaIO-vTTcAGA4CdsDO8KJq-xH0LSV1osASMiMGyywqcOw8S_8Q9Dq2FWMfg/s600/Nur_20251226_221231_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "RTV is a Bangladeshi television channel offering a diverse mix of programs including news, entertainment, drama series, talk shows, and cultural content. The channel provides live coverage of national and international events while delivering family-friendly entertainment that reflects Bangladeshi traditions, lifestyle, and contemporary culture. With engaging storytelling, high-quality broadcasts, and varied programming, RTV offers viewers an immersive television experience. Enjoy news, entertainment, and cultural shows seamlessly on your screens with Outflank TV.",
       "added_date": "2025-12-24"
     },
     {

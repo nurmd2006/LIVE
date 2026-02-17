@@ -9,6 +9,16 @@
   "ad_images": [],
   "channels": [
     {
+      "id": 127,
+      "name": "SATV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_0QnjaJvezQpV3q84D2RZMusa4e51bPYguwV-qjnayyD95-JfuxCtWk_yzyO_I_gM8pmocXQxcaVCzO17zSZdJN-aSyH-qfvtE-Vfidjqo6vJ21IwmNFZzCYqdvBMyPrlK-3S362ErNmIY8eDqBE8TQOQw8fn3A0PNz6ZCKKrqlSZW8Rbptmj0Mn8A/s600/Nur_20251227_143914_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "SA TV is a Bangladeshi entertainment and news channel broadcasting drama series, musical shows, talk programs, cultural content, and daily news bulletins. The channel highlights Bangladeshi lifestyle and creative storytelling for family audiences. Enjoy engaging shows and informative programs conveniently with Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
       "id": 1,
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",

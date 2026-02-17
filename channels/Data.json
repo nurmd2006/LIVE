@@ -9,6 +9,16 @@
   "ad_images": [],
   "channels": [
     {
+      "id": 122,
+      "name": "Desh TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Y5o-pe8mUw33aKqBeJ3jNikq_s3y29kcFMwcmcTJjG0i80TJKTsMubCanv4lYV2-zy1zv2RCk1PxpbnZBFsq9oAZS5YFl9iUmg5-o-1Md9CuGAv0feCfh1XNaE86kZtKsWm-8cO7j2FLdRl-iOvsD-tONjscRhjORvmYQt49ltegag5y0eYSu6W1Lw/s600/Nur_20251227_140349_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Desh TV is a Bangladeshi television channel broadcasting news, talk shows, dramas, music programs, and cultural content. It focuses on informative storytelling and programs that reflect Bangladeshi life and society. Watch your favorite Desh TV programs anytime through Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
       "id": 123,
       "name": "MyTV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYRRVi-h-Em0yozT479Y2hX4JX8EWaogbhJeyvrcLYjY0nHvC0XqiTEYWqw-Il3UZ-vOXKoE_sLssGXMRvb2hIuIUeIsBXiPGPMNs8TcrkgNzvnXOpk8vYoy_LYvJ68E0CP8I85_E6ni2ujoDCMdKZbfHceJShgyexHgPSFAfA26-2-u-xt7Ni812yw/s600/Nur_20251227_140302_0000.png",

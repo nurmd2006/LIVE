@@ -9,14 +9,24 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 108,
-      "name": "DBC News HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7DCTzh4b82m6FX8whYDnAqQ_vyjKvEYJrY3W8mBEgxrMxO68aM3kCpYWPX02XIL24fTVB69E5Pz6cAh75mF4ezJxEWlA9Mz0gwW3MqaEje2xroxNd-0dq1hzVKhvE-Ou7HrllVUuEL9ICpkqWdLz05__s0AiKjm18GgoGKsraY_tNvEa0i6uPzzDvZA/s600/Nur_20251226_221330_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8",
-      "category": "NEWS",
+      "id": 129,
+      "name": "Channel S",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJRCuocb7fS9PuEDmQe1x5fSVeGNIPuihpTACryWeHd2gR9HzIodW4E4P4aXRk7akro5IyRAUTE1CdMe42vySHckBC-rEkux4nyfieUCUtUfk11CSk1QF9yAzDlg9EBjTRiyXEznR5SDDTfe4lQOp1AmNH2IwyBaip11w6HIApjo0qnGqCdongGFc_pw/s1080/1000009646.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8",
+      "category": "MOVIES",
       "language": "Bangla",
-      "description": "DBC News is a 24-hour Bangladeshi news television channel providing comprehensive coverage of national and international events. The channel features live news updates, in-depth analysis, talk shows, and special reports on politics, economy, society, and current affairs. With timely reporting, professional journalism, and engaging programming, DBC News keeps viewers informed and connected to the latest developments. Stay updated with breaking news, special reports, and insightful analysis seamlessly on your screens with Outflank TV.",
-      "added_date": "2025-12-24"
+      "description": "Channel S is a Bengali-language television channel mainly serving Bangladeshi and South Asian audiences living in the UK and abroad. The channel broadcasts news, talk shows, community programs, religious content, cultural events, and entertainment shows that connect expatriate viewers with their roots and heritage. It also highlights diaspora issues, social stories, and programs focused on community development and awareness. Enjoy programs from Channel S anytime with smooth online streaming through Outflank TV.",
+      "added_date": "2025-12-29"
+    },
+    {
+      "id": 46,
+      "name": "Asian TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9NgO-lFaW83IPuGAZXfo9nDb-9x5nfSuRgAQ3u1cdongs8YSDrgwH_RQAExmGOeSXeBeOV9g1DumONpBb6HUtYtR69Oi1UoE5BdprdqmLjYm95gmzfxte4GdKlV0Cx5E0nBxiGe_cq99rWCNRq4ebEUhVhZhgPHRbkJIJr1yPFhhyc_cquwn65Hitw/s600/Nur_20251216_230519_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Asian TV is a prominent Bangladeshi entertainment television channel that offers a wide variety of programming, including drama serials, movies, talk shows, music programs, and cultural content. The channel aims to provide engaging, family-friendly entertainment for viewers across Bangladesh and abroad. Known for its diverse content and modern production quality, Asian TV combines entertainment with cultural storytelling, reflecting contemporary Bangladeshi life and traditions. Through its vibrant shows and broadcasts, the channel delivers enjoyable, informative, and immersive television experiences for audiences of all ages.",
+      "added_date": "2025-12-15"
     },
     {
       "id": 1,
@@ -686,6 +696,16 @@
       "category": "MUSIC",
       "language": "Bangla",
       "description": "Jhankar TV is a popular Bangladeshi music and entertainment channel featuring a wide range of programs including music shows, chartbusters, live performances, and special artist features. The channel provides nonstop entertainment for viewers who love contemporary Bengali music, classic hits, and vibrant musical programs. With engaging content, high-quality broadcasts, and diverse programming, Jhankar TV delivers an immersive musical experience for audiences of all ages. Enjoy the best of Bengali music and entertainment seamlessly on your screens with Outflank TV.",
+      "added_date": "2025-12-24"
+    },
+    {
+      "id": 108,
+      "name": "DBC News HD",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7DCTzh4b82m6FX8whYDnAqQ_vyjKvEYJrY3W8mBEgxrMxO68aM3kCpYWPX02XIL24fTVB69E5Pz6cAh75mF4ezJxEWlA9Mz0gwW3MqaEje2xroxNd-0dq1hzVKhvE-Ou7HrllVUuEL9ICpkqWdLz05__s0AiKjm18GgoGKsraY_tNvEa0i6uPzzDvZA/s600/Nur_20251226_221330_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "DBC News is a 24-hour Bangladeshi news television channel providing comprehensive coverage of national and international events. The channel features live news updates, in-depth analysis, talk shows, and special reports on politics, economy, society, and current affairs. With timely reporting, professional journalism, and engaging programming, DBC News keeps viewers informed and connected to the latest developments. Stay updated with breaking news, special reports, and insightful analysis seamlessly on your screens with Outflank TV.",
       "added_date": "2025-12-24"
     },
     {

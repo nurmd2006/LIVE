@@ -22,7 +22,7 @@
       "id": 2,
       "name": "Duronto TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ10o12m5_heYW_O1b71UxtR_ZtpK9dmjzwh1XaPs3lfC8Ev4CweSEOam1lCJ5Tf0V59Yyba60h-UPffxAIMj78BM-qvY5ZMeEAVJYfJ1lOzP0gQn3zX5_iduoCgPb7y-d2NB6NgJ0Ck7vTkwg9VxjNTtmSs4yHN3SHIyxGoZe00djFk5vh95PuCrF/s600/Nur_20251103_211727_0000.png",
-      "stream_url": "https://stream.nurmd2006-official.workers.dev/LIVE/duronto.stream/playlist.m3u8",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/playlist.m3u8",
       "category": "KIDS",
       "language": "Bangla",
       "description": "Duronto TV is a popular Bangladeshi children’s television channel dedicated to providing fun, educational, and family-friendly entertainment. The channel broadcasts a wide range of animated series, cartoons, and kids’ programs that are designed to inspire creativity, imagination, and positive values among young viewers. With a focus on safe and age-appropriate content, Duronto TV blends entertainment with learning, helping children develop cognitive skills, moral understanding, and curiosity in an engaging way. It has become a trusted choice for parents and a favorite destination for kids seeking joyful and meaningful television experiences.",
@@ -239,26 +239,6 @@
       "added_date": "2025-10-22"
     },
     {
-      "id": 25,
-      "name": "Geo Super",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYuknH82R_1f_efCjMsnWV2YdoJB0UhJUfAR0qPKCXn1KT7QzuW3DZGiOMV8DxritbSe_TM5QJeePu6NcBdxSqYetaI7UHW1BrCGMhzjx9Z0f7pTXN_qSAcPdfVTHjqPfVdYRLWCeVoed5vOsfsz75Us0P6DK5Eq3pssyVBjWs7gKM3-AgEKbuDfSqDw/s600/Nur_20251107_160039_0000.png",
-      "stream_url": "https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v1a1/mono.ts.m3u8",
-      "category": "SPORTS",
-      "language": "Hindi/Urdu",
-      "description": "Geo Super is Pakistan’s first dedicated sports television channel, offering extensive coverage of national and international sporting events. The channel broadcasts live matches, highlights, expert analysis, sports talk shows, and exclusive interviews, catering to fans of cricket, football, wrestling, and other popular sports. Geo Super is known for its energetic presentation and comprehensive sports programming, keeping viewers updated with real-time action and in-depth commentary. With a strong focus on sports entertainment and analysis, the channel has become a trusted destination for sports enthusiasts in Pakistan and beyond.",
-      "added_date": "2025-10-30"
-    },
-    {
-      "id": 27,
-      "name": "Sony Sports 2",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Xn5XEZKnXQjFNVlz72LPbKGgZU-26pbBebhlk5PKguE3Hpn54269pWHmQ0Kwpen7UTWt-8CGB8fpLrPpaqgJpScRUttA5W7LCandh-X2kwdAdVyX_91aUauIOix0jsyBjOBXFFY_NYF0J0xVeTSgJWI5H10ICsKyaq0XKiEIteH0wxsLfBlbuxrmcw/s600/Nur_20251215_125630_0000.png",
-      "stream_url": "https://tvsen3.aynaott.com/HsatAP9H/index.m3u8",
-      "category": "SPORTS",
-      "language": "Hindi/English",
-      "description": "Sony Sports Ten 2 is a popular sports television channel that delivers live coverage of major national and international sporting events. The channel primarily features cricket, football, and other high-profile sports, along with match highlights, expert analysis, and special sports programming. Known for its high-quality production and professional commentary, Sony Sports Ten 2 provides an engaging and immersive viewing experience for sports fans. The channel caters to a wide audience by offering comprehensive sports coverage and in-depth insights into games, tournaments, and athletes around the world.",
-      "added_date": "2025-11-29"
-    },
-    {
       "id": 31,
       "name": "BanglaVision HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifvqFI-fPWs7H8OLJyJKGL9lDkpiwzaTdFIZ0_dB_MFnkW9hpW9FfF1nF4T0TeodpKMXBJsfdP263c98Nep-FSqlGaEMnsjUIPbxUGrUWWU8vBrz1MgjBztGTBragrsUq7QkJpaj8fqINiPgjCaK2Y_YS_BRGNhrAZCnKMLLhWAC904h7ntIo5NUZTxw/s600/Nur_20251216_221646_0000.png",
@@ -269,16 +249,6 @@
       "added_date": "2025-11-29"
     },
     {
-      "id": 32,
-      "name": "Boishakhi TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg567lLJ-EsQvOwgB1aDjI9vlkUnScGQ9Hq5koHuk4MR8g2wISS4h7LyMvHfk1KvrSKjD6JbTvcaYZiAZst3diuO4mQFg81ykUI21VdpD8qsiINmeC7n5413WnzO4LWxWdIeEhgsCqS25vB-XC3q8blhqi41-DzwKu8lFYNIoZZk4Wj0Y226X0u4DSjA/s600/Nur_20251216_221710_0000.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Boishakhi TV is a popular Bangladeshi television channel that offers a diverse range of entertainment, news, music, talk shows, and cultural programs. The channel is widely known for its vibrant presentation and content that reflects Bangladeshi lifestyle, traditions, and contemporary society. Boishakhi TV delivers engaging programs that appeal to viewers of all ages, combining entertainment with information and cultural expression. Through its variety of shows and lively broadcasts, the channel has established itself as a familiar and trusted name in Bangladesh’s television landscape.",
-      "added_date": "2025-11-29"
-    },
-    {
       "id": 34,
       "name": "Peace TV Bangla",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTZgotu5MDgwwbWdlMvdv_GHWbdwkAPappIssIxuHpJK3-lBT16WXTK-BX13JJwTDFVOfVfbaHA6V37KDfEeIrUgqSPJmHnaLYHGumQ7PATse0UtH8o9SMejBcOX-etVqqux9Znsz2Vv7PlMo31FdgdDYlV-MSRHxoBbZRBzBhIVWBsHN8-2_KFNQpGw/s600/Nur_20251216_221739_0000.png",
@@ -286,16 +256,6 @@
       "category": "ISLAMIC",
       "language": "Bangla",
       "description": "Peace TV Bangla is an Islamic television channel dedicated to spreading the message of Islam through educational and inspirational programming in the Bangla language. The channel features Islamic lectures, Qur’anic discussions, comparative religion programs, and scholarly talks by renowned speakers and Islamic scholars. Peace TV Bangla aims to promote peace, understanding, and authentic knowledge of Islam among Bangla-speaking audiences worldwide. Through its informative and thought-provoking content, the channel encourages moral values, spiritual growth, and interfaith harmony, making it a valuable source of Islamic education and guidance.",
-      "added_date": "2025-11-29"
-    },
-    {
-      "id": 35,
-      "name": "Ananda TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2RNLiL4qhYEVawGUat1HjjDb693C2K8hUpM7xLiuYciPmjwIQ5j7TIevtcnsHdjGBLIZZJbFTAc4nRoys3vyN-IeEiParo1SNH19m-1IbWG9RPRcW_VoPdSDNfNlFD4NWrKoONwxhgYJuLUzaTQ-LpDoQuqyOMx6meiH7QStygj_kx_Yrs17Dz62ccw/s600/Nur_20251216_221801_0000.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8",
-      "category": "MOVIES",
-      "language": "Bangla",
-      "description": "Ananda TV is a popular Bangladeshi entertainment television channel that offers a wide range of programs including drama serials, movies, music shows, talk shows, lifestyle programs, and special events. The channel focuses on delivering enjoyable and family-friendly entertainment for viewers of all ages. Known for its engaging content and vibrant presentation, Ananda TV reflects contemporary Bangladeshi culture and entertainment trends. Through its diverse programming and lively broadcasts, the channel provides audiences with fun, relaxation, and quality entertainment experiences.",
       "added_date": "2025-11-29"
     },
     {
@@ -389,26 +349,6 @@
       "added_date": "2025-12-15"
     },
     {
-      "id": 46,
-      "name": "Asian TV HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9NgO-lFaW83IPuGAZXfo9nDb-9x5nfSuRgAQ3u1cdongs8YSDrgwH_RQAExmGOeSXeBeOV9g1DumONpBb6HUtYtR69Oi1UoE5BdprdqmLjYm95gmzfxte4GdKlV0Cx5E0nBxiGe_cq99rWCNRq4ebEUhVhZhgPHRbkJIJr1yPFhhyc_cquwn65Hitw/s600/Nur_20251216_230519_0000.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Asian TV is a prominent Bangladeshi entertainment television channel that offers a wide variety of programming, including drama serials, movies, talk shows, music programs, and cultural content. The channel aims to provide engaging, family-friendly entertainment for viewers across Bangladesh and abroad. Known for its diverse content and modern production quality, Asian TV combines entertainment with cultural storytelling, reflecting contemporary Bangladeshi life and traditions. Through its vibrant shows and broadcasts, the channel delivers enjoyable, informative, and immersive television experiences for audiences of all ages.",
-      "added_date": "2025-12-15"
-    },
-    {
-      "id": 47,
-      "name": "Movie Bangla HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM0OLerbNE9IdBK5Um_6d-9cJQmGt58ZkIUdTH7vJCsABi8qGxiMNlzZnhWzlE4BcnKpt12tVyCKZ-J28mC__20CXWtmT7nO74OTVebgXDhPKo6k9W1wCj_QwrKBxhsVa_P1NjCzX4o0p-OoWkPyT5hl6wytPH3-cCTxvVWEFGJNzxeB-fwnZ0mJ7Lsw/s600/Nur_20251216_230545_0000.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8",
-      "category": "MOVIES",
-      "language": "Bangla",
-      "description": "Movie Bangla is a Bangladeshi television channel dedicated to broadcasting Bengali-language movies, offering a mix of classic hits, contemporary films, and popular cinematic productions. The channel caters to movie lovers who enjoy entertainment, drama, romance, action, and family-oriented films. Movie Bangla provides viewers with high-quality cinematic experiences, showcasing Bangladesh’s rich film industry and storytelling traditions. With a diverse selection of films and engaging programming, the channel has become a favorite destination for audiences seeking entertainment and cultural connection through Bengali cinema.",
-      "added_date": "2025-12-15"
-    },
-    {
       "id": 48,
       "name": "DW News",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQw5XIVnK93Qol68hLkZSeaPGlX4yVc5-i5vGVKvHwAJ1C_zaIfXzcQWkZY4ODKrGU_d5xCj2Pwkyd0JEOJJPHC6y9O_HDiK4q2JSoEDWZD6kWHV3mfzmZG8rf_x8GtuhoWKfJ4HBGKhDgFv9fKJ_dd1YSt7XuGV0xwlcsmFyAQBmDXS3LTzTFDeGv/s600/Nur_20251026_221954_0000.png",
@@ -446,36 +386,6 @@
       "category": "NEWS",
       "language": "English",
       "description": "Al Jazeera is a globally respected international news television network based in Qatar, known for its comprehensive and in-depth coverage of world events. The channel broadcasts 24-hour news, breaking stories, documentaries, investigative reports, and analysis on global politics, economy, conflicts, human rights, and social issues. Al Jazeera is recognized for its independent journalism and diverse global perspective, with correspondents stationed around the world. Through its powerful storytelling and factual reporting, the channel provides viewers with deeper insights into international affairs and voices from regions often underrepresented in global media.",
-      "added_date": "2025-12-18"
-    },
-    {
-      "id": 52,
-      "name": "Mastiii TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjBVBPPA2T7dgQsvo6Ft6OOy0aCC-0Q2JILSpXBIDGyr4JWSLh5aTH5DdxToER1g4gmCwS4gB83rXCJIUwqi-TPMBd56y0W1GnQcQrVgpqYQIeMjrSQf4XQktyhj4bCD7AaKgxrgHoPGbTQQLdMGY14N0jBriQJvU6ga8LTeXOI-GgkaMhR_wqWGF9/s600/Nur_20251104_201459_0000.png",
-      "stream_url": "https://tvsen6.aynaott.com/mastimusic/index.m3u8",
-      "category": "MUSIC",
-      "language": "Hindi",
-      "description": "Mastiii is a popular Indian music television channel dedicated to nonstop Bollywood music entertainment. The channel features a wide collection of Hindi movie songs, music videos, countdown shows, and special music programs that keep viewers entertained around the clock. Known for its energetic vibe and youthful appeal, Mastiii delivers the latest hits along with evergreen classics, making it a favorite destination for music lovers. With its fun-filled presentation and continuous music playback, the channel creates a lively entertainment experience for audiences of all ages.",
-      "added_date": "2025-12-19"
-    },
-    {
-      "id": 53,
-      "name": "9XM",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWUAqcRFDBPEI49XSsNrXiWUDZp2tvB2WoU2lD5Dux_1BAwyPmag8gxgAj79O3VUabYx8EqQzOqLZNxwrfVSh6h5QmEgOj_xfeohhMhucceDcKzaNZVBxIJDIk2dgNd_IGB_7QnHAUh5fZzfXPBayLJuwktrAL0z8AN_pqrwzuk6BFRq4iVoYlePhn/s600/Nur_20251104_201324_0000.png",
-      "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/1d2016bf-8322-4eb6-ad35-f0095ef23664/0.m3u8",
-      "category": "MUSIC",
-      "language": "Hindi",
-      "description": "9XM is a popular Indian Hindi music television channel known for its nonstop Bollywood music and fun-filled presentation style. The channel features the latest hit songs, classic tracks, music countdowns, and entertaining animated segments that add humor and creativity between music videos. Loved by music fans for its youthful energy and unique animated characters, 9XM delivers a lively and engaging music experience. The channel is a favorite destination for audiences who enjoy Bollywood music combined with light-hearted entertainment and continuous musical fun.",
-      "added_date": "2025-12-19"
-    },
-    {
-      "id": 54,
-      "name": "YRF Music",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_IrD_brxSAg_Uv2jF_QExvP6hTBfFkb1ftKCBz7kMQo49Tm1Q_RE6tRB8ZbEhdlzj_Mn_zx7rTeJBCe9XouPyqzW7Ph9sL3gip08X-6heLfBcSWZw3OcxGFvNykE3vDGaaRrjHSE9sufcSv3IPJnT1dwjXPQjA0jAaAD_AS2WlGgox8rcCi1i5txz/s600/Nur_20251104_202724_0000.png",
-      "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8",
-      "category": "MUSIC",
-      "language": "Bangla/Hindi",
-      "description": "YRF Music is an Indian music television channel and digital music brand from Yash Raj Films, dedicated to showcasing Bollywood songs from YRF’s iconic movie library. The channel features romantic melodies, chart-topping hits, timeless classics, and popular soundtracks from some of the most successful Hindi films. YRF Music is known for its high-quality music videos and rich cinematic presentation. With its focus on soulful compositions, modern hits, and legendary Bollywood music, the channel offers an immersive and premium music experience for fans of Hindi cinema and music.",
       "added_date": "2025-12-18"
     },
     {
@@ -589,16 +499,6 @@
       "added_date": "2025-12-18"
     },
     {
-      "id": 76,
-      "name": "DD Bangla",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgggfNwc2E_oHEi9_UJQlWjmFel17nm58hP20KEcV3EDKk5DIhrqrC_pfJ75tYASSvyfxfUQqTJedxu1GdoxkyxVLzxbN-nzyGQil-KqruWtWK2Qlf-KRc5YalGd2ulUXjlzC4j3AkHmr8_MwMfOBzHGH9jvvNR43KK747_OIhpfMqbPM-Kx15TwvdMaQ/s600/Nur_20251219_134716_0000.png",
-      "stream_url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "DD Bangla – DD Bangla is a prominent Indian state-run Bengali-language television channel offering a wide range of programs including news, drama series, cultural shows, documentaries, and educational content. The channel provides live coverage of regional and national events, alongside entertainment programs that reflect Bengali culture and traditions. Known for its focus on promoting Bengali heritage and delivering informative content, DD Bangla combines entertainment, education, and cultural storytelling to provide viewers with a wholesome television experience. With high-quality broadcasts and diverse programming, the channel has become a trusted destination for audiences seeking Bengali-language entertainment and news.",
-      "added_date": "2025-12-18"
-    },
-    {
       "id": 77,
       "name": "GoldMines",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJlZ5eY8iUll1OFYBn_jUNjVBB5UMLHfLV-ZYfhSnOmrYWGHJHt9iwsgKI5lQ4aoXVj_2hIXCQnZClXBGZhgKvgXmrPykyFDdPP_J34bvZTXnyVZk-M1V1vPIo2E_RpgJXS_qJNeDufBLedvF4EZRXhXUqocmZTg-e7FGvSCarKQ9IK6ufwbedqSU88g/s600/Nur_20251219_134746_0000.png",
@@ -659,16 +559,6 @@
       "added_date": "2025-12-18"
     },
     {
-      "id": 83,
-      "name": "Colors Bangla HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmdOa-FrjsbmHkj3fe8cdJs7wCr8LqP44W8eCN4dB9tg-khIKtKCqyodP9MZtLtOKPRVYRHTy268xxlfWub0v5GqHWtG0wBAbfkF_uBu4vICj0EgBz3B6SQnasWV9LOi_ye4_FqTWCspD09E3Rlcwm6jESgLacRCxkb-aIorG9dZyD74alcdIxpSzYQ/s600/Nur_20251219_135028_0000.png",
-      "stream_url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
-      "category": "DRAMA",
-      "language": "Bangla",
-      "description": "Colors Bangla is a premier Indian Bengali-language entertainment channel offering a wide range of programs including drama series, reality shows, movies, music, and cultural content. The channel features family-friendly entertainment that showcases contemporary Bengali lifestyle, traditions, and popular storytelling. Known for its high-quality productions and engaging programming, Colors Bangla combines drama, reality, and cultural content to provide viewers with a wholesome entertainment experience. With diverse shows and vibrant presentation, the channel has become a popular destination for Bengali audiences seeking both modern and traditional entertainment.",
-      "added_date": "2025-12-18"
-    },
-    {
       "id": 84,
       "name": "Sangeet Bangla",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgrLOUFHDDyqsVLJrykfcAe5h-yLsBYxvRFRtNC0pfFTMvqEwGlRq0gU5jnSOW_L5aWermQ-XYwI8x3an2mI01Fxe5diC1LMXykyw6f_DtJ_GilLz0Mxb_cumqpUmdOy-RAXSFXgX4xRxBMrW6k5VsOcLIYpdczThtec0-Yemkf_jlIgNN_kyCpnBOkA/s600/Nur_20251219_135056_0000.png",
@@ -677,16 +567,6 @@
       "language": "Bangla",
       "description": "Sangeet Bangla is a popular Bengali-language music television channel that offers nonstop music entertainment, including the latest hit songs, classic tracks, countdown shows, and special programs featuring renowned artists. The channel focuses on Bengali music, ranging from contemporary hits to traditional melodies, catering to a wide audience of music lovers.",
       "added_date": "2025-12-18"
-    },
-    {
-      "id": 85,
-      "name": "Sony Aath",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgktJAGGIfEildMH1tn_0ygd9fed8QCpJuk0cR9IYjeHsQcTLch6tmGTw4b53x_9Nw53sGHcNRXbvHSrskujpP3mFcJd1h_bXOb41B9kGNUqwDH5Xm8UVNghDBKipzRqr8IWBA2iGugnRqL0lL6p2HV3x4Y94VJdVnBnz9FL6vTXRD2hiybsV9bbnV_zA/s600/Nur_20251222_155327_0000.png",
-      "stream_url": "https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8",
-      "category": "KIDS",
-      "language": "Bangla",
-      "description": "Sony Aath is a popular Indian Bengali-language entertainment television channel featuring a wide range of programs such as drama serials, comedy shows, movies, reality programs, and cultural content. The channel is well known for its family-friendly entertainment and engaging storytelling that appeals to Bengali audiences of all age groups. Viewers can watch Sony Aath live on OUTFLANK TV, enjoying a smooth and high-quality streaming experience. With its mix of modern entertainment and traditional Bengali culture, Sony Aath remains a favorite choice for audiences looking for quality Bengali television content on a reliable streaming platform like OUTFLANK TV.",
-      "added_date": "2025-12-19"
     },
     {
       "id": 86,
@@ -739,16 +619,6 @@
       "added_date": "2025-12-19"
     },
     {
-      "id": 96,
-      "name": "Bijoy TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4__88VYWOTSZ8r2iePlVG3SjTcwXrelXeGMGogLoKEqLO3K1LzK7HBZZb_ofjO1HmobVRqS95QuadQr6H5KjtLYziV01BeAgnNTPfJ0blmgDcysQSTR_pRXNCPIZnC9Aygpd1XrEhs9CcsMiNoNdkMJK6J37NeqWjI-HwlewpBjqKC5PjzqZMRA4h9g/s600/Nur_20251222_155817_0000.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/tracks-v1a1/mono.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "Bijoy TV is a Bangladeshi television channel offering a mix of news, drama series, music programs, and cultural shows. Viewers can enjoy live updates on national and international events along with entertainment that highlights Bangladeshi culture and lifestyle. Watch Bijoy TV seamlessly on Outflank TV, your go-to platform for streaming Bangladeshi TV channels online. Outflank TV provides easy access, high-quality streaming, and a smooth viewing experience, making it simple to stay connected with your favorite Bangladeshi programs anytime, anywhere.",
-      "added_date": "2025-12-19"
-    },
-    {
       "id": 99,
       "name": "Geo Entertainment",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit0qcnH_W9u_tYYLFtiSInZHF15Y6j2B3sAbROlKejZ2mhXoNRHGyRYgk2ZgBrbFGR46MxPVJE8rX97PiSjv8CwouIdSZsdddDYB9zN-ZxMpFnCJJEu5IhcT-TS9rtIY4lQnJ5ueAO_FJYaiOwWc6hNG6uupodBMGECYtA5nfP6vHlKP165NqjFSU8Fw/s600/Nur_20251222_155957_0000.png",
@@ -756,16 +626,6 @@
       "category": "DRAMA",
       "language": "Urdu",
       "description": "Geo Entertainment is a leading Pakistani television channel offering a variety of programs including drama series, reality shows, talk shows, and entertainment specials. Known for its high-quality productions and engaging storytelling, the channel provides viewers with family-friendly entertainment that reflects Pakistani culture and contemporary trends.",
-      "added_date": "2025-12-22"
-    },
-    {
-      "id": 101,
-      "name": "Mohona TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggFMXGpcJgwX_MQ5UOJKKRLwCdt7V4V9M_gOImosoAFYmnYZG7laQd5YTQDtJ2demWl2m2kqXoweUs7JK9VQWnpOeLR0AkYsa-NEmtSra9CFPsruaNFYsJdVi-qCpKLWq6t5Dy8sCkTeVLfDXpEpv3SLAL8naUTU8HC1OEs5s1F7LmyqYoE6jQ0AxYtw/s600/Nur_20251222_160140_0000.png",
-      "stream_url": "https://tvsen6.aynaott.com/mohonatv/index.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Mohona TV is a Bangladeshi television channel offering a wide range of programs including live news, talk shows, drama series, music, and cultural content. The channel keeps viewers updated with national and international events while delivering entertainment that highlights Bangladeshi traditions, lifestyle, and contemporary culture. With engaging storytelling, high-quality broadcasts, and diverse programming, Mohona TV provides a complete viewing experience for audiences of all ages. Enjoy drama series, informative news, and cultural shows seamlessly on your screens with Outflank TV.",
       "added_date": "2025-12-22"
     },
     {
@@ -826,36 +686,6 @@
       "category": "MUSIC",
       "language": "Bangla",
       "description": "Jhankar TV is a popular Bangladeshi music and entertainment channel featuring a wide range of programs including music shows, chartbusters, live performances, and special artist features. The channel provides nonstop entertainment for viewers who love contemporary Bengali music, classic hits, and vibrant musical programs. With engaging content, high-quality broadcasts, and diverse programming, Jhankar TV delivers an immersive musical experience for audiences of all ages. Enjoy the best of Bengali music and entertainment seamlessly on your screens with Outflank TV.",
-      "added_date": "2025-12-24"
-    },
-    {
-      "id": 108,
-      "name": "DBC News HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7DCTzh4b82m6FX8whYDnAqQ_vyjKvEYJrY3W8mBEgxrMxO68aM3kCpYWPX02XIL24fTVB69E5Pz6cAh75mF4ezJxEWlA9Mz0gwW3MqaEje2xroxNd-0dq1hzVKhvE-Ou7HrllVUuEL9ICpkqWdLz05__s0AiKjm18GgoGKsraY_tNvEa0i6uPzzDvZA/s600/Nur_20251226_221330_0000.png",
-      "stream_url": "https://stream.nurmd2006-official.workers.dev/LIVE/dbcnews.stream/tracks-v1a1/mono.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "DBC News is a 24-hour Bangladeshi news television channel providing comprehensive coverage of national and international events. The channel features live news updates, in-depth analysis, talk shows, and special reports on politics, economy, society, and current affairs. With timely reporting, professional journalism, and engaging programming, DBC News keeps viewers informed and connected to the latest developments. Stay updated with breaking news, special reports, and insightful analysis seamlessly on your screens with Outflank TV.",
-      "added_date": "2025-12-24"
-    },
-    {
-      "id": 109,
-      "name": "Ekhon TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rwzM3TeXBFILm0KCzTHqk7WkaIVniq3gkqXny_2h_OJyCxzBVt3RGzHT0M0uHf9dOLNjsSlvNNzk_Ij3Qsqei0S3_Qh7eboeNq8O06tuDaBiW60St_EP_T17ulx5AvyA-Piaj9sLcT6jMJKs9uhTa8-sdf6dfDJgQDdd1yTO3L9Dvmv6Dwl1Ewq_1A/s600/Nur_20251226_221258_0000.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "Ekhon TV is a 24-hour Bangladeshi news television channel delivering live updates, breaking news, talk shows, and in-depth analysis on national and international events. The channel provides comprehensive coverage of politics, economy, society, and current affairs, keeping viewers informed about the latest developments. With professional journalism, timely reporting, and engaging programming, Ekhon TV ensures audiences stay connected with critical news and insightful discussions. Watch all the latest news and updates conveniently on your screens with Outflank TV.",
-      "added_date": "2025-12-24"
-    },
-    {
-      "id": 110,
-      "name": "RTV HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTmqI-WYBgHUedgOLzZRDeDFWF0JnZkd00pgwRXisRt6dWZpFQ7OzZgaoV1f55dIdIujiSQYMoibU-R8ISC3sFbsTisFWlU7xcpaXRC-_GFD-fqQg0F_YeZ-k7z3e7-ZAhaIO-vTTcAGA4CdsDO8KJq-xH0LSV1osASMiMGyywqcOw8S_8Q9Dq2FWMfg/s600/Nur_20251226_221231_0000.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "RTV is a Bangladeshi television channel offering a diverse mix of programs including news, entertainment, drama series, talk shows, and cultural content. The channel provides live coverage of national and international events while delivering family-friendly entertainment that reflects Bangladeshi traditions, lifestyle, and contemporary culture. With engaging storytelling, high-quality broadcasts, and varied programming, RTV offers viewers an immersive television experience. Enjoy news, entertainment, and cultural shows seamlessly on your screens with Outflank TV.",
       "added_date": "2025-12-24"
     },
     {
@@ -929,16 +759,6 @@
       "added_date": "2025-12-27"
     },
     {
-      "id": 122,
-      "name": "Desh TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Y5o-pe8mUw33aKqBeJ3jNikq_s3y29kcFMwcmcTJjG0i80TJKTsMubCanv4lYV2-zy1zv2RCk1PxpbnZBFsq9oAZS5YFl9iUmg5-o-1Md9CuGAv0feCfh1XNaE86kZtKsWm-8cO7j2FLdRl-iOvsD-tONjscRhjORvmYQt49ltegag5y0eYSu6W1Lw/s600/Nur_20251227_140349_0000.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Desh TV is a Bangladeshi television channel broadcasting news, talk shows, dramas, music programs, and cultural content. It focuses on informative storytelling and programs that reflect Bangladeshi life and society. Watch your favorite Desh TV programs anytime through Outflank TV.",
-      "added_date": "2025-12-27"
-    },
-    {
       "id": 124,
       "name": "Dangal HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-UTziEUvsJzRfB5hUXUfZD8zchAOzk0CWBuRm-Vcg2r6ze4gUNMShVkYtelDrQzBgLC3CQDwUQr3P182SjKCvW7kbqP0k7izaj71dGYqCcwuLYKHzyEvYzLjzHkDjfQ56YKzzJoYS9YHao7rHHWo3KTnBYeagv0fh-jA1_FiEsunzz69Oa5amP6khKw/s600/Nur_20251227_140232_0000.png",
@@ -979,16 +799,6 @@
       "added_date": "2025-12-27"
     },
     {
-      "id": 129,
-      "name": "Channel S",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJRCuocb7fS9PuEDmQe1x5fSVeGNIPuihpTACryWeHd2gR9HzIodW4E4P4aXRk7akro5IyRAUTE1CdMe42vySHckBC-rEkux4nyfieUCUtUfk11CSk1QF9yAzDlg9EBjTRiyXEznR5SDDTfe4lQOp1AmNH2IwyBaip11w6HIApjo0qnGqCdongGFc_pw/s1080/1000009646.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
-      "category": "MOVIES",
-      "language": "Bangla",
-      "description": "Channel S is a Bengali-language television channel mainly serving Bangladeshi and South Asian audiences living in the UK and abroad. The channel broadcasts news, talk shows, community programs, religious content, cultural events, and entertainment shows that connect expatriate viewers with their roots and heritage. It also highlights diaspora issues, social stories, and programs focused on community development and awareness. Enjoy programs from Channel S anytime with smooth online streaming through Outflank TV.",
-      "added_date": "2025-12-29"
-    },
-    {
       "id": 130,
       "name": "Deshi TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-znaOdJ0PwbD0kCTfUAd1sF4i66SNC4ab18FQOxFIDaHcBgMFVoqTot7FvExUEY6dCEUPY5AWGST57g98k_S-vmrVzx51YWEUtdNJqNKzzh2OHBonIEafogKtdvpLqDFuuBRKFwpVoEDwCVy1yaLguHh4qqb5H7kzRlud01ZMjK20ovxghDKPC4s6pg/s1080/1000010068.png",
@@ -999,16 +809,6 @@
       "added_date": "2025-12-29"
     },
     {
-      "id": 132,
-      "name": "ATN Bangla UK",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqremJjiM-PqRDsdo-b1njUtabCviA69pO3f5wnccHHpVEU2dbf-jJVyYuDz0CGuIcwmKh0QvDuy6v-TdBYGbiRmysMuVuqLy09ybWpY3ZlAmKaXEcCMbNWhP853PlIQL1CNxJiHzbSspj-6xDn04YkjL_YuCnVsNNdo3S0UaYgVMZafOpSbgBgfz7Gg/s1080/1000010074.png",
-      "stream_url": "https://stream.nurmd2006-official.workers.dev/LIVE/atnbanglauk-off.stream/playlist.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "",
-      "added_date": "2025-12-30"
-    },
-    {
       "id": 133,
       "name": "History TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDaYKo4nsfjl-QfO-HJ3R700iaCp-x3LsKi-rPiy09nA70YvHSz_q42nYSq85XlwA1cnXx6bIQjS5PHnXy2aHYNoLOGp8_MF5s0J9C-tCdIWTYw2sOH026kYor6xEFNopLemLlZIs6BjqIxBaRyp6Wod6hXKggv4sfs44jsYkRKctlwMivN_vi_U0bzA/s1080/1000010034.png",
@@ -1017,26 +817,6 @@
       "language": "English",
       "description": "",
       "added_date": "2026-01-13"
-    },
-    {
-      "id": 135,
-      "name": "BTV News",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDNbhgx2CBgL8s_51UOzuqCqrXnIDjhRUHtj34b70B1Wv5pTdAMINje5rAooYnTSfGYrq2PMQDY5toCe0GRgPEp5dqsUtgJ2NObidEvZpvGeiplEXgRI099-cVMoexdXVB3E3MMesYp3_oxM3b_I1vSbEF-LKfl-B_WwQY2PfNQodSL_1uyOgt347XRA/s1080/1000010075.png",
-      "stream_url": "https://tvs02.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "BTV News is the official national news television channel of Bangladesh, broadcasting authentic government news, national updates, political programs, public information, special reports and important announcements, allowing viewers to stay informed with reliable Bangladeshi news through 24/7 online live TV streaming on Outflank TV.",
-      "added_date": "2026-01-20"
-    },
-    {
-      "id": 137,
-      "name": "Star Gold HD",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMaD6fRu68cu-QUIEoHjhuwLHb5vwlVhy4opRyzgO1jF_4DGFvWtiVxr4PRuGSOSy3COlclkZyzf6pAyg3kBhv7gc3tI6__6doWGBbENVxdhv3O67drH4klSx2dxRJ8oms_9zxNcUpiMG__zsnJoTAqAw7ncvgTbqShhewMyvGAoxiYfQ4BwvqLboSDw/s1080/1000009647.png",
-      "stream_url": "http://tvn2.chowdhury-shaheb.com/stargold/tracks-v1a1/mono.m3u8",
-      "category": "MOVIES",
-      "language": "Hindi",
-      "description": "Star Gold is a popular Hindi movie entertainment TV channel broadcasting blockbuster Bollywood movies, action films, romantic dramas and family entertainment, offering viewers nonstop Hindi cinema enjoyment through 24/7 online live TV streaming on Outflank TV.",
-      "added_date": "2026-01-20"
     },
     {
       "id": 138,
@@ -1059,16 +839,6 @@
       "added_date": "2026-01-20"
     },
     {
-      "id": 140,
-      "name": "Nagorik TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXLQm7blSttGVm_Q9ZXoE7XB7tE6TX2wKILCZWpqw5de3wflgoIu_To87h263NDXA9tb5Pxw82J2TpsXTbez3zvMgBbM3qHCHXAdNUUJDED_04regNQsQb30rLRy69VkyGATaPTcZSsKzfXMHaJcI8P2DGxm-x0E1j41WXTPknBmlea4-L7VPVA4sHA/s1080/1000010076.png",
-      "stream_url": "http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Bangla",
-      "description": "Nagorik TV is a Bangladeshi private television channel broadcasting news, talk shows, social awareness programs, current affairs and entertainment content, focusing on citizen-centric issues and real stories while offering viewers 24/7 online live TV streaming on Outflank TV.",
-      "added_date": "2026-01-20"
-    },
-    {
       "id": 141,
       "name": "CID",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWtNI9KVZxKgP5xXraMoy_0AI8XcuwkEuRBO3wmo7fJTz3cUV9q90SoNlsmme7pGyoVz8io3VdeRGd0gnT0qVvvnkjxFWWERDBe0ypBNPsBHKYz97FltYzE88oBQz08ehR2JuMlhLvpZl-eh7NSzriuSIsvVInk_9Oplms9-ESafBq1ARAdM_eN7eWdg/s1080/1000010033.png",
@@ -1077,16 +847,6 @@
       "language": "Bangla",
       "description": "",
       "added_date": "2026-01-20"
-    },
-    {
-      "id": 142,
-      "name": "Islamic TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRXM2J7y2LkoE63vv2He9SF1dMo3pS9hmEC23wzJv3maIccQ1e912eTGNSN74Riwx03whZi5tyKXHKEDSFl4AO1JrwjCIlMhglN-nOjmGhBHBnhp1EqdLB5hwV3jHgKUDlzNFW1Cv8qrMylfmiIosSwFmK72-h-LTinSr1bpDVfNm1p8SlrILxKesdgw/s1080/1000008187.png",
-      "stream_url": "https://stream.nurmd2006-official.workers.dev/LIVE/islamictvbd.stream/tracks-v1a1/mono.m3u8",
-      "category": "ISLAMIC",
-      "language": "Bangla",
-      "description": "",
-      "added_date": "2026-01-22"
     },
     {
       "id": 143,
@@ -1127,56 +887,6 @@
       "language": "English",
       "description": "",
       "added_date": "2026-01-25"
-    },
-    {
-      "id": 147,
-      "name": "WION",
-      "logo": "",
-      "stream_url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
-      "category": "NEWS",
-      "language": "English",
-      "description": "",
-      "added_date": "2026-01-31"
-    },
-    {
-      "id": 148,
-      "name": "PSN 1 Sports",
-      "logo": "",
-      "stream_url": "https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8",
-      "category": "SPORTS",
-      "language": "English",
-      "description": "",
-      "added_date": "2026-01-31"
-    },
-    {
-      "id": 149,
-      "name": "Abudabi Sports 1",
-      "logo": "",
-      "stream_url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8",
-      "category": "SPORTS",
-      "language": "Arabic",
-      "description": "",
-      "added_date": "2026-01-31"
-    },
-    {
-      "id": 150,
-      "name": "PTC Music",
-      "logo": "",
-      "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8",
-      "category": "MUSIC",
-      "language": "Urdu",
-      "description": "",
-      "added_date": "2026-02-12"
-    },
-    {
-      "id": 151,
-      "name": "9X Jalwa",
-      "logo": "",
-      "stream_url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8",
-      "category": "MUSIC",
-      "language": "Hindi",
-      "description": "",
-      "added_date": "2026-02-12"
     }
   ]
 }

@@ -9,14 +9,14 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 127,
-      "name": "SATV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_0QnjaJvezQpV3q84D2RZMusa4e51bPYguwV-qjnayyD95-JfuxCtWk_yzyO_I_gM8pmocXQxcaVCzO17zSZdJN-aSyH-qfvtE-Vfidjqo6vJ21IwmNFZzCYqdvBMyPrlK-3S362ErNmIY8eDqBE8TQOQw8fn3A0PNz6ZCKKrqlSZW8Rbptmj0Mn8A/s600/Nur_20251227_143914_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8",
-      "category": "NEWS",
+      "id": 101,
+      "name": "Mohona TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggFMXGpcJgwX_MQ5UOJKKRLwCdt7V4V9M_gOImosoAFYmnYZG7laQd5YTQDtJ2demWl2m2kqXoweUs7JK9VQWnpOeLR0AkYsa-NEmtSra9CFPsruaNFYsJdVi-qCpKLWq6t5Dy8sCkTeVLfDXpEpv3SLAL8naUTU8HC1OEs5s1F7LmyqYoE6jQ0AxYtw/s600/Nur_20251222_160140_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8",
+      "category": "ENTERTAINMENT",
       "language": "Bangla",
-      "description": "SA TV is a Bangladeshi entertainment and news channel broadcasting drama series, musical shows, talk programs, cultural content, and daily news bulletins. The channel highlights Bangladeshi lifestyle and creative storytelling for family audiences. Enjoy engaging shows and informative programs conveniently with Outflank TV.",
-      "added_date": "2025-12-27"
+      "description": "Mohona TV is a Bangladeshi television channel offering a wide range of programs including live news, talk shows, drama series, music, and cultural content. The channel keeps viewers updated with national and international events while delivering entertainment that highlights Bangladeshi traditions, lifestyle, and contemporary culture. With engaging storytelling, high-quality broadcasts, and diverse programming, Mohona TV provides a complete viewing experience for audiences of all ages. Enjoy drama series, informative news, and cultural shows seamlessly on your screens with Outflank TV.",
+      "added_date": "2025-12-22"
     },
     {
       "id": 1,
@@ -966,6 +966,16 @@
       "category": "MOVIES",
       "language": "Bangla",
       "description": "Padma TV is a Bangladeshi television channel that broadcasts a mix of news, informative programs, talk shows, and cultural content. The channel focuses on reliable reporting, social awareness, and entertainment that reflects Bangladeshi lifestyle, heritage, and current affairs. Viewers can enjoy engaging discussions, regional stories, special features, and programs designed for audiences of different age groups. Stay informed and enjoy your favorite Padma TV programs easily with Outflank TV.",
+      "added_date": "2025-12-27"
+    },
+    {
+      "id": 127,
+      "name": "SATV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_0QnjaJvezQpV3q84D2RZMusa4e51bPYguwV-qjnayyD95-JfuxCtWk_yzyO_I_gM8pmocXQxcaVCzO17zSZdJN-aSyH-qfvtE-Vfidjqo6vJ21IwmNFZzCYqdvBMyPrlK-3S362ErNmIY8eDqBE8TQOQw8fn3A0PNz6ZCKKrqlSZW8Rbptmj0Mn8A/s600/Nur_20251227_143914_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "SA TV is a Bangladeshi entertainment and news channel broadcasting drama series, musical shows, talk programs, cultural content, and daily news bulletins. The channel highlights Bangladeshi lifestyle and creative storytelling for family audiences. Enjoy engaging shows and informative programs conveniently with Outflank TV.",
       "added_date": "2025-12-27"
     },
     {

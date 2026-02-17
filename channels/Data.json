@@ -9,16 +9,6 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 96,
-      "name": "Bijoy TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4__88VYWOTSZ8r2iePlVG3SjTcwXrelXeGMGogLoKEqLO3K1LzK7HBZZb_ofjO1HmobVRqS95QuadQr6H5KjtLYziV01BeAgnNTPfJ0blmgDcysQSTR_pRXNCPIZnC9Aygpd1XrEhs9CcsMiNoNdkMJK6J37NeqWjI-HwlewpBjqKC5PjzqZMRA4h9g/s600/Nur_20251222_155817_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8",
-      "category": "NEWS",
-      "language": "Bangla",
-      "description": "Bijoy TV is a Bangladeshi television channel offering a mix of news, drama series, music programs, and cultural shows. Viewers can enjoy live updates on national and international events along with entertainment that highlights Bangladeshi culture and lifestyle. Watch Bijoy TV seamlessly on Outflank TV, your go-to platform for streaming Bangladeshi TV channels online. Outflank TV provides easy access, high-quality streaming, and a smooth viewing experience, making it simple to stay connected with your favorite Bangladeshi programs anytime, anywhere.",
-      "added_date": "2025-12-19"
-    },
-    {
       "id": 1,
       "name": "Saudi Quran TV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleKdDnG77fWUg5ZKAV8JKa9MFOH8iq7q0lmMTtzF75qsAZfxfxzTzbdVhhHhCUbCszQ9CZqNDkslVA_OWboGPZARGQFVXHb9cKBUB1FlG8KcqQffWWdXKSNBWJ_2Dd-YFGqjia2ujeIOinC_Ilkb83kZbJE07IMPjnF06dUlSn_LhN-OwahHc43cESw/s600/Nur_20251107_152155_0000.png",
@@ -256,6 +246,16 @@
       "category": "ENTERTAINMENT",
       "language": "Bangla",
       "description": "Bangla Vision is a well-known Bangladeshi television channel that offers a wide range of programming, including news, drama series, talk shows, documentaries, entertainment programs, and cultural content. The channel is committed to delivering informative, engaging, and socially relevant content for audiences in Bangladesh and abroad. Bangla Vision is recognized for its focus on quality journalism, meaningful entertainment, and cultural representation. Through its diverse programs and thoughtful presentation, the channel aims to educate, entertain, and inspire viewers while reflecting the values and realities of Bangladeshi society.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 32,
+      "name": "Boishakhi TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg567lLJ-EsQvOwgB1aDjI9vlkUnScGQ9Hq5koHuk4MR8g2wISS4h7LyMvHfk1KvrSKjD6JbTvcaYZiAZst3diuO4mQFg81ykUI21VdpD8qsiINmeC7n5413WnzO4LWxWdIeEhgsCqS25vB-XC3q8blhqi41-DzwKu8lFYNIoZZk4Wj0Y226X0u4DSjA/s600/Nur_20251216_221710_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8",
+      "category": "ENTERTAINMENT",
+      "language": "Bangla",
+      "description": "Boishakhi TV is a popular Bangladeshi television channel that offers a diverse range of entertainment, news, music, talk shows, and cultural programs. The channel is widely known for its vibrant presentation and content that reflects Bangladeshi lifestyle, traditions, and contemporary society. Boishakhi TV delivers engaging programs that appeal to viewers of all ages, combining entertainment with information and cultural expression. Through its variety of shows and lively broadcasts, the channel has established itself as a familiar and trusted name in Bangladesh’s television landscape.",
       "added_date": "2025-11-29"
     },
     {
@@ -626,6 +626,16 @@
       "category": "ENTERTAINMENT",
       "language": "Bangla",
       "description": "Watch Bangla TV on Outflank TV, a Bangladeshi channel offering a wide range of programs including live news, drama series, music, talk shows, and cultural content. Stay updated with national and international events while enjoying entertainment that highlights Bangladeshi traditions and lifestyle.",
+      "added_date": "2025-12-19"
+    },
+    {
+      "id": 96,
+      "name": "Bijoy TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4__88VYWOTSZ8r2iePlVG3SjTcwXrelXeGMGogLoKEqLO3K1LzK7HBZZb_ofjO1HmobVRqS95QuadQr6H5KjtLYziV01BeAgnNTPfJ0blmgDcysQSTR_pRXNCPIZnC9Aygpd1XrEhs9CcsMiNoNdkMJK6J37NeqWjI-HwlewpBjqKC5PjzqZMRA4h9g/s600/Nur_20251222_155817_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "Bijoy TV is a Bangladeshi television channel offering a mix of news, drama series, music programs, and cultural shows. Viewers can enjoy live updates on national and international events along with entertainment that highlights Bangladeshi culture and lifestyle. Watch Bijoy TV seamlessly on Outflank TV, your go-to platform for streaming Bangladeshi TV channels online. Outflank TV provides easy access, high-quality streaming, and a smooth viewing experience, making it simple to stay connected with your favorite Bangladeshi programs anytime, anywhere.",
       "added_date": "2025-12-19"
     },
     {

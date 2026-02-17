@@ -71,6 +71,16 @@
       "added_date": "2025-11-20"
     },
     {
+      "id": 36,
+      "name": "Ekushey TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYrEq_9uumgNixoiyKR3vfzdfOGVlXMpoZarlhhNl9fc5OyclIF1DP4-B_Ie-AD9xp7cCWlSEXe3G1j8VcfP5NAVA5rQMOrX3xQI5rthxW_5OHtr5L-v7vSI31DwNNymtKwpazr8pLzg4sf7oN-oBqELCgFSY2-7bxrkdRCOp4TFVnXWsf2DxIlvtMRA/s600/Nur_20251216_221822_0000.png",
+      "stream_url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+      "category": "NEWS",
+      "language": "Bangla",
+      "description": "Ekushey TV is one of Bangladesh’s pioneering private television channels, offering a diverse range of programming that includes news, current affairs, talk shows, drama series, documentaries, cultural programs, and special broadcasts. The channel has played an important role in shaping independent television journalism in Bangladesh. Ekushey TV is known for its focus on responsible journalism, social awareness, and cultural expression. Through informative news coverage and meaningful entertainment, the channel aims to educate, inform, and engage viewers while reflecting the values, history, and aspirations of Bangladeshi society.",
+      "added_date": "2025-11-29"
+    },
+    {
       "id": 40,
       "name": "A Sports HD",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmOtBqrUYPOwhCcOe6DsfthRdQf40rz636cFtvtCa1mhdSPHJX34moNI-3-DRrccq3GzdcgqonlAwKk8fh5iIXqB1R8UTQN33ZaYE9bfjDorq4UWCnkOb-rLqMdthJwYpwOnFukDD7IVF4TzDTjksgtjbssx_UMVytELS7i4YJj8SyqI9N17f7OjkYxw/s600/Nur_20251216_222037_0000.png",
@@ -239,16 +249,6 @@
       "language": "Bangla",
       "description": "Green TV is a Bangladeshi television channel offering a variety of programs including news, talk shows, lifestyle content, drama series, and cultural shows. The channel provides live updates on national and international events while showcasing content that reflects Bangladeshi culture, traditions, and values.",
       "added_date": "2025-12-19"
-    },
-    {
-      "id": 98,
-      "name": "Sony TV (SET)",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihCDl_YHooFMZ6_XKc3PSlGC-eAKeQENyIFFjbQLOPw23y1u9sJrGU2DuoMSz6d1rN4ufGb8OWAwAyjaxU2rnqXFo10HvS8aKOzRyEXBCEcjvgzAELcVbKWG0JL-Knvq4x5ZWG2q-5tDE88eP8EbSzRs7q8efVXKpGc8wJwABLNJzwHZt-2AoZ4lyIRw/s600/Nur_20251222_155901_0000.png",
-      "stream_url": "https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8",
-      "category": "ENTERTAINMENT",
-      "language": "Hindi",
-      "description": "Sony Entertainment TV is a popular Indian Hindi-language entertainment channel offering a wide range of programs including drama series, reality shows, game shows, and family-oriented content. The channel is known for its engaging storytelling, high-quality productions, and diverse programming that appeals to audiences of all ages.",
-      "added_date": "2025-12-22"
     },
     {
       "id": 100,

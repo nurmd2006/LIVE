@@ -9,14 +9,14 @@
   "ad_images": [],
   "channels": [
     {
-      "id": 35,
-      "name": "Ananda TV",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2RNLiL4qhYEVawGUat1HjjDb693C2K8hUpM7xLiuYciPmjwIQ5j7TIevtcnsHdjGBLIZZJbFTAc4nRoys3vyN-IeEiParo1SNH19m-1IbWG9RPRcW_VoPdSDNfNlFD4NWrKoONwxhgYJuLUzaTQ-LpDoQuqyOMx6meiH7QStygj_kx_Yrs17Dz62ccw/s600/Nur_20251216_221801_0000.png",
-      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8",
-      "category": "MOVIES",
+      "id": 85,
+      "name": "Sony Aath",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgktJAGGIfEildMH1tn_0ygd9fed8QCpJuk0cR9IYjeHsQcTLch6tmGTw4b53x_9Nw53sGHcNRXbvHSrskujpP3mFcJd1h_bXOb41B9kGNUqwDH5Xm8UVNghDBKipzRqr8IWBA2iGugnRqL0lL6p2HV3x4Y94VJdVnBnz9FL6vTXRD2hiybsV9bbnV_zA/s600/Nur_20251222_155327_0000.png",
+      "stream_url": "https://m.mxonlive.xyz/live/16559/toffeex/stream.php/xi6xX5UBv9knK3AH9aMk.m3u8",
+      "category": "KIDS",
       "language": "Bangla",
-      "description": "Ananda TV is a popular Bangladeshi entertainment television channel that offers a wide range of programs including drama serials, movies, music shows, talk shows, lifestyle programs, and special events. The channel focuses on delivering enjoyable and family-friendly entertainment for viewers of all ages. Known for its engaging content and vibrant presentation, Ananda TV reflects contemporary Bangladeshi culture and entertainment trends. Through its diverse programming and lively broadcasts, the channel provides audiences with fun, relaxation, and quality entertainment experiences.",
-      "added_date": "2025-11-29"
+      "description": "Sony Aath is a popular Indian Bengali-language entertainment television channel featuring a wide range of programs such as drama serials, comedy shows, movies, reality programs, and cultural content. The channel is well known for its family-friendly entertainment and engaging storytelling that appeals to Bengali audiences of all age groups. Viewers can watch Sony Aath live on OUTFLANK TV, enjoying a smooth and high-quality streaming experience. With its mix of modern entertainment and traditional Bengali culture, Sony Aath remains a favorite choice for audiences looking for quality Bengali television content on a reliable streaming platform like OUTFLANK TV.",
+      "added_date": "2025-12-19"
     },
     {
       "id": 1,
@@ -286,6 +286,16 @@
       "category": "ISLAMIC",
       "language": "Bangla",
       "description": "Peace TV Bangla is an Islamic television channel dedicated to spreading the message of Islam through educational and inspirational programming in the Bangla language. The channel features Islamic lectures, Qur’anic discussions, comparative religion programs, and scholarly talks by renowned speakers and Islamic scholars. Peace TV Bangla aims to promote peace, understanding, and authentic knowledge of Islam among Bangla-speaking audiences worldwide. Through its informative and thought-provoking content, the channel encourages moral values, spiritual growth, and interfaith harmony, making it a valuable source of Islamic education and guidance.",
+      "added_date": "2025-11-29"
+    },
+    {
+      "id": 35,
+      "name": "Ananda TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2RNLiL4qhYEVawGUat1HjjDb693C2K8hUpM7xLiuYciPmjwIQ5j7TIevtcnsHdjGBLIZZJbFTAc4nRoys3vyN-IeEiParo1SNH19m-1IbWG9RPRcW_VoPdSDNfNlFD4NWrKoONwxhgYJuLUzaTQ-LpDoQuqyOMx6meiH7QStygj_kx_Yrs17Dz62ccw/s600/Nur_20251216_221801_0000.png",
+      "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8",
+      "category": "MOVIES",
+      "language": "Bangla",
+      "description": "Ananda TV is a popular Bangladeshi entertainment television channel that offers a wide range of programs including drama serials, movies, music shows, talk shows, lifestyle programs, and special events. The channel focuses on delivering enjoyable and family-friendly entertainment for viewers of all ages. Known for its engaging content and vibrant presentation, Ananda TV reflects contemporary Bangladeshi culture and entertainment trends. Through its diverse programming and lively broadcasts, the channel provides audiences with fun, relaxation, and quality entertainment experiences.",
       "added_date": "2025-11-29"
     },
     {

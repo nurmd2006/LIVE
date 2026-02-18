@@ -1,6 +1,26 @@
 {
   "channels": [
     {
+      "id": 114,
+      "name": "Show BOX",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5DuQpH5EdHc3UyUSvbEZFlYH7QuX2yg2-9aIM8wqzKbz9cLJlh57OSwo-Lhcc0yjg-gxMXXA-_ESHf93FvLxBZGx03T2dmpXK8YkNT-dSEm-PZaR-7zfK5MonkmuTut9pjmep6ijGVTjfLFPYuvVRcKoW25emiBArbqxEMFg4B3qcayezJJv7YwTFgw/s600/Nur_20251226_220859_0000.png",
+      "stream_url": "https://epiconvh.akamaized.net/live/showbox/master.m3u8",
+      "category": "MUSIC",
+      "language": "Hindi",
+      "description": "",
+      "added_date": "2025-12-24"
+    },
+    {
+      "id": 107,
+      "name": "Jhankar TV",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2LWHMLeQR_RCoxUGae5HTqqA7y7a-0A2IUfR6aNVjFPRHOa-iiP8Hv3HK_iTuJKpiUBPCNGgBSMmXPjbqprI3t2YeLf-_QhE1ZhafnGD6FEFxGXcw5g1yE2dz2TEhF7eXoTTpmcS4TlOd75ptLZEuJVdnTo2qCY_mxKm2wbpZL4QqudSaRat3I9Qphg/s600/Nur_20251226_221413_0000.png",
+      "stream_url": "https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8",
+      "category": "MUSIC",
+      "language": "Bangla",
+      "description": "Jhankar TV is a popular Bangladeshi music and entertainment channel featuring a wide range of programs including music shows, chartbusters, live performances, and special artist features. The channel provides nonstop entertainment for viewers who love contemporary Bengali music, classic hits, and vibrant musical programs. With engaging content, high-quality broadcasts, and diverse programming, Jhankar TV delivers an immersive musical experience for audiences of all ages. Enjoy the best of Bengali music and entertainment seamlessly on your screens with Outflank TV.",
+      "added_date": "2025-12-24"
+    },
+    {
       "id": 127,
       "name": "SATV",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_0QnjaJvezQpV3q84D2RZMusa4e51bPYguwV-qjnayyD95-JfuxCtWk_yzyO_I_gM8pmocXQxcaVCzO17zSZdJN-aSyH-qfvtE-Vfidjqo6vJ21IwmNFZzCYqdvBMyPrlK-3S362ErNmIY8eDqBE8TQOQw8fn3A0PNz6ZCKKrqlSZW8Rbptmj0Mn8A/s600/Nur_20251227_143914_0000.png",

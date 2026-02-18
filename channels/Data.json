@@ -1187,6 +1187,26 @@
       "language": "English",
       "description": "",
       "added_date": "2026-02-18"
+    },
+    {
+      "id": 161,
+      "name": "Sony BBC Earth",
+      "logo": "",
+      "stream_url": "https://m.mxonlive.xyz/live/16559/toffeex/stream.php/MC6C-JQBv9knK3AHUzUT.m3u8",
+      "category": "SCIENTIFIC",
+      "language": "English",
+      "description": "",
+      "added_date": "2026-02-18"
+    },
+    {
+      "id": 162,
+      "name": "Zee Action",
+      "logo": "",
+      "stream_url": "https://m.mxonlive.xyz/live/16559/toffeex/stream.php/Pc3RD5YBtpl-Sbt7doxr.m3u8",
+      "category": "MOVIES",
+      "language": "Hindi",
+      "description": "",
+      "added_date": "2026-02-18"
     }
   ]
 }

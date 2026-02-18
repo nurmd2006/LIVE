@@ -1217,6 +1217,26 @@
       "language": "Hindi",
       "description": "",
       "added_date": "2026-02-18"
+    },
+    {
+      "id": 164,
+      "name": "Sony Sports 1",
+      "logo": "",
+      "stream_url": "https://m.mxonlive.xyz/live/16559/toffeex/stream.php/py5j-JQBv9knK3AHxDTY.m3u8",
+      "category": "SPORTS",
+      "language": "English",
+      "description": "",
+      "added_date": "2026-02-18"
+    },
+    {
+      "id": 165,
+      "name": "Sony Sports 5",
+      "logo": "",
+      "stream_url": "https://m.mxonlive.xyz/live/16559/toffeex/stream.php/vi5n-JQBv9knK3AHqzTC.m3u8",
+      "category": "MUSIC",
+      "language": "English",
+      "description": "",
+      "added_date": "2026-02-18"
     }
   ]
 }
